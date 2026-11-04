@@ -234,9 +234,15 @@
       <div id="mtContent"></div>`;
     function renderMT(type) {
       let html = '';
+      // Extract year from text for sorting
+      function getYear(text) {
+        const m = text.match(/(18|19|20)\d{2}/);
+        return m ? parseInt(m[0]) : 9999;
+      }
       if (type === 'all' || type === 'meeting') {
         html += `<h3 style="margin:16px 0 12px;font-size:16px">📅 重要会议</h3><div class="timeline">`;
-        html += meetings.map(m => `
+        const sortedMeetings = [...meetings].sort((a, b) => getYear(a.name || a.content) - getYear(b.name || b.content));
+        html += sortedMeetings.map(m => `
           <div class="timeline-item">
             <h4>${esc(m.name || m.content)}</h4>
             <div class="sig">${esc(m.content)}</div>
@@ -246,7 +252,8 @@
       }
       if (type === 'all' || type === 'doc') {
         html += `<h3 style="margin:24px 0 12px;font-size:16px">📄 重要文献</h3><div class="timeline">`;
-        html += documents.map(d => `
+        const sortedDocs = [...documents].sort((a, b) => getYear(a.name || a.content) - getYear(b.name || b.content));
+        html += sortedDocs.map(d => `
           <div class="timeline-item">
             <h4>${esc(d.name || d.content)}</h4>
             <div class="sig">${esc(d.content)}</div>
