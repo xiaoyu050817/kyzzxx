@@ -238,11 +238,9 @@
         html += `<h3 style="margin:16px 0 12px;font-size:16px">📅 重要会议</h3><div class="timeline">`;
         html += meetings.map(m => `
           <div class="timeline-item">
-            <span class="timeline-year">${m.year}</span>
-            <h4>${esc(m.name)}</h4>
-            <span class="loc">📍 ${esc(m.location)}</span>
-            <div class="sig">${esc(m.significance)}</div>
-            <div class="keys">${m.key_points.map(k => `<span class="badge badge-confuse" style="margin-right:4px">${esc(k)}</span>`).join('')}</div>
+            <h4>${esc(m.name || m.content)}</h4>
+            <div class="sig">${esc(m.content)}</div>
+            <div class="keys">${(m.keywords || []).map(k => `<span class="badge badge-confuse" style="margin-right:4px">${esc(k)}</span>`).join('')}</div>
           </div>`).join('');
         html += `</div>`;
       }
@@ -250,10 +248,8 @@
         html += `<h3 style="margin:24px 0 12px;font-size:16px">📄 重要文献</h3><div class="timeline">`;
         html += documents.map(d => `
           <div class="timeline-item">
-            <span class="timeline-year" style="background:var(--success)">${d.year || '—'}</span>
-            <h4>${esc(d.name)}</h4>
-            <span class="loc">📍 ${esc(d.era)}</span>
-            <div class="sig">${esc(d.significance)}</div>
+            <h4>${esc(d.name || d.content)}</h4>
+            <div class="sig">${esc(d.content)}</div>
           </div>`).join('');
         html += `</div>`;
       }
