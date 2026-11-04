@@ -133,6 +133,13 @@ button { cursor: pointer; font-family: inherit; }
 .badge-subject { background: #eef2ff; color: var(--primary); }
 .badge-chapter { background: #f1f5f9; color: var(--text-muted); }
 .badge-confuse { background: #fef2f2; color: var(--danger); }
+.badge-highlight { background: #fff7ed; color: #ea580c; border: 1px solid #fed7aa; }
+.point-highlight {
+  background: linear-gradient(135deg, #fffbeb 0%, #ffffff 100%);
+  border-left: 3px solid #f59e0b;
+  box-shadow: 0 2px 8px rgba(245, 158, 11, 0.15);
+}
+.point-highlight .point-content { font-weight: 500; }
 .badge-kw {
   background: #f0fdf4; color: #16a34a; cursor: pointer;
   font-size: 11px; padding: 2px 8px; border-radius: 10px; display: inline-block; margin: 2px;
