@@ -1,50 +1,42 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>考研政治学习系统 · 知识点题库与速记</title>
-<link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>考研词汇本 · 记单词</title>
+  <link rel="stylesheet" href="https://miaoda.feishu.cn/fonts/css2?family=Spectral:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;700;900&family=Noto+Sans+SC:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="topbar">
-  <div class="topbar-inner">
-    <button class="hamburger" id="menuBtn" aria-label="菜单">☰</button>
-    <h1 class="logo">📚 考研政治学习系统</h1>
-    <div class="search-box">
-      <input type="search" id="globalSearch" placeholder="搜索知识点、关键词、会议..." autocomplete="off">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <button class="brand" data-go="#/home" aria-label="返回首页">
+        <span class="brand-mark">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        </span>
+        <span>
+          <span class="brand-name">考研词汇本</span><br>
+          <span class="brand-sub">KAOYAN VOCAB</span>
+        </span>
+      </button>
+      <nav class="nav">
+        <button class="nav-btn" id="nav-home" data-go="#/home">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>
+          首页
+        </button>
+        <button class="nav-btn" id="nav-review" data-go="#/review">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.1 8.6 22 9.3 17 14 18.3 21 12 17.5 5.7 21 7 14 2 9.3 8.9 8.6 12 2"/></svg>
+          生词本
+        </button>
+      </nav>
     </div>
-  </div>
-</header>
+  </header>
 
-<nav class="sidebar" id="sidebar">
-  <div class="nav-section">
-    <div class="nav-title">导航</div>
-    <a href="#/home" class="nav-item active" data-view="home">🏠 首页概览</a>
-    <a href="#/subjects" class="nav-item" data-view="subjects">📖 按科目学习</a>
-    <a href="#/keywords" class="nav-item" data-view="keywords">🏷️ 按关键词</a>
-    <a href="#/confuse" class="nav-item" data-view="confuse">⚠️ 易错易混点</a>
-    <a href="#/meetings" class="nav-item" data-view="meetings">🏛️ 会议与文件</a>
-    <a href="#/flashcard" class="nav-item" data-view="flashcard">⚡ 速记卡片</a>
-    <a href="#/quiz" class="nav-item" data-view="quiz">✍️ 刷题模式</a>
-  </div>
-  <div class="nav-section">
-    <div class="nav-title">科目快捷</div>
-    <div id="subjectShortcuts"></div>
-  </div>
-  <div class="sidebar-footer">
-    <div class="stat-mini" id="statMini"></div>
-  </div>
-</nav>
-<div class="overlay" id="overlay"></div>
+  <main class="app">
+    <div class="view" id="view"></div>
+  </main>
 
-<main class="main" id="main">
-  <!-- Views injected here -->
-</main>
-
-<div class="toast" id="toast"></div>
-
-<script src="data.js"></script>
-<script src="app.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
