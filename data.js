@@ -1,1 +1,11204 @@
-window.VOCAB_DATA = {"gaotu":[{"name":"List 1","words":[{"index":1,"word":"paragraph","definition":"n.段，段落"},{"index":2,"word":"system","definition":"n.系统，体系；制度，体制"},{"index":3,"word":"economic","definition":"a.经济（上）的，经济学的"},{"index":4,"word":"economy","definition":"n.经济，经济结构；经济体；节约"},{"index":5,"word":"economist","definition":"n.经济学家"},{"index":6,"word":"economics","definition":"n.经济学，经济情况"},{"index":7,"word":"technology","definition":"n.工艺，技术"},{"index":8,"word":"technological","definition":"a.科技的，技术的"},{"index":9,"word":"power","definition":"n.力，能力，精力；功率，动力，电力；[数学]幂，乘方；权力，势力，政权"},{"index":10,"word":"powerful","definition":"a.强大的，有力的，有权的"},{"index":11,"word":"court","definition":"n.法院，法庭；宫廷，朝廷；院子；球场"},{"index":12,"word":"researcher","definition":"n.研究人员"},{"index":13,"word":"datum","definition":"n.数据，材料"},{"index":14,"word":"federal","definition":"a.联邦的"},{"index":15,"word":"medium","definition":"n.中间，适中；媒介物，介质，传导体（pl.media）a.中等的，适中的"},{"index":16,"word":"view","definition":"n.景象，风景；视点，见解；观察，观看；眼界v.看待，观察，考虑"},{"index":17,"word":"viewpoint","definition":"n.观点"},{"index":18,"word":"likely","definition":"a.很可能的，有希望的ad.大概，多半"},{"index":19,"word":"unlikely","definition":"a.未必的，靠不住的"},{"index":20,"word":"influence","definition":"n.影响，感化；势力，权势v.影响，感化"},{"index":21,"word":"influential","definition":"a.有影响的；有权势的"},{"index":22,"word":"issue","definition":"v.流出，放出；发行，发表，颁布n.发行（物），（报刊）期号；问题，争端"},{"index":23,"word":"effect","definition":"n.作用，影响；结果；效果，效力v.产生，招致"},{"index":24,"word":"effective","definition":"a.有效的，生效的"},{"index":25,"word":"effectively","definition":"ad.有效地；实际上"},{"index":26,"word":"ineffective","definition":"a.无效的，未达到预期效果的"},{"index":27,"word":"product","definition":"n.产品，产物"},{"index":28,"word":"production","definition":"n.生产，产量；产品，作品"},{"index":29,"word":"productivity","definition":"n.生产率"},{"index":30,"word":"byproduct","definition":"n.副产品；意外收获；附带的结果"}]},{"name":"List 2","words":[{"index":1,"word":"case","definition":"n.箱，盒，容器；情况，事实；病例；案件"},{"index":2,"word":"concern","definition":"v.涉及；让（某人）担忧n.担心；关心，挂念；重要的事情，（利害）关系"},{"index":3,"word":"percent","definition":"n.百分之……"},{"index":4,"word":"percentage","definition":"n.百分比"},{"index":5,"word":"firm","definition":"a.坚固的；坚决的，坚定的；稳固的n.公司，商号"},{"index":6,"word":"confirm","definition":"v.使更坚固，使更坚定；（进一步）证实；确认，批准"},{"index":7,"word":"political","definition":"a.政治的"},{"index":8,"word":"politics","definition":"n.政治，政治学；政纲，政见"},{"index":9,"word":"politician","definition":"n.政治家，政客"},{"index":10,"word":"politically","definition":"ad.政治上"},{"index":11,"word":"process","definition":"n.过程，进程；工序，制作法；工艺v.加工，处理"},{"index":12,"word":"policy","definition":"n.政策，方针"},{"index":13,"word":"policymaker","definition":"n.政策制定者"},{"index":14,"word":"industry","definition":"n.工业，产业；勤劳，勤奋"},{"index":15,"word":"industrial","definition":"a.工业的，产业的"},{"index":16,"word":"measure","definition":"v.量，测量n.尺寸，大小；[常pl.]措施，办法"},{"index":17,"word":"stress","definition":"n.压力，应力；重音v.强调，着重"},{"index":18,"word":"distress","definition":"n.苦恼；危难；不幸v.使苦恼"},{"index":19,"word":"financial","definition":"a.财政的，金融的"},{"index":20,"word":"finance","definition":"n.财政，金融v.为……提供资金"},{"index":21,"word":"financially","definition":"ad.经济上，财政上，金融上"},{"index":22,"word":"consumer","definition":"n.消费者"},{"index":23,"word":"consume","definition":"v.消费，消耗，耗尽"},{"index":24,"word":"consumption","definition":"n.消费（量），消耗"},{"index":25,"word":"average","definition":"n.平均（数）a.平均的；通常的，一般的v.平均，均分"},{"index":26,"word":"generation","definition":"n.产生，发生；一代（人）"},{"index":27,"word":"generate","definition":"v.产生，发生"},{"index":28,"word":"focus","definition":"n.焦点，（活动、兴趣等的）中心v.使聚集"},{"index":29,"word":"benefit","definition":"n.利益，好处，恩惠v.有益于；受益"},{"index":30,"word":"support","definition":"v.支撑；支持；拥护；供养，维持n.支撑者，支撑物；支撑，支持"},{"index":31,"word":"supportive","definition":"a.给予支持的，给予帮助的"},{"index":32,"word":"supporter","definition":"n.支持者，拥护者；球迷"}]},{"name":"List 3","words":[{"index":1,"word":"individual","definition":"a.个人的，单独的；独特的n.个人，个体"},{"index":2,"word":"publish","definition":"v.出版，刊印；公布，发布"},{"index":3,"word":"publisher","definition":"n.出版者；出版商；出版社"},{"index":4,"word":"argue","definition":"v.争论，辩论；主张，论证；说服"},{"index":5,"word":"argument","definition":"n.争论，辩论；论据，论点"},{"index":6,"word":"growth","definition":"n.生长，增长，发展"},{"index":7,"word":"fund","definition":"n.资金，基金"},{"index":8,"word":"fundamental","definition":"a.基础的，基本的n.［pl.］基本原则，基本原理"},{"index":9,"word":"fundamentally","definition":"ad.从根本上"},{"index":10,"word":"rate","definition":"n.速率，比率；等级；价格，费用v.估价；评级，评价"},{"index":11,"word":"tend","definition":"v.趋向，往往是；照料，看护"},{"index":12,"word":"tendency","definition":"n.趋向，趋势"},{"index":13,"word":"limit","definition":"n.界限，限度，范围v.（to）限制，限定"},{"index":14,"word":"involve","definition":"v.卷入，陷入，连累；包含，含有，涉及"},{"index":15,"word":"risk","definition":"v.冒……的危险n.冒险；风险"},{"index":16,"word":"demand","definition":"n.要求，请求，需要（量）v.要求，请求，查问"},{"index":17,"word":"reduce","definition":"v.减少，缩小；简化，还原"},{"index":18,"word":"reduction","definition":"n.减少，减价"},{"index":19,"word":"patent","definition":"a.专利的，特许的；明显的n.专利，专利品，专利权v.批准专利，获得专利"},{"index":20,"word":"scientific","definition":"a.科学的"},{"index":21,"word":"cause","definition":"n.原因，理由；事业，事件，奋斗目标v.使产生，引起"},{"index":22,"word":"tax","definition":"n.税（款），负担v.对……征税，使负重担"},{"index":23,"word":"taxpayer","definition":"n.纳税人"},{"index":24,"word":"challenge","definition":"n.挑战（书）；艰巨任务，难题v.向……挑战"},{"index":25,"word":"base","definition":"n.基础，底部；基地，根据地v.（on）把……基于，以……为根据"},{"index":26,"word":"database","definition":"n.（databank）数据库"},{"index":27,"word":"baseline","definition":"n.基础，基准，基线"},{"index":28,"word":"fashion","definition":"n.流行式样（或货品），风尚，风气；样子，方式"},{"index":29,"word":"pressure","definition":"n.压（力）；强制，压迫，压强v.压，按；压榨，压迫；紧迫，催促，逼迫n.报刊，出版社，通讯社；压榨机，压"},{"index":30,"word":"press","definition":"力机；压，按"}]},{"name":"List 4","words":[{"index":1,"word":"million","definition":"num./n.百万，百万个"},{"index":2,"word":"billion","definition":"num.十亿"},{"index":3,"word":"digital","definition":"a.数字的"},{"index":4,"word":"community","definition":"n.同一地区的全体居民，社会，社区；共同体"},{"index":5,"word":"happiness","definition":"n.幸福；快乐"},{"index":6,"word":"design","definition":"v.设计，构思，绘制n.设计，图样"},{"index":7,"word":"designer","definition":"n.设计师"},{"index":8,"word":"online","definition":"a./ad.网上（的），在线（的）；联机（的）a.（较）大的，（较）重要的n.专业，主修科目；专业学生；少校v.（in）主修，"},{"index":9,"word":"major","definition":"专攻"},{"index":10,"word":"majority","definition":"n.多数，大多数"},{"index":11,"word":"title","definition":"n.书名，标题；头衔，称号"},{"index":12,"word":"entitle","definition":"v.给以权利（或资格）；给……以称号；给……题名"},{"index":13,"word":"define","definition":"v.给……下定义；限定，规定"},{"index":14,"word":"definition","definition":"n.定义，解释"},{"index":15,"word":"goal","definition":"n.目的，目标；守门员，球门；进球"},{"index":16,"word":"claim","definition":"v.要求；声称，主张；索赔n.要求；主张，断言；索赔；权利，要求权，所有权"},{"index":17,"word":"disclaim","definition":"v.拒绝承认，否认〔对某事的负责、知情等〕"},{"index":18,"word":"account","definition":"n.账（目，户）；叙述，说明v.说明，解释"},{"index":19,"word":"accountable","definition":"a.对〔自己的行动〕负有责任的，有解释义务的"},{"index":20,"word":"opportunity","definition":"n.机会"},{"index":21,"word":"practice","definition":"n.练习，实习；实践，实际；业务，开业"},{"index":22,"word":"practical","definition":"a.实际的，实用的"},{"index":23,"word":"access","definition":"n.接近，进入；入口，通路；接近（或进入）的方法"},{"index":24,"word":"opinion","definition":"n.意见，看法，主张"},{"index":25,"word":"attitude","definition":"n.（to，towards）态度，看法；姿势"},{"index":26,"word":"decade","definition":"n.十年"},{"index":27,"word":"journal","definition":"n.定期刊物，杂志，日报；日志，日记"},{"index":28,"word":"journalist","definition":"n.记者，新闻工作者"},{"index":29,"word":"journalism","definition":"n.新闻工作"},{"index":30,"word":"journalistic","definition":"a.新闻业的，新闻工作的"}]},{"name":"List 5","words":[{"index":1,"word":"intelligence","definition":"n.智力，聪明；理解力；情报；消息，信息"},{"index":2,"word":"intelligent","definition":"a.聪明的，明智的"},{"index":3,"word":"intellectual","definition":"a.智力的，脑力的，知识的n.知识分子"},{"index":4,"word":"intellect","definition":"n.智力，领悟力，理解力"},{"index":5,"word":"justice","definition":"n.公正，公平；审判，司法"},{"index":6,"word":"justify","definition":"v.证明……是正当的，认为有理"},{"index":7,"word":"justification","definition":"n.正当的理由"},{"index":8,"word":"unite","definition":"v.联合，团结；统一，合并"},{"index":9,"word":"unity","definition":"n.团结；统一，一致，整体"},{"index":10,"word":"approach","definition":"v.靠近，接近，邻近n.方法，途径；探讨"},{"index":11,"word":"gap","definition":"n.间隙，缺口"},{"index":12,"word":"peer","definition":"n.同辈；同等地位的人v.注视，凝视"},{"index":13,"word":"evidence","definition":"n.根据，证据；形迹，迹象"},{"index":14,"word":"evident","definition":"a.明显的，明白的"},{"index":15,"word":"security","definition":"n.安全"},{"index":16,"word":"secure","definition":"a.（from，against）安全的，可靠的，放心的v.得到，获得；防护，保卫"},{"index":17,"word":"insecurity","definition":"n.缺乏信心，惶恐不安；不稳定"},{"index":18,"word":"behaviour","definition":"n.行为，举止；（机器的）特性"},{"index":19,"word":"behavioral","definition":"a.行为上的"},{"index":20,"word":"behave","definition":"v.举止，举动，表现；运转，开动"},{"index":21,"word":"legal","definition":"a.法律的，法定的；合法的，正当的"},{"index":22,"word":"illegal","definition":"a.不合法的，非法的"},{"index":23,"word":"legally","definition":"ad.合法地；法律上地"},{"index":24,"word":"impact","definition":"n./v.冲击，碰撞；效果，影响"},{"index":25,"word":"condition","definition":"n.状况，状态；环境，形势，条件；健康状况"},{"index":26,"word":"mental","definition":"a.精神的，智力的"},{"index":27,"word":"customer","definition":"n.顾客，主顾"},{"index":28,"word":"custom","definition":"n.习惯，风俗，惯例；［pl.］海关，关税"},{"index":29,"word":"figure","definition":"n.体形；数字；图形；人物v.（out）算出，估计，推测"},{"index":30,"word":"generally","definition":"ad.通常，一般地；普遍地，广泛地"}]},{"name":"List 6","words":[{"index":1,"word":"survey","definition":"n./v.俯瞰，眺望；全面审视，调查；测量图，勘定"},{"index":2,"word":"site","definition":"n.位置，场所，地点"},{"index":3,"word":"website","definition":"n.网址，网站"},{"index":4,"word":"union","definition":"n.协会，工会，同盟；联合，合并；一致，融洽"},{"index":5,"word":"loss","definition":"n.丢失；遗失，丧失；损失，亏损"},{"index":6,"word":"image","definition":"n.形象；肖像，影像，映象"},{"index":7,"word":"imagination","definition":"n.想象，空想，想象力"},{"index":8,"word":"profit","definition":"n.利润，收益，益处v.得利，获益；利用；有利于"},{"index":9,"word":"profitable","definition":"a.有利可图的，有益的"},{"index":10,"word":"promote","definition":"v.促进，发扬；提升，提拔；增进，助长"},{"index":11,"word":"promotion","definition":"n.提升，晋升；推广，宣传"},{"index":12,"word":"executive","definition":"n.总经理，董事，行政负责人a.执行的，实施的"},{"index":13,"word":"sector","definition":"n.部门，部分；防御地段，防区；扇形"},{"index":14,"word":"physical","definition":"a.物质的，有形的；肉体的，身体的；自然科学的，物理的"},{"index":15,"word":"infer","definition":"v.推论，推断"},{"index":16,"word":"global","definition":"a.全球的，世界的"},{"index":17,"word":"globalization","definition":"n.全球化，全世界化"},{"index":18,"word":"sign","definition":"n.标记，符号，招牌；征兆，迹象v.签名（于），署名（于）"},{"index":19,"word":"signal","definition":"n.信号，暗号v.发信号，用信号通知"},{"index":20,"word":"decline","definition":"v./n.下倾，下降，衰落；斜面，倾斜v.拒绝，谢绝n.（大学）毕业生，获（学士）学位者v.（使）（大学）毕业；获学位a.毕了业的；"},{"index":21,"word":"graduate","definition":"研究生的"},{"index":22,"word":"undergraduate","definition":"n.大学生，大学肆业生"},{"index":23,"word":"graduation","definition":"n.大学毕业；〔美国的〕高中毕业"},{"index":24,"word":"postgraduate","definition":"n.研究生"},{"index":25,"word":"professor","definition":"n.教授"},{"index":26,"word":"professional","definition":"a.职业的，专业的，专门的n.自由职业者，专业人员"},{"index":27,"word":"profession","definition":"n.职业，自由职业"},{"index":28,"word":"corporate","definition":"a.社团的；法人的；共同的；全体的"},{"index":29,"word":"corporation","definition":"n.公司，企业，团体"},{"index":30,"word":"seek","definition":"v.（after,for）寻找，探索；试图，企图"},{"index":31,"word":"jobseeker","definition":"n.求职者"},{"index":32,"word":"jobless","definition":"a.失业的，无工作的"}]},{"name":"List 7","words":[{"index":1,"word":"quality","definition":"n.质量，品质，特性"},{"index":2,"word":"earn","definition":"v.赚得，挣得，获得"},{"index":3,"word":"apply","definition":"v.（for）申请，请求；（to）适用，应用，运用"},{"index":4,"word":"applicant","definition":"n.申请人"},{"index":5,"word":"local","definition":"a.地方的，本地的；局部的"},{"index":6,"word":"factor","definition":"n.因素，要素"},{"index":7,"word":"simply","definition":"ad.简单地；完全，简直；仅仅，只不过；朴素地"},{"index":8,"word":"simplify","definition":"v.简化，使单纯"},{"index":9,"word":"lack","definition":"n./v.缺乏，不足"},{"index":10,"word":"career","definition":"n.生涯，经历；专业，职业"},{"index":11,"word":"advance","definition":"v.前进，进展；推进，促进；提出（建议等）；提前n.前进，进展；预付，预支"},{"index":12,"word":"organization","definition":"n.组织体制；团体，机构"},{"index":13,"word":"organize","definition":"v.组织，安排"},{"index":14,"word":"moral","definition":"a.道德（上）的，道义的n.寓意，教育意义"},{"index":15,"word":"source","definition":"n.源，源泉；来源，出处"},{"index":16,"word":"resource","definition":"n.[pl.]资源，财力；办法，智谋；应变之才"},{"index":17,"word":"jury","definition":"n.陪审团；全体评审员"},{"index":18,"word":"juror","definition":"n.陪审员，陪审团成员"},{"index":19,"word":"official","definition":"n.官员，行政官员a.官员的，官方的，正式的，公务的"},{"index":20,"word":"current","definition":"n.电流，水流，气流；潮流，趋势a.当前的，现在的；通用的，流行的"},{"index":21,"word":"currently","definition":"ad.当前"},{"index":22,"word":"currency","definition":"n.通货，货币"},{"index":23,"word":"reader","definition":"n.读者；读物，读本"},{"index":24,"word":"negative","definition":"a.否定的，消极的，反面的，负的，阴性的n.负数；（摄影）底片a.确实的，明确的；积极的，肯定的；正的，阳性的；十足的，完全的n.（摄影）"},{"index":25,"word":"positive","definition":"正片"},{"index":26,"word":"positively","definition":"ad.确实，非常；赞同地"},{"index":27,"word":"balance","definition":"v.称，（使）平衡n.天平，秤；平衡，均衡；差额，结余"},{"index":28,"word":"lawyer","definition":"n.律师"},{"index":29,"word":"performance","definition":"n.履行，执行；表演，演出；性能，特性"},{"index":30,"word":"perform","definition":"v.履行，执行，做，完成；表演，演出"},{"index":31,"word":"performer","definition":"n.表演者"}]},{"name":"List 8","words":[{"index":1,"word":"nation","definition":"n.国家；民族；国民"},{"index":2,"word":"nationwide","definition":"a.全国范围的，全国性的"},{"index":3,"word":"response","definition":"n.响应；反应；答复"},{"index":4,"word":"respond","definition":"v.回答，答复；响应"},{"index":5,"word":"trend","definition":"n.趋势，倾向"},{"index":6,"word":"potential","definition":"a.潜在的；可能的n.潜力；可能性；电位；电势"},{"index":7,"word":"ensure","definition":"v.确保；保证；担保"},{"index":8,"word":"usually","definition":"ad.通常；一般；常常"},{"index":9,"word":"unusual","definition":"a.不平常的，与众不同的"},{"index":10,"word":"significant","definition":"a.有重大意义的；显著的"},{"index":11,"word":"significance","definition":"n.意义，含义；重要性，重大"},{"index":12,"word":"signify","definition":"v.表示，意味；要紧，有重要性"},{"index":13,"word":"adult","definition":"a.成年的；成熟的；理智的；成人的n.成人"},{"index":14,"word":"adulthood","definition":"n.成年"},{"index":15,"word":"reform","definition":"v./n.改革；改进，改良"},{"index":16,"word":"identify","definition":"v.鉴定；确认；发现；找到"},{"index":17,"word":"identity","definition":"n.身份；本体；特征；同一（性）；一致"},{"index":18,"word":"investment","definition":"n.投资；投资额；投资物；值得买的东西"},{"index":19,"word":"invest","definition":"v.投资"},{"index":20,"word":"investor","definition":"n.投资者；出资者"},{"index":21,"word":"responsibility","definition":"n.责任；负责；义务"},{"index":22,"word":"responsible","definition":"a.(for，to)应负责的，有责任的；可靠的，可信赖的；责任重大的，重要的"},{"index":23,"word":"affect","definition":"v.影响；感染；感动；假装"},{"index":24,"word":"relate","definition":"v.把……联系起来；使有联系；讲述"},{"index":25,"word":"relationship","definition":"n.关系，联系"},{"index":26,"word":"relative","definition":"a.相对的，比较的；有关系的，相关的"},{"index":27,"word":"relatively","definition":"ad.相对地；相当程度上，相当地"},{"index":28,"word":"correlate","definition":"n.相互关联的事物v.（使）互相关联"},{"index":29,"word":"correlation","definition":"n.〔两事物的〕相互关系；关联"},{"index":30,"word":"unrelated","definition":"a.不相关的；无关的"}]},{"name":"List 9","words":[{"index":1,"word":"favour","definition":"n.恩惠，帮助；好感，喜爱v.赞成，支持，偏爱，偏袒"},{"index":2,"word":"favorite","definition":"n.最喜欢的人或物a.特别喜欢的，中意的"},{"index":3,"word":"favoritism","definition":"n.偏爱，偏袒"},{"index":4,"word":"actually","definition":"ad.实际上；真实地"},{"index":5,"word":"actual","definition":"a.实际的，现实的"},{"index":6,"word":"competition","definition":"n.比赛；竞争"},{"index":7,"word":"compete","definition":"v.比赛；竞争"},{"index":8,"word":"competitive","definition":"a.竞争的，比赛的"},{"index":9,"word":"competitor","definition":"n.竞争者；参赛者"},{"index":10,"word":"competent","definition":"a.有能力的，胜任的"},{"index":11,"word":"humanity","definition":"n.人类，人性，人情；[pl.]人文科学"},{"index":12,"word":"reveal","definition":"v.显示；表明；揭露"},{"index":13,"word":"commission","definition":"n.委员会；委任，委托（书），代办；佣金，手续费"},{"index":14,"word":"department","definition":"n.部，局，处，科，部门；系，学部"},{"index":15,"word":"departure","definition":"n.离开，起程"},{"index":16,"word":"depart","definition":"v.离开，起程"},{"index":17,"word":"event","definition":"n.事件，事情"},{"index":18,"word":"available","definition":"a.可用的，可得到的；可以见到的，随时可来的"},{"index":19,"word":"availability","definition":"n.可利用，可用性，可得到"},{"index":20,"word":"feature","definition":"n.特征，特色；特写"},{"index":21,"word":"immigrant","definition":"a.（从国外）移来的，移民的n.移民，侨民"},{"index":22,"word":"immigration","definition":"n.移居，移民入境"},{"index":23,"word":"agency","definition":"n.代理（处），代办处"},{"index":24,"word":"agent","definition":"n.代理商（人），代表"},{"index":25,"word":"associate","definition":"v.使联系，使联合；交往，结合n.合作人，伙伴，同事，同行a.副的"},{"index":26,"word":"association","definition":"n.协会，团体；联合，联系，交往；联想"},{"index":27,"word":"increasingly","definition":"ad.不断增加地，日益"},{"index":28,"word":"judge","definition":"n.法官，审判员；裁判员，鉴定人v.审判，判决；评定，裁判；断定，判断"},{"index":29,"word":"judgement","definition":"n.判断力；评价，意见；判决"},{"index":30,"word":"recently","definition":"ad.最近地，不久前"}]},{"name":"List 10","words":[{"index":1,"word":"detail","definition":"n.细节，详情v.详述"},{"index":2,"word":"theory","definition":"n.理论，原理；学说，见解，看法"},{"index":3,"word":"institution","definition":"n.公共机构，协会，学校；制度，惯例"},{"index":4,"word":"institute","definition":"n.学会，研究所；学院v.设立，设置，制定"},{"index":5,"word":"revenue","definition":"n.财政收入，税收"},{"index":6,"word":"exist","definition":"v.存在；生活"},{"index":7,"word":"existence","definition":"n.存在，实在；生存，生活（方式）"},{"index":8,"word":"conduct","definition":"n.行为，举动，品行v.引导，带领；实施，安排；指挥（乐队）；传导"},{"index":9,"word":"supreme","definition":"a.极度的，最重要的；至高的，最高的"},{"index":10,"word":"largely","definition":"ad.主要地，基本上；大量地，大规模地"},{"index":11,"word":"particular","definition":"a.特殊的，特别的；特定的，个别的n.[常pl.]详情，细目"},{"index":12,"word":"particularly","definition":"ad.格外地；尤其"},{"index":13,"word":"threat","definition":"n.恐吓，威胁；坏兆头，危险迹象"},{"index":14,"word":"threaten","definition":"v.恐吓，威胁；有……危险，快要来临"},{"index":15,"word":"due","definition":"a.（to）应支付的；（车、船等）预定应到达的；应有的"},{"index":16,"word":"advertise","definition":"v.做广告"},{"index":17,"word":"advertiser","definition":"n.广告商，广告人员"},{"index":18,"word":"management","definition":"n.经营，管理；管理部门"},{"index":19,"word":"style","definition":"n.风格，文体；式样，时式，类型"},{"index":20,"word":"lifestyle","definition":"n.生活方式"},{"index":21,"word":"stylish","definition":"a.时髦的，入时的"},{"index":22,"word":"stylist","definition":"n.发型师，造型师，设计师；文体家"},{"index":23,"word":"gene","definition":"n.基因"},{"index":24,"word":"genetic","definition":"a.遗传(学)的n.[-s]遗传学"},{"index":25,"word":"genetically","definition":"ad.遗传上地，从基因方面"},{"index":26,"word":"function","definition":"n.功能，作用；[pl.]职务，职责；函数v.起作用"},{"index":27,"word":"publication","definition":"n.出版物；出版，发行；公布，发表"},{"index":28,"word":"publicly","definition":"ad.公开地；公众地"},{"index":29,"word":"income","definition":"n.收入，收益，所得"},{"index":30,"word":"outcome","definition":"n.结果，成果"},{"index":31,"word":"overcome","definition":"v.战胜，克服"}]},{"name":"List 11","words":[{"index":1,"word":"respect","definition":"v.尊敬，尊重n.尊敬，尊重；[pl.]敬意，问候"},{"index":2,"word":"respectable","definition":"a.受人尊敬的；体面的"},{"index":3,"word":"reality","definition":"n.现实，实际；真实"},{"index":4,"word":"realistic","definition":"a.现实（主义）的"},{"index":5,"word":"unrealistic","definition":"a.非现实的，不切实际的"},{"index":6,"word":"ignore","definition":"v.不理，不顾，忽视"},{"index":7,"word":"ignorant","definition":"a.无知的，愚昧的；不知道的"},{"index":8,"word":"consequence","definition":"n.结果，后果，影响；重要性"},{"index":9,"word":"consequently","definition":"ad.因此，所以"},{"index":10,"word":"contribute","definition":"v.贡献，捐助，捐献；促成；投稿"},{"index":11,"word":"contribution","definition":"n.贡献；捐献（物）"},{"index":12,"word":"contributory","definition":"a.起促成作用的"},{"index":13,"word":"maintain","definition":"v.维修，保养；维持，保持；坚持，主张，支持"},{"index":14,"word":"scale","definition":"n.刻度，标度；天平，磅秤；比例尺；规模；音阶；鱼鳞"},{"index":15,"word":"select","definition":"v.选择，挑选a.精选的，选择的"},{"index":16,"word":"selection","definition":"n.选择，挑选；选集，精选物"},{"index":17,"word":"selective","definition":"a.挑拣的，讲究的；选择性的"},{"index":18,"word":"expert","definition":"n.专家，能手a.熟练的，有经验的；专门的"},{"index":19,"word":"crisis","definition":"n.危机，紧要关头"},{"index":20,"word":"gender","definition":"n.（生理上的）性；（名词、代词等的）性"},{"index":21,"word":"insurance","definition":"n.保险，保险费，保险业"},{"index":22,"word":"link","definition":"v.连接，联系n.环节，链环"},{"index":23,"word":"project","definition":"n.方案，计划；工程，项目v.投射，放映；（使）凸出，（使）伸出；设计，规划"},{"index":24,"word":"landscape","definition":"n.（陆上）风景，景色；风景画"},{"index":25,"word":"asset","definition":"n.资产，财产；有价值的物品；天赋"},{"index":26,"word":"contact","definition":"v./n.（使）接触，联系，交往"},{"index":27,"word":"congress","definition":"n.（代表）大会；（美国等国的）国会，议会"},{"index":28,"word":"criticism","definition":"n.批评，评论"},{"index":29,"word":"critic","definition":"n.批评家，评论家"},{"index":30,"word":"critical","definition":"a.批评的，评论的；危急的，紧要的；临界的"},{"index":31,"word":"criticise","definition":"v.批评，评论"}]},{"name":"List 12","words":[{"index":1,"word":"authority","definition":"n.权力，威信；权威者，有权威性的典籍[pl.]当局，官方"},{"index":2,"word":"authorize","definition":"v.授权，批准，许可"},{"index":3,"word":"intend","definition":"v.想要，打算，企图"},{"index":4,"word":"importance","definition":"n.重要，重要性"},{"index":5,"word":"import","definition":"v.进口，输入n.进口，输入；[pl.]进口商品，进口物资；要旨，含意"},{"index":6,"word":"pattern","definition":"n.模式，式样；图案，图样v.仿制，模仿"},{"index":7,"word":"range","definition":"n.范围，距离，领域；排列，连续；（山）脉v.排列成行；包括"},{"index":8,"word":"arrangement","definition":"n.安排，筹划，准备：议定［商定］之事"},{"index":9,"word":"arrange","definition":"v.整理，排列，布置；安排，筹备"},{"index":10,"word":"grant","definition":"v.同意，准予；给予，授予n.授予物，（政府、机构的）拨款"},{"index":11,"word":"giant","definition":"n.巨人a.巨大的"},{"index":12,"word":"emotion","definition":"n.情绪，情感"},{"index":13,"word":"emotional","definition":"a.情绪激动的；动人的；情绪（上）的"},{"index":14,"word":"academic","definition":"a.学院的；学术的"},{"index":15,"word":"academy","definition":"n.学院"},{"index":16,"word":"replace","definition":"v.放回，替换，取代；归还"},{"index":17,"word":"species","definition":"n.（物）种，种类"},{"index":18,"word":"liberal","definition":"a.慷慨的，大方的；丰富的，富足的；自由的，思想开明的"},{"index":19,"word":"liberate","definition":"v.解放，释放"},{"index":20,"word":"content","definition":"n.容量，含量；内容，目录；满足，愿意a.满足的，愿意的v.使满意，使满足"},{"index":21,"word":"status","definition":"n.地位，身份；情形，状况"},{"index":22,"word":"conclude","definition":"v.结束，终止；断定，下结论；缔结，议定"},{"index":23,"word":"structure","definition":"n.结构，构造；建筑物v.构造，建造"},{"index":24,"word":"complex","definition":"a.复杂的；合成的，综合的n.联合体"},{"index":25,"word":"attempt","definition":"v.尝试，试图n.企图，努力"},{"index":26,"word":"emerge","definition":"v.浮现，出现"},{"index":27,"word":"emergence","definition":"n.出现，显现；（困境的）摆脱"},{"index":28,"word":"explore","definition":"v.勘探，探测；探究，探索"},{"index":29,"word":"exploration","definition":"n.勘探，探索；探究，研究"}]},{"name":"List 13","words":[{"index":1,"word":"colleague","definition":"n.同事，同僚"},{"index":2,"word":"purchase","definition":"v.买，购买n.购买的物品"},{"index":3,"word":"indeed","definition":"ad.确实，实在；真正地，多么"},{"index":4,"word":"struggle","definition":"n./v.斗争，奋斗，努力"},{"index":5,"word":"casino","definition":"n.赌场"},{"index":6,"word":"track","definition":"n.跑道，小路；轨迹，轮迹v.跟踪，追踪"},{"index":7,"word":"trace","definition":"n.痕迹，踪迹；极少量，微量v.描绘；跟踪，追踪"},{"index":8,"word":"network","definition":"n.网状物；广播网，电视网；网络"},{"index":9,"word":"character","definition":"n.性格，品质，特性；特征；人物，角色；字符，（汉）字"},{"index":10,"word":"characteristic","definition":"a.（of）特有的，独特的n.特征，特性"},{"index":11,"word":"characterise","definition":"v.表示……的特性；描述……特性"},{"index":12,"word":"belief","definition":"n.信仰，信条；相信，信念"},{"index":13,"word":"predict","definition":"v.预言，预测，预告"},{"index":14,"word":"prediction","definition":"n.预言，预测"},{"index":15,"word":"despite","definition":"prep.不管，不顾"},{"index":16,"word":"capacity","definition":"n.容量，容积；能量，能力；接受力"},{"index":17,"word":"capable","definition":"a.有本领的，有能力的；可以……的，能……的"},{"index":18,"word":"capability","definition":"n.性能；能力；才能"},{"index":19,"word":"material","definition":"n.材料，原料，资料a.物质的，实体的"},{"index":20,"word":"overall","definition":"a.全面的，综合的n.[pl.]（套头）工作服，工装裤"},{"index":21,"word":"solution","definition":"n.解答，解决办法；溶解，溶液"},{"index":22,"word":"solve","definition":"v.解决，解答"},{"index":23,"word":"resolve","definition":"v.解决（困难）"},{"index":24,"word":"flow","definition":"v.流，流动n.流量，流速"},{"index":25,"word":"payment","definition":"n.支付，付款额"},{"index":26,"word":"boost","definition":"n./v.提升；增加；抬高（价格）；帮助，支援"},{"index":27,"word":"shift","definition":"v.替换，转换；移动n.转换，转变；（轮）班，（换）班"},{"index":28,"word":"recession","definition":"n.撤回；退回；退后；衰退；不景气"},{"index":29,"word":"thus","definition":"ad.因而，从而；这样，如此"},{"index":30,"word":"gamble","definition":"n./v.投机，冒险；赌博"}]},{"name":"List 14","words":[{"index":1,"word":"charge","definition":"指责；电荷，负荷"},{"index":2,"word":"cultural","definition":"a.文化的"},{"index":3,"word":"agricultural","definition":"a.农业的"},{"index":4,"word":"indicate","definition":"v.指出，指示；表明，暗示"},{"index":5,"word":"indicator","definition":"n.指示物；指示者；〔车辆的〕转弯指示灯"},{"index":6,"word":"traditional","definition":"a.传统的；保守的"},{"index":7,"word":"tradition","definition":"n.传统；惯例"},{"index":8,"word":"traditionally","definition":"ad.传统上；习惯上"},{"index":9,"word":"innovation","definition":"n.革新，改革"},{"index":10,"word":"innovative","definition":"a.革新的；创新的"},{"index":11,"word":"conflict","definition":"n.战斗，斗争；抵触，冲突v.(with)抵触，冲突"},{"index":12,"word":"aim","definition":"v.(at)目的在于，旨在；瞄准，针对n.目标，目的"},{"index":13,"word":"therefore","definition":"ad.因此，从而conj.因此"},{"index":14,"word":"determine","definition":"v.决心，决定；确定，限定"},{"index":15,"word":"reward","definition":"n.(for)报酬，赏金，奖赏v.(for)酬劳，奖赏；酬谢，报答，奖酬"},{"index":16,"word":"contrast","definition":"v.(with)使与……对比，使与……对照，和……形成对照n.对照，对比，差异"},{"index":17,"word":"achievement","definition":"n.成就，成绩；实现；达到"},{"index":18,"word":"achiever","definition":"n.〔事业或学业〕很成功的人"},{"index":19,"word":"manufacture","definition":"v.制造，加工n.制造，制造业；产品"},{"index":20,"word":"manufacturer","definition":"n.制造商，制造公司"},{"index":21,"word":"guilt","definition":"n.罪过，内疚"},{"index":22,"word":"guilty","definition":"a.有罪的；内疚的"},{"index":23,"word":"mass","definition":"n.大量，众多；团，块；[pl.]群众，民众；质量v.集结；聚集"},{"index":24,"word":"massive","definition":"a.大而重的，厚实的，粗大的；大规模的，大量的"},{"index":25,"word":"protection","definition":"n.保护（物），防护（物）"},{"index":26,"word":"presence","definition":"n.出席，到场，存在，在"},{"index":27,"word":"represent","definition":"v.描述，表示；代表，代理；阐明，说明"},{"index":28,"word":"representative","definition":"n.代表，代理人a.(of)典型的，有代表性的"}]},{"name":"List 15","words":[{"index":1,"word":"rely","definition":"v.(on)依赖，依靠；信赖，信任"},{"index":2,"word":"reliable","definition":"a.可靠的"},{"index":3,"word":"unreliable","definition":"a.不可靠的；不可信赖的"},{"index":4,"word":"reliance","definition":"n.信赖，依靠"},{"index":5,"word":"reliant","definition":"a.依赖性的；依靠的"},{"index":6,"word":"chief","definition":"a.主要的，首要的n.首领，领袖"},{"index":7,"word":"type","definition":"n.型，类型；铅字v.打字"},{"index":8,"word":"typical","definition":"a.(of)典型的，有代表性的"},{"index":9,"word":"typically","definition":"ad.典型地，有代表性地"},{"index":10,"word":"stereotype","definition":"n.陈规，老套，模式化v.使定型，使模式化"},{"index":11,"word":"unique","definition":"a.唯一的，独一无二的"},{"index":12,"word":"amount","definition":"n.数量，总额v.(to)合计，总共达，等于"},{"index":13,"word":"principle","definition":"n.原理，原则；主义，信念"},{"index":14,"word":"principal","definition":"a.最重要的，主要的n.负责人，校长，首长；资本，本金"},{"index":15,"word":"enhance","definition":"v.提高，增强"},{"index":16,"word":"senior","definition":"a.年长的；资格老的，地位较高的n.(大学)四年级学生"},{"index":17,"word":"otherwise","definition":"ad.另样，用别的方法；在其他方面conj.要不然"},{"index":18,"word":"badly","definition":"ad.坏，恶劣地；严重地，非常，厉害地"},{"index":19,"word":"remove","definition":"v.排除，消除，去掉；搬迁，移动，运走"},{"index":20,"word":"restore","definition":"v.恢复，使回复；归还，交还；修复，重建"},{"index":21,"word":"debt","definition":"n.债，债务；恩情"},{"index":22,"word":"possibility","definition":"n.可能，可能性；可能的事，希望"},{"index":23,"word":"prospect","definition":"n.景色；前景，前途，展望v.勘探"},{"index":24,"word":"concept","definition":"n.概念，观念，思想"},{"index":25,"word":"appeal","definition":"v.呼吁，要求；对……有吸引力；申述，上诉n.呼吁，要求；吸引力；申诉，上诉"},{"index":26,"word":"attract","definition":"v.吸引，招引，引诱，引起(注意等)"},{"index":27,"word":"attractive","definition":"a.有吸引力的，引起兴趣的，动人的"},{"index":28,"word":"attraction","definition":"n.吸引人之物，诱惑物；吸引（力）"},{"index":29,"word":"tough","definition":"a.坚韧的，棘手的，困难的；强健的，吃苦耐劳的；严厉的；强硬的"}]},{"name":"List 16","words":[{"index":1,"word":"employment","definition":"n.雇用；使用；工作，就业"},{"index":2,"word":"employee","definition":"n.雇工，雇员"},{"index":3,"word":"unemployment","definition":"n.失业，失业人数"},{"index":4,"word":"employer","definition":"n.雇主"},{"index":5,"word":"employ","definition":"n./v.雇用；使用"},{"index":6,"word":"editor","definition":"n.编辑，编者"},{"index":7,"word":"slave","definition":"n.奴隶，苦工v.做苦工，拼命地干"},{"index":8,"word":"slavery","definition":"n.奴隶制；奴隶身份"},{"index":9,"word":"conservative","definition":"a.保守的，守旧的n.保守主义者"},{"index":10,"word":"conservation","definition":"n.保存，保护，保守"},{"index":11,"word":"conscious","definition":"a.意识到的，自觉的；有意识的，神志清醒的"},{"index":12,"word":"unconscious","definition":"a.不省人事的，失去知觉的"},{"index":13,"word":"consciousness","definition":"n.知觉；意识"},{"index":14,"word":"bias","definition":"n./v.（使有）偏见，偏心，偏袒"},{"index":15,"word":"freedom","definition":"n.自由，自主"},{"index":16,"word":"cite","definition":"v.引用，引证，举（例）"},{"index":17,"word":"establish","definition":"v.建立，设立；安置，使定居"},{"index":18,"word":"female","definition":"n./a.女性（的），雌性（的）"},{"index":19,"word":"male","definition":"n./a.男性（的），雄性（的）"},{"index":20,"word":"damage","definition":"v./n.损害，毁坏n.[pl.]损害赔偿费"},{"index":21,"word":"mainly","definition":"ad.大体上，主要地"},{"index":22,"word":"reaction","definition":"n.反应；〔饮食引起的〕不良反应"},{"index":23,"word":"react","definition":"v.反应，起作用；(against)反对，起反作用"},{"index":24,"word":"objective","definition":"n.目标，目的a.客观的，真实的"},{"index":25,"word":"objection","definition":"n.(to)反对，异议"},{"index":26,"word":"assume","definition":"v.假装；假定，设想；采取，承担，呈现"},{"index":27,"word":"assumption","definition":"n.假定，设想；采取；承担"},{"index":28,"word":"artist","definition":"n.艺术家，美术家"},{"index":29,"word":"impose","definition":"v.征（税）；(on)把……强加给"},{"index":30,"word":"oppose","definition":"v.反对，反抗"},{"index":31,"word":"propose","definition":"v.提议，建议；提名，推荐；求婚"},{"index":32,"word":"proposal","definition":"n.提议，建议；求婚"},{"index":33,"word":"pose","definition":"v.造成（困难等）；提出（问题等），陈述（观点等）；摆姿势；假装，冒充"}]},{"name":"List 17","words":[{"index":1,"word":"hire","definition":"n./v.雇用，租借"},{"index":2,"word":"eliminate","definition":"v.消除"},{"index":3,"word":"debate","definition":"v./n.争论，辩论"},{"index":4,"word":"target","definition":"n.目标，对象，靶子"},{"index":5,"word":"climate","definition":"n.气候；风气，社会思潮"},{"index":6,"word":"analysis","definition":"n.分析，分解"},{"index":7,"word":"analyse","definition":"v.分析，分解"},{"index":8,"word":"analyst","definition":"n.分析家"},{"index":9,"word":"religious","definition":"a.宗教的，信教的，虔诚的"},{"index":10,"word":"classical","definition":"a.经典的，古典（文学）的"},{"index":11,"word":"suffer","definition":"v.(from)受痛苦，患病；受损失；遭受；忍受，忍耐"},{"index":12,"word":"royal","definition":"a.王室的，皇家的；第一流的，高贵的"},{"index":13,"word":"expose","definition":"v.(to)使暴露，受到；使曝光"},{"index":14,"word":"exposure","definition":"n.暴露，揭露；(to)受到"},{"index":15,"word":"observe","definition":"v.遵守，奉行；观察，注意到，看到"},{"index":16,"word":"observation","definition":"n.观察，观测，监视；[pl.]观察资料或报告，言论"},{"index":17,"word":"observer","definition":"n.观察者；目击者"},{"index":18,"word":"desire","definition":"v./n.愿望，欲望，要求"},{"index":19,"word":"desirable","definition":"a.称心的，期望得到的"},{"index":20,"word":"ideal","definition":"a.理想的，完美的；空想的；理想主义的；唯心的"},{"index":21,"word":"campaign","definition":"n.战役；运动"},{"index":22,"word":"guarantee","definition":"n.保证，保修，保修单v.保证，担保"},{"index":23,"word":"eventually","definition":"ad.终于，最后"},{"index":24,"word":"expression","definition":"n.表达，表示；词句，措词；表情"},{"index":25,"word":"strike","definition":"v.打，击，撞；罢工；（使）产生印象，打动；突然想起n.罢工"},{"index":26,"word":"privacy","definition":"n.隐居；私事，隐私"},{"index":27,"word":"automation","definition":"n.自动（化）"},{"index":28,"word":"automatic","definition":"a.自动的；无意识的；不假思索的"},{"index":29,"word":"automate","definition":"v.使自动化"},{"index":30,"word":"essential","definition":"a.必要的，必不可少的；本质的，基本的"}]},{"name":"List 18","words":[{"index":1,"word":"release","definition":"v.释放；放开；发泄；解雇；使不紧张；公布，发行n.释放；公开"},{"index":2,"word":"code","definition":"n.代码，密码；编码；道德准则，行为规范；法典"},{"index":3,"word":"encode","definition":"v.把……译成电码（或密码），把……编码"},{"index":4,"word":"specific","definition":"a.明确的；具体的；特定的n.特性；细节"},{"index":5,"word":"specify","definition":"v.指定，详细说明"},{"index":6,"word":"willing","definition":"a.愿意的；自愿的；乐于相助的"},{"index":7,"word":"requirement","definition":"n.必要条件；所需的东西"},{"index":8,"word":"ease","definition":"n.容易；自在；舒适v.减轻；放松；降低"},{"index":9,"word":"pace","definition":"n.步伐；节奏v.来回踱步；走来走去"},{"index":10,"word":"efficiency","definition":"n.效率；效能；功效"},{"index":11,"word":"efficient","definition":"a.有效的，效率高的；有能力的，能胜任的"},{"index":12,"word":"flight","definition":"n.飞行；班机；逃走"},{"index":13,"word":"separate","definition":"a.独立的；分开的；不同的v.分离；区分"},{"index":14,"word":"homeless","definition":"a.无家可归的"},{"index":15,"word":"formal","definition":"a.正式的；形式上的"},{"index":16,"word":"formally","definition":"ad.正式地；形式上"},{"index":17,"word":"basis","definition":"n.基础；基准；基点；方式"},{"index":18,"word":"broadband","definition":"n.宽带"},{"index":19,"word":"administration","definition":"n.管理；行政；实施；行政机构"},{"index":20,"word":"minister","definition":"n.部长，大臣"},{"index":21,"word":"variety","definition":"n.种类；变化；多样化；变体"},{"index":22,"word":"various","definition":"a.各种各样的；不同的"},{"index":23,"word":"series","definition":"n.串联；一系列；连续"},{"index":24,"word":"exchange","definition":"n.交换；交谈；兑换；交易所v.交换；兑换"},{"index":25,"word":"celebrity","definition":"n.名人；著名；名望"},{"index":26,"word":"celebrate","definition":"v.庆祝"},{"index":27,"word":"phrase","definition":"n.短语；词组；习语；成语v.措辞；分乐节"},{"index":28,"word":"refer","definition":"v.提到；参考"},{"index":29,"word":"reference","definition":"n.提及，涉及；参考，参考书目；证明书(人)；介绍(人)"},{"index":30,"word":"commercial","definition":"a.贸易的；商业的n.广告"},{"index":31,"word":"commerce","definition":"n.商业，贸易"}]},{"name":"List 19","words":[{"index":1,"word":"statement","definition":"n.说明；说法；表态；声明；陈述；报告；报表"},{"index":2,"word":"inevitable","definition":"a.不可避免的；照例必有的"},{"index":3,"word":"inevitably","definition":"ad.不可避免地；必然地"},{"index":4,"word":"deny","definition":"v.否认；拒绝"},{"index":5,"word":"emphasise","definition":"v.强调，重视；使突出，使明显"},{"index":6,"word":"emphasis","definition":"n.强调；重视；重要性"},{"index":7,"word":"connection","definition":"n.联系，连接"},{"index":8,"word":"beauty","definition":"n.美；美人，美丽的东西；优点"},{"index":9,"word":"regulation","definition":"n.规则，规章；调节，校准；调整"},{"index":10,"word":"regulatory","definition":"a.（对工商业）具有监管权的"},{"index":11,"word":"regulator","definition":"n.（某行业等的）监管者，监管机构"},{"index":12,"word":"regulate","definition":"v.管制，控制；调节，校准；调整"},{"index":13,"word":"finally","definition":"ad.最后，最终"},{"index":14,"word":"category","definition":"n.种类，类目"},{"index":15,"word":"comment","definition":"n.注释，评论，意见v.(on)注释；评论"},{"index":16,"word":"stock","definition":"n.库存，现货；股票；家畜v.储存"},{"index":17,"word":"expectation","definition":"n.预期，期望，指望"},{"index":18,"word":"strategy","definition":"n.战略，策略"},{"index":19,"word":"strategic","definition":"a.战略的；策略的"},{"index":20,"word":"failure","definition":"n.失败，不及格；失败者；故障，失灵；未能"},{"index":21,"word":"crop","definition":"n.作物，庄稼；（谷类等的）一熟收成；一批，大量"},{"index":22,"word":"psychologist","definition":"n.心理学家"},{"index":23,"word":"psychological","definition":"a.心理上的；心理学的"},{"index":24,"word":"psychology","definition":"n.心理学，心理"},{"index":25,"word":"educational","definition":"a.教育的；有教育意义的"},{"index":26,"word":"educate","definition":"v.教育，培养，训练"},{"index":27,"word":"participant","definition":"n.参加者，参与者"},{"index":28,"word":"participate","definition":"v.(in)参与，参加；分享，分担"},{"index":29,"word":"participation","definition":"n.参加；参与"},{"index":30,"word":"formation","definition":"n.形成，构成"}]},{"name":"List 20","words":[{"index":1,"word":"zone","definition":"n.地区，区域v.分区，划分地带"},{"index":2,"word":"carbon","definition":"n.碳"},{"index":3,"word":"constitution","definition":"n.构成，构造，组成（方式），成分；体格，体质；宪法"},{"index":4,"word":"constitutional","definition":"a.有关宪法（宪章）的；宪法（宪章）允许的"},{"index":5,"word":"constituent","definition":"a.形成的，组成的n.成分，要素"},{"index":6,"word":"award","definition":"n.奖（品）v.授予，奖给"},{"index":7,"word":"postal","definition":"a.邮政的"},{"index":8,"word":"player","definition":"n.运动员；演奏者；参与者"},{"index":9,"word":"preserve","definition":"v.保护，维持；保存，保藏；腌制n.果酱；专属工作；独占的活动领域；保护区"},{"index":10,"word":"reserve","definition":"n.储备（物），储藏量，储备金；缄默，谨慎v.保留，储备；预定，预约"},{"index":11,"word":"reflect","definition":"v.反映，表现；反省，细想；考虑"},{"index":12,"word":"reflection","definition":"n.映像，倒影；反省，沉思"},{"index":13,"word":"survive","definition":"v.幸免于，幸存；比……长命"},{"index":14,"word":"survival","definition":"n.幸存，生存；幸存者，残存物"},{"index":15,"word":"illustrate","definition":"v.举例说明，阐明；图解，加插图"},{"index":16,"word":"moreover","definition":"conj./ad.再者，加之，而且"},{"index":17,"word":"directly","definition":"ad.直接地，径直地；马上，立即"},{"index":18,"word":"meanwhile","definition":"n.其间，其时ad.同时，当时"},{"index":19,"word":"annual","definition":"a.每年的，年度的n.年刊，年鉴"},{"index":20,"word":"recommend","definition":"v.推荐，介绍；劝告，建议"},{"index":21,"word":"elsewhere","definition":"ad.在别处，向别处"},{"index":22,"word":"option","definition":"n.选择（权），[商]选择买卖的特权"},{"index":23,"word":"recognise","definition":"v.认出，识别；承认"},{"index":24,"word":"recognition","definition":"n.认出，辨认；承认"},{"index":25,"word":"sensitive","definition":"a.敏感的，易受伤害的；灵敏的"},{"index":26,"word":"phenomenon","definition":"n.现象"},{"index":27,"word":"blame","definition":"v.责备；怪，怨，把……归咎于n.责任，过错；责备"},{"index":28,"word":"wage","definition":"n.［常pl.］工资，报酬v.进行，开展"},{"index":29,"word":"aspect","definition":"n.样子，外表，面貌；（问题等的）方面"},{"index":30,"word":"workforce","definition":"n.劳动力"}]},{"name":"List 21","words":[{"index":1,"word":"context","definition":"n.上下文；语境；环境"},{"index":2,"word":"creative","definition":"a.创造的；有创新性的"},{"index":3,"word":"creation","definition":"n.创造；创造物"},{"index":4,"word":"creativity","definition":"n.创造力；创造性"},{"index":5,"word":"creature","definition":"n.人，动物；生物"},{"index":6,"word":"circumstance","definition":"n.情况，形势，环境；（经济）情形，境况"},{"index":7,"word":"highly","definition":"ad.高度地，很，非常；赞许地"},{"index":8,"word":"environmental","definition":"a.自然环境的"},{"index":9,"word":"environmentalist","definition":"n.环境保护论者"},{"index":10,"word":"regular","definition":"a.有规律的，有规则的；整齐的，匀称的，正规的，正式的"},{"index":11,"word":"complain","definition":"v.(about，of)抱怨；申诉"},{"index":12,"word":"complaint","definition":"n.抱怨，诉苦；申诉；疾病"},{"index":13,"word":"curiosity","definition":"n.好奇心；奇物，珍品"},{"index":14,"word":"workplace","definition":"n.工作场所"},{"index":15,"word":"province","definition":"n.省；领域，范围，本分"},{"index":16,"word":"provincial","definition":"a.省的"},{"index":17,"word":"wholesale","definition":"a.批发的"},{"index":18,"word":"retailer","definition":"n.零售商"},{"index":19,"word":"retail","definition":"n./v.零售"},{"index":20,"word":"rural","definition":"a.农村的"},{"index":21,"word":"evolution","definition":"n.进化，渐进，演化"},{"index":22,"word":"evolve","definition":"v.（使）发展，（使）进化"},{"index":23,"word":"evolutionary","definition":"a.进化的，演变的，逐渐发展的"},{"index":24,"word":"ethical","definition":"a.伦理的，道德的"},{"index":25,"word":"ethic","definition":"n.道德规范；伦理"},{"index":26,"word":"cure","definition":"n.治愈，痊愈；良药，疗法v.治愈，医治；矫正，纠正"},{"index":27,"word":"reputation","definition":"n.名声，声望"},{"index":28,"word":"occur","definition":"v.发生"},{"index":29,"word":"popularity","definition":"n.普及，流行"},{"index":30,"word":"popularize","definition":"v.宣传，推广；使普及，使通俗化"}]},{"name":"List 22","words":[{"index":1,"word":"candidate","definition":"n.候选人，候补者；报考者"},{"index":2,"word":"obvious","definition":"a.明显的，显而易见的"},{"index":3,"word":"obviously","definition":"ad.显然，明显地"},{"index":4,"word":"equal","definition":"a.(to)相等的n.（地位）相等的人，对等的事物v.等于"},{"index":5,"word":"inequality","definition":"n.不平等，不公平"},{"index":6,"word":"equally","definition":"ad.平等地；同样地；平均地"},{"index":7,"word":"equality","definition":"n.同等，平等"},{"index":8,"word":"collection","definition":"n.收集（物），收藏（品）"},{"index":9,"word":"collective","definition":"a.集体的，共同的n.集体"},{"index":10,"word":"instance","definition":"n.例子，事例，例证"},{"index":11,"word":"instant","definition":"a.立即的，直接的；紧迫的；（食品）速溶的，方便的n.瞬间，时刻"},{"index":12,"word":"construction","definition":"n.建造，建筑物"},{"index":13,"word":"obtain","definition":"v.获得，得到"},{"index":14,"word":"convince","definition":"v.(of)使信服，使确信"},{"index":15,"word":"elite","definition":"n.社会精英；上层人士"},{"index":16,"word":"historical","definition":"a.历史的；过去的"},{"index":17,"word":"historian","definition":"n.历史学家"},{"index":18,"word":"infrastructure","definition":"n.基础结构，基础设施"},{"index":19,"word":"cooperation","definition":"n.合作，协助；配合"},{"index":20,"word":"cooperate","definition":"v.(with)合作，协作，相配合"},{"index":21,"word":"acknowledge","definition":"v.承认；致谢"},{"index":22,"word":"valuable","definition":"a.贵重的，有价值的n.贵重物品，财宝"},{"index":23,"word":"priority","definition":"n.优先，优先权"},{"index":24,"word":"prior","definition":"a.优先的，在前的；(to)在……之前"},{"index":25,"word":"prioritize","definition":"v.按重要性顺序列出"},{"index":26,"word":"rapidly","definition":"ad.快速地，迅速地"},{"index":27,"word":"harm","definition":"n./v.伤害，损害，危害"},{"index":28,"word":"harmful","definition":"a.有害的"},{"index":29,"word":"bite","definition":"v./n.咬，叮"},{"index":30,"word":"thrive","definition":"v.兴旺，繁荣"}]},{"name":"List 23","words":[{"index":1,"word":"switch","definition":"v.转换；(off)关掉；(on)接通n.开关，电闸；转换"},{"index":2,"word":"interaction","definition":"n.相互作用，相互影响"},{"index":3,"word":"interact","definition":"v.互相作用，互相影响"},{"index":4,"word":"disagree","definition":"v.不同意；不一致"},{"index":5,"word":"fuel","definition":"n.燃料"},{"index":6,"word":"electronic","definition":"a.电子的"},{"index":7,"word":"airline","definition":"n.航线；航空公司"},{"index":8,"word":"aircraft","definition":"n.飞机，航空器"},{"index":9,"word":"nuclear","definition":"a.核心的，中心的；核能的"},{"index":10,"word":"newly","definition":"ad.最近，最新"},{"index":11,"word":"suspect","definition":"v.怀疑，疑心n.嫌疑犯，可疑分子"},{"index":12,"word":"quit","definition":"v.离开，退出；停止，放弃，辞职"},{"index":13,"word":"novel","definition":"a.新颖的；新奇的n.（长篇）小说"},{"index":14,"word":"hack","definition":"v.乱砍，乱劈"},{"index":15,"word":"hacker","definition":"n.黑客"},{"index":16,"word":"demonstrate","definition":"v.论证，证实；演示，说明"},{"index":17,"word":"reject","definition":"v.拒绝，抵制，驳回；丢弃；排斥，退掉"},{"index":18,"word":"vote","definition":"v.投票，表决n.投票，表决；选票，选票数"},{"index":19,"word":"enforcement","definition":"n.执行，实施"},{"index":20,"word":"enforce","definition":"v.强迫实行；执行，实施（法律）"},{"index":21,"word":"perceive","definition":"v.察觉，感知；理解，领悟"},{"index":22,"word":"perception","definition":"n.认识，感知"},{"index":23,"word":"controversy","definition":"n.争议"},{"index":24,"word":"controversial","definition":"a.引起争论的；有争议的"},{"index":25,"word":"estimate","definition":"n.估计，估价v.估计，估算"},{"index":26,"word":"underestimate","definition":"v.低估n.估计不足"},{"index":27,"word":"origin","definition":"n.起源；起因；出身"},{"index":28,"word":"original","definition":"a.最初的，原始的，原文的；新颖的，有独创性的n.原物，原作，原文"},{"index":29,"word":"originate","definition":"v.(in，from)起源，发生；首创，创造"},{"index":30,"word":"urge","definition":"n.冲动；强烈的欲望v.敦促；催促；鞭策"},{"index":31,"word":"urgent","definition":"a.急迫的，紧迫的"},{"index":32,"word":"urgency","definition":"n.紧迫，急切，急事"}]},{"name":"List 24","words":[{"index":1,"word":"element","definition":"n.元素；组成部分"},{"index":2,"word":"literary","definition":"a.文学的"},{"index":3,"word":"literature","definition":"n.文学，文学作品，文献"},{"index":4,"word":"literacy","definition":"n.有文化，有教养，有读写能力"},{"index":5,"word":"literally","definition":"ad.照字面意义，逐字地；确实"},{"index":6,"word":"neglect","definition":"n./v.忽视；忽略；疏忽"},{"index":7,"word":"disappear","definition":"v.消失；失踪"},{"index":8,"word":"exactly","definition":"ad.精确地；恰好地"},{"index":9,"word":"extra","definition":"a.额外的ad.额外；特别；另外n.额外的事物"},{"index":10,"word":"previous","definition":"a.先前的"},{"index":11,"word":"previously","definition":"ad.以前，过去"},{"index":12,"word":"epidemic","definition":"n.流行病；（迅速的）泛滥"},{"index":13,"word":"admit","definition":"v.承认；招认；招供；容许"},{"index":14,"word":"admission","definition":"n.允许进入，接纳，收容；承认"},{"index":15,"word":"incentive","definition":"n.激励"},{"index":16,"word":"extend","definition":"v.扩展；延长；扩大；提供"},{"index":17,"word":"extension","definition":"n.延长，扩大，伸展"},{"index":18,"word":"ban","definition":"v.明令禁止；取缔n.禁令"},{"index":19,"word":"routine","definition":"a.常规的；例行公事的n.常规；例程"},{"index":20,"word":"immediate","definition":"a.立即的；直接的；目前的；直系的"},{"index":21,"word":"constant","definition":"a.连续发生的；不断的n.常数；常量"},{"index":22,"word":"constantly","definition":"ad.一直地；经常不断地"},{"index":23,"word":"vision","definition":"n.视觉，视力；眼力，想象力"},{"index":24,"word":"provision","definition":"n.供应，（一批）供应品；准备，预备；条款，规定；[pl.]给养，口粮"},{"index":25,"word":"envision","definition":"v.展望；想象；预想"},{"index":26,"word":"frequently","definition":"ad.频繁地"},{"index":27,"word":"frequent","definition":"a.频繁的，时常发生的"},{"index":28,"word":"era","definition":"n.时代，纪元"},{"index":29,"word":"citizen","definition":"n.公民；市民；居民"},{"index":30,"word":"recruit","definition":"v.招募n.新兵"}]},{"name":"List 25","words":[{"index":1,"word":"acquisition","definition":"n.获得物，获得；收购"},{"index":2,"word":"acquire","definition":"v.获得，得到；购得"},{"index":3,"word":"vehicle","definition":"n.交通工具，车辆；手段，工具"},{"index":4,"word":"confidence","definition":"n.信心；信任；信赖；秘密"},{"index":5,"word":"confident","definition":"a.有信心的；自信的"},{"index":6,"word":"burden","definition":"n.负担；重负v.负重；担负"},{"index":7,"word":"quota","definition":"n.配额；定额；指标"},{"index":8,"word":"imply","definition":"v.暗示"},{"index":9,"word":"implication","definition":"n.含义；暗示；牵连，卷入；可能的结果，影响"},{"index":10,"word":"implicit","definition":"a.含蓄的，不直接言明的；完全的"},{"index":11,"word":"divorce","definition":"n.离婚；分离；脱离v.离婚；使分离；使脱离"},{"index":12,"word":"restrict","definition":"v.限定（数量、范围等）；束缚；约束；（以法规）限制"},{"index":13,"word":"restriction","definition":"n.限制规定，限制法规；限制，约束"},{"index":14,"word":"voluntary","definition":"a.自愿的；志愿的；主动的"},{"index":15,"word":"volunteer","definition":"n.志愿者；自告奋勇者v.自愿做"},{"index":16,"word":"involuntary","definition":"a.无意识的；不自觉的；非自愿的"},{"index":17,"word":"obesity","definition":"n.过度肥胖，肥胖症"},{"index":18,"word":"obese","definition":"a.臃肿的；虚胖的"},{"index":19,"word":"shortage","definition":"n.不足；缺少"},{"index":20,"word":"former","definition":"a.以前的；昔日的；（两者中）前者的"},{"index":21,"word":"formerly","definition":"ad.以前，从前"},{"index":22,"word":"poverty","definition":"n.贫穷；短缺"},{"index":23,"word":"artificial","definition":"a.人工的；人造的；假的"},{"index":24,"word":"archaeologist","definition":"n.考古学家"},{"index":25,"word":"archaeological","definition":"a.考古学的"},{"index":26,"word":"expand","definition":"v.扩大；扩展；详述；细谈"},{"index":27,"word":"expansion","definition":"n.扩张；发展"},{"index":28,"word":"statistical","definition":"a.统计的；统计学的"},{"index":29,"word":"statistic","definition":"n.一项统计数据；统计数字，统计资料；统计学"},{"index":30,"word":"statistician","definition":"n.统计学家，统计员"}]},{"name":"List 26","words":[{"index":1,"word":"muscle","definition":"n.肌肉，体力；权力v.用力挤着前进"},{"index":2,"word":"norm","definition":"n.规范；标准，定额；常态"},{"index":3,"word":"entirely","definition":"ad.全部地，完全地，完整地"},{"index":4,"word":"entire","definition":"a.全部的；整个的"},{"index":5,"word":"combine","definition":"n.集团；联合企业v.（使）结合；兼有；合并"},{"index":6,"word":"vary","definition":"v.改变；不同；变化"},{"index":7,"word":"pursuit","definition":"n.追求"},{"index":8,"word":"pursue","definition":"v.追求；追逐；跟踪"},{"index":9,"word":"laughter","definition":"n.笑声"},{"index":10,"word":"compromise","definition":"n.妥协；和解；互让v.让步；违背；达不到"},{"index":11,"word":"precisely","definition":"ad.恰好；清晰地，明确地；正是，确实"},{"index":12,"word":"precise","definition":"a.准确的；精确的"},{"index":13,"word":"tolerance","definition":"n.公差；耐量；宽容；容忍"},{"index":14,"word":"tolerant","definition":"a.忍受的；容忍的，宽容的"},{"index":15,"word":"tolerate","definition":"v.容忍"},{"index":16,"word":"guide","definition":"n.指南；向导；手册v.指导；阐明"},{"index":17,"word":"guideline","definition":"n.指导方针，准则"},{"index":18,"word":"mechanism","definition":"n.机制；机械装置；方法；机件"},{"index":19,"word":"mechanical","definition":"a.机动的；机械的"},{"index":20,"word":"cope","definition":"v.（妥善地）处理；应付（困难局面）"},{"index":21,"word":"adjust","definition":"v.调整；适应"},{"index":22,"word":"adjustment","definition":"n.调整，调节；适应"},{"index":23,"word":"engage","definition":"v.雇用；吸引住；订婚；从事"},{"index":24,"word":"engagement","definition":"n.订婚；约会；交战；聘用"},{"index":25,"word":"transform","definition":"v.改变，使……变形；转换"},{"index":26,"word":"inspire","definition":"v.激励；激发；鼓舞；启发思考；使产生"},{"index":27,"word":"completely","definition":"ad.彻底地；完全地；完整地"},{"index":28,"word":"belong","definition":"v.应在；适应；合得来；属于"},{"index":29,"word":"necessarily","definition":"ad.必要地；必定地，必然地"},{"index":30,"word":"necessity","definition":"n.必然性；必要；必需品"}]},{"name":"List 27","words":[{"index":1,"word":"budget","definition":"a.价格低廉的；花钱少的n.预算"},{"index":2,"word":"confuse","definition":"v.使迷惑；使更难于理解"},{"index":3,"word":"version","definition":"n.描述；变体；变种；型式"},{"index":4,"word":"alter","definition":"v.更改；修改"},{"index":5,"word":"alternative","definition":"a.可供替代的；非传统的；另类的n.可供选择的事物"},{"index":6,"word":"flexibility","definition":"n.灵活性，弹性，适应性；柔韧性"},{"index":7,"word":"flexible","definition":"a.柔韧的；灵活的"},{"index":8,"word":"fulfil/fulfill","definition":"v.符合；履行，执行；实现"},{"index":9,"word":"fulfillment","definition":"n.成就感；履行"},{"index":10,"word":"council","definition":"n.委员会"},{"index":11,"word":"handle","definition":"n.柄，把手v.处理；控制；操纵；拿"},{"index":12,"word":"display","definition":"v.陈列；表现；显示n.陈列；展示"},{"index":13,"word":"forever","definition":"ad.永远地；永恒地"},{"index":14,"word":"weakness","definition":"n.软弱，懦弱；疲软；缺点，不足"},{"index":15,"word":"weaken","definition":"v.（使）虚弱，衰弱；减弱"},{"index":16,"word":"dominate","definition":"v.控制；支配"},{"index":17,"word":"dominant","definition":"a.首要的；占支配地位的；占优势的；显著的"},{"index":18,"word":"mislead","definition":"v.误导，引入歧途"},{"index":19,"word":"leadership","definition":"n.领导人；领导地位"},{"index":20,"word":"trial","definition":"n.（法院的）审判；试验，试用；预赛；选拔赛"},{"index":21,"word":"stable","definition":"a.稳定的"},{"index":22,"word":"stability","definition":"n.稳定（性）；稳固（性）"},{"index":23,"word":"licence/license","definition":"v.批准，许可n.许可证，执照"},{"index":24,"word":"talent","definition":"n.天才；天赋；人才"},{"index":25,"word":"governance","definition":"n.管理；支配"},{"index":26,"word":"govern","definition":"v.治理；控制；管理；统治"},{"index":27,"word":"governor","definition":"n.总督；统治者；总裁；州长"},{"index":28,"word":"motivate","definition":"v.激励；激发；是……的原因"},{"index":29,"word":"motive","definition":"a.发动的；导致运动的"},{"index":30,"word":"motivation","definition":"n.动机，动力，诱因"}]},{"name":"List 28","words":[{"index":1,"word":"chain","definition":"n.链条；一系列；连锁商店v.用锁链拴住"},{"index":2,"word":"suitable","definition":"a.合适的；适宜的；适用的"},{"index":3,"word":"suit","definition":"n.诉讼；花色；一套衣服；求婚v.适合；讨好"},{"index":4,"word":"lawsuit","definition":"n.诉讼，起诉"},{"index":5,"word":"mix","definition":"v.混合n.混合，混合配料"},{"index":6,"word":"absorb","definition":"v.吸收；理解，掌握；承受，承担"},{"index":7,"word":"staff","definition":"n.全体职员；职员；工作人员"},{"index":8,"word":"core","definition":"n.中心部分；关键；精髓a.最重要的；基本的；核心的"},{"index":9,"word":"estate","definition":"n.房地产；庄园；住宅区；财产"},{"index":10,"word":"lobby","definition":"n.门厅；休息室；接待室；游说v.游说"},{"index":11,"word":"upset","definition":"a.沮丧的；不高兴的n.苦恼；失望；烦闷v.打乱；使烦恼"},{"index":12,"word":"investigation","definition":"n.调查，侦查；科学研究，学术研究"},{"index":13,"word":"investigate","definition":"v.调查；研究"},{"index":14,"word":"poetry","definition":"n.诗集；诗歌；诗作"},{"index":15,"word":"convey","definition":"v.表达；输送，运送，传送"},{"index":16,"word":"quote","definition":"n.报价；引号；引文v.报价；引用；举例说明"},{"index":17,"word":"anthropologist","definition":"n.人类学家"},{"index":18,"word":"anthropology","definition":"n.人类学"},{"index":19,"word":"download","definition":"v.下载"},{"index":20,"word":"upload","definition":"v.上传"},{"index":21,"word":"well-being","definition":"n.健康；安乐"},{"index":22,"word":"rival","definition":"a.竞争的n.竞争对手v.与……相匹敌；比得上"},{"index":23,"word":"arise","definition":"v.发生；出现；由……引起"},{"index":24,"word":"sunrise","definition":"n.日出"},{"index":25,"word":"sustain","definition":"v.支持；支撑；遭受；证实"},{"index":26,"word":"sustainable","definition":"a.可持续的；合理利用的"},{"index":27,"word":"sustainability","definition":"n.持续性，能维持性"},{"index":28,"word":"religion","definition":"n.宗教；宗教信仰"},{"index":29,"word":"scholar","definition":"n.学者，奖学金获得者"},{"index":30,"word":"scholarship","definition":"n.奖学金；学术研究；学问成就"}]},{"name":"List 29","words":[{"index":1,"word":"spouse","definition":"n.配偶"},{"index":2,"word":"discipline","definition":"n.纪律；训练；自制力；学科v.训练；管教；惩罚"},{"index":3,"word":"approval","definition":"n.批准；同意；赞成"},{"index":4,"word":"approve","definition":"v.赞成；批准；认可；核准"},{"index":5,"word":"disapproval","definition":"n.不同意，反对"},{"index":6,"word":"adopt","definition":"v.收养，领养；正式通过；采用"},{"index":7,"word":"seller","definition":"n.卖方，销售方；（畅销、滞销等的）商品"},{"index":8,"word":"explanation","definition":"n.说明，解释；辩解"},{"index":9,"word":"permanent","definition":"a.永久的；不变的"},{"index":10,"word":"inform","definition":"v.通知，通告；了解，熟悉；对……有影响"},{"index":11,"word":"independent","definition":"a.独立的；自主的n.无党派者"},{"index":12,"word":"independence","definition":"n.（国家的）独立；（人的）自立"},{"index":13,"word":"dependency","definition":"n.（尤指不正常或不必要的）依靠，依赖；附属国，附属地"},{"index":14,"word":"dependent","definition":"a.依靠的；依赖的"},{"index":15,"word":"strength","definition":"n.体力，力量；强度；毅力；实力；优势"},{"index":16,"word":"strengthen","definition":"v.加强；增强；巩固"},{"index":17,"word":"relevant","definition":"a.紧密相关的；切题的；有价值的；有意义的"},{"index":18,"word":"widespread","definition":"a.普遍的，广泛的；分布广的"},{"index":19,"word":"upgrade","definition":"v.提高，改进，改善"},{"index":20,"word":"unlike","definition":"a.不同的；不像的"},{"index":21,"word":"likewise","definition":"ad.同样地，类似地；也，还"},{"index":22,"word":"alike","definition":"a.相似的ad.十分相像地；同样地"},{"index":23,"word":"counterpart","definition":"n.职位（或作用）相当的人，对应的事物"},{"index":24,"word":"counter","definition":"n.柜台；计数器；棋子v.反驳，反对；抵消，抗衡"},{"index":25,"word":"crucial","definition":"a.至关重要的，关键性的"},{"index":26,"word":"random","definition":"a.随意的；不认识的n.偶然"},{"index":27,"word":"modify","definition":"v.修饰；调整；缓和；稍作修改"},{"index":28,"word":"assessment","definition":"n.看法，评估，评定"},{"index":29,"word":"assess","definition":"v.评估，评定；估算"}]},{"name":"List 30","words":[{"index":1,"word":"legislation","definition":"n.立法；法律"},{"index":2,"word":"legislative","definition":"a.立法的，制订法律的"},{"index":3,"word":"legislature","definition":"n.立法机关"},{"index":4,"word":"delay","definition":"n.延误；延期v.推迟；延期"},{"index":5,"word":"expense","definition":"n.费用，价钱；开销"},{"index":6,"word":"software","definition":"n.软件"},{"index":7,"word":"excessive","definition":"a.过分的；过度的"},{"index":8,"word":"curb","definition":"v.控制，抑制n.起控制（或限制）作用的事物"},{"index":9,"word":"adapt","definition":"v.改编；改写；（使）适应"},{"index":10,"word":"permission","definition":"n.允许，许可"},{"index":11,"word":"permit","definition":"v.允许n.许可证"},{"index":12,"word":"privilege","definition":"n.荣幸，荣耀；特殊利益，优惠待遇v.给予特权；特别优待"},{"index":13,"word":"improvement","definition":"n.改进；改善"},{"index":14,"word":"aside","definition":"ad.留；存；到旁边；在旁边n.旁白；低声说的话"},{"index":15,"word":"alongside","definition":"prep.在……旁边；与……一起；与……同时ad.在……的侧面；与……并排"},{"index":16,"word":"democratic","definition":"a.民主的；民主政体的；民主制度的；民主权利的"},{"index":17,"word":"democracy","definition":"n.民主政体；民主国家；民主精神"},{"index":18,"word":"democrat","definition":"n.民主主义者；（Democrat）民主党党员"},{"index":19,"word":"procedure","definition":"n.程序"},{"index":20,"word":"partner","definition":"n.合伙人；搭档；同伴v.配对"},{"index":21,"word":"diet","definition":"n.日常饮食；规定饮食v.节食"},{"index":22,"word":"patience","definition":"n.耐心，忍耐"},{"index":23,"word":"brand","definition":"n.品牌；类型；烙印v.败坏名声；给……打烙印；给……打标签"},{"index":24,"word":"shock","definition":"n.休克；震惊v.使震惊；使气愤；使厌恶"},{"index":25,"word":"prefer","definition":"v.较喜欢"},{"index":26,"word":"preference","definition":"n.偏爱；喜好"},{"index":27,"word":"stage","definition":"n.阶段；步；步骤；戏剧v.举行；组织"},{"index":28,"word":"battle","definition":"n.战斗；斗争v.斗争；竞争；抗争；奋斗"},{"index":29,"word":"trap","definition":"n.陷阱，捕捉器v.使落入险境；使陷入困境；使陷入圈套；设陷阱捕捉"},{"index":30,"word":"disappoint","definition":"v.使……失望，使……落空"},{"index":31,"word":"appoint","definition":"v.任命，委任；安排，约定"},{"index":32,"word":"appointment","definition":"n.任命；约定"}]},{"name":"List 31","words":[{"index":1,"word":"fairly","definition":"ad.在很大程度上；相当"},{"index":2,"word":"device","definition":"n.装置，仪器；手段，计谋"},{"index":3,"word":"devise","definition":"v.发明，设计"},{"index":4,"word":"revolution","definition":"n.革命，大变革；旋转；天体运行v.切，割，划；把……切成（薄）片；大幅度削减，大量降低n.（切下的食物）薄"},{"index":5,"word":"slice","definition":"片；部分，份额"},{"index":6,"word":"appropriate","definition":"a.合适的，恰当的"},{"index":7,"word":"deliver","definition":"v.递送；实现，履行；发表"},{"index":8,"word":"delivery","definition":"n.交付；递送，传送；分娩"},{"index":9,"word":"desperate","definition":"a.不顾一切的；令人绝望的；极度渴望的"},{"index":10,"word":"optimistic","definition":"a.乐观的"},{"index":11,"word":"optimism","definition":"n.乐观，乐观主义"},{"index":12,"word":"multiple","definition":"a.多重的，多样的"},{"index":13,"word":"multiply","definition":"v.乘以；繁殖"},{"index":14,"word":"ancestor","definition":"n.祖宗，祖先；（机器的）原型"},{"index":15,"word":"parallel","definition":"a.平行的；同类型的n.极相似的人或事件"},{"index":16,"word":"advocate","definition":"n.拥护者，支持者，提倡者；辩护律师，出庭辩护人v.拥护，支持，提倡"},{"index":17,"word":"sceptical","definition":"a.怀疑的"},{"index":18,"word":"skepticism","definition":"n.怀疑态度；怀疑主义"},{"index":19,"word":"skeptic","definition":"n.持怀疑态度的人"},{"index":20,"word":"severe","definition":"a.极为恶劣的；十分严重的；严厉的；苛刻的"},{"index":21,"word":"uniform","definition":"a.统一的n.制服"},{"index":22,"word":"banker","definition":"n.银行家，（银行）要员；（某些赌博游戏中的）庄家"},{"index":23,"word":"hug","definition":"n.拥抱；搂抱v.拥抱；搂抱"},{"index":24,"word":"telescope","definition":"n.望远镜"},{"index":25,"word":"scope","definition":"n.能力，范围v.仔细看，认真检查"},{"index":26,"word":"forgiveness","definition":"n.原谅；宽恕"},{"index":27,"word":"exclude","definition":"v.不包括；排除"},{"index":28,"word":"exclusive","definition":"a.专用的；独有的；独家的（新闻报道）；高档的，豪华的，仅限富贵人士的"},{"index":29,"word":"topic","definition":"n.话题；题目；标题"}]},{"name":"List 32","words":[{"index":1,"word":"distribution","definition":"n.分配，分布；分发，分送；经销，分销"},{"index":2,"word":"distribute","definition":"v.分发，分配；分销；分散"},{"index":3,"word":"ownership","definition":"n.所有权，产权；物主身份"},{"index":4,"word":"landowner","definition":"n.土地拥有者；地主"},{"index":5,"word":"enable","definition":"v.使能够；使成为可能；使可行"},{"index":6,"word":"property","definition":"n.属性；财产；财产权"},{"index":7,"word":"locate","definition":"v.找出……的准确位置；把……安置在"},{"index":8,"word":"allocate","definition":"v.拨……（给）；划……（归）；分配……（给）"},{"index":9,"word":"arouse","definition":"v.激起（行动，态度）；使……行动起来；唤醒"},{"index":10,"word":"found","definition":"v.创建；把……基于"},{"index":11,"word":"foundation","definition":"n.基础；基金会；创建"},{"index":12,"word":"circuit","definition":"n.环行，环行路线；电路，线路；巡回赛"},{"index":13,"word":"circulation","definition":"n.流通，流传；（血液、气等）循环；（报刊）发行量"},{"index":14,"word":"marketer","definition":"n.商人，营销人员"},{"index":15,"word":"dynamic","definition":"a.动态的；动力的；有活力的n.动态；动力"},{"index":16,"word":"entrepreneur","definition":"n.企业家；承包人；主办者"},{"index":17,"word":"reasonable","definition":"a.公平的；合理的；有理由的；明智的"},{"index":18,"word":"unreasonable","definition":"a.不合理的；不公正的"},{"index":19,"word":"suddenly","definition":"ad.突然；忽然"},{"index":20,"word":"seriously","definition":"ad.严重地；严肃地；认真地；非常"},{"index":21,"word":"capture","definition":"n./v.捕获；采集；俘获；拍摄"},{"index":22,"word":"regardless","definition":"ad.不顾；不加理会"},{"index":23,"word":"meaningful","definition":"a.有意义的；意味深长的"},{"index":24,"word":"highlight","definition":"v.突出，强调；标记"},{"index":25,"word":"root","definition":"a.根本的n.根；根茎；子孙v.支持；搜寻；使根深蒂固"},{"index":26,"word":"brief","definition":"a.短暂的；简洁的n.任务简介；指示；委托辩护v.给指示；向……介绍情况"},{"index":27,"word":"violate","definition":"v.违反；侵犯；亵渎"},{"index":28,"word":"urban","definition":"a.城市的；都市的"},{"index":29,"word":"endeavour","definition":"n.（尤指新的或艰苦的）努力，尝试v.努力；尽力；竭力"},{"index":30,"word":"generous","definition":"a.慷慨的；大方的"}]},{"name":"List 33","words":[{"index":1,"word":"mood","definition":"n.情绪；心情；气氛"},{"index":2,"word":"anxious","definition":"a.焦急的；渴望的"},{"index":3,"word":"anxiety","definition":"n.忧虑；担心；害怕"},{"index":4,"word":"personality","definition":"n.性格，个性；名人；有突出个性的人；特色"},{"index":5,"word":"interpersonal","definition":"a.人际关系的，人际的"},{"index":6,"word":"personally","definition":"ad.就本人而言；就个人意见；本人；个别地"},{"index":7,"word":"differ","definition":"v.不同；有异议"},{"index":8,"word":"indifference","definition":"n.漠不关心，冷淡，无动于衷"},{"index":9,"word":"indifferent","definition":"a.漠不关心的；平庸的"},{"index":10,"word":"differentiate","definition":"v.区分，区别"},{"index":11,"word":"vast","definition":"a.辽阔的；巨大的；庞大的；大量的n.广大无边的空间；大海"},{"index":12,"word":"forth","definition":"ad.向前；离去；外出；向某处"},{"index":13,"word":"peak","definition":"a.最高的n.山峰；顶点v.达到高峰"},{"index":14,"word":"feedback","definition":"n.反馈的意见（或信息）"},{"index":15,"word":"mostly","definition":"ad.通常；主要地；一般地"},{"index":16,"word":"unfortunately","definition":"ad.不幸地；遗憾地"},{"index":17,"word":"fortune","definition":"n.运气；巨款；发展变化的趋势"},{"index":18,"word":"escape","definition":"n.逃脱；逃避；溢出v.逃脱；逃避；溢出"},{"index":19,"word":"throughout","definition":"prep.自始至终；遍及ad.全部；自始至终；到处；彻头彻尾"},{"index":20,"word":"addition","definition":"n.添加；增加；加法；增加物；（in~）除……以外"},{"index":21,"word":"additional","definition":"a.附加的；额外的；外加的"},{"index":22,"word":"defence","definition":"n.保卫，防御；辩护；国防体系"},{"index":23,"word":"defendant","definition":"n.被告"},{"index":24,"word":"detect","definition":"v.发现；查明"},{"index":25,"word":"aware","definition":"a.意识到的，知道的；有……方面知识的；懂世故的"},{"index":26,"word":"awareness","definition":"n.知道，认识，意识"},{"index":27,"word":"impression","definition":"n.印象；影响；印象画"},{"index":28,"word":"concentrate","definition":"n.浓缩物v.（使）集中；（使）浓缩"},{"index":29,"word":"concentration","definition":"n.专注；浓度"},{"index":30,"word":"opposition","definition":"n.反对，对抗；对立"},{"index":31,"word":"opposite","definition":"a.对面的；相反的ad.在对面"}]},{"name":"List 34","words":[{"index":1,"word":"absence","definition":"n.缺席；不存在；缺乏"},{"index":2,"word":"lean","definition":"v.（身体）倾斜a.收益少的；瘦且健康的"},{"index":3,"word":"yield","definition":"v.出产；产生；屈服；弯曲n.产量；利润"},{"index":4,"word":"recall","definition":"v.回忆起；使想起；召回n.记忆力"},{"index":5,"word":"verbal","definition":"a.文字的；言语的；口头的"},{"index":6,"word":"region","definition":"n.地区；（身体）部位"},{"index":7,"word":"ritual","definition":"a.仪式上的；习惯的；老套的n.习惯；程序；仪规；礼节"},{"index":8,"word":"register","definition":"n.语域；登记簿v.注册；登记；记录；提出主张"},{"index":9,"word":"trick","definition":"a.容易使人上当的n.技巧；诡计；诀窍；把戏"},{"index":10,"word":"commuter","definition":"n.（远距离）上下班往返的人"},{"index":11,"word":"commute","definition":"v.通勤，经常往返于（两地）"},{"index":12,"word":"military","definition":"n.军人，军队a.军事的，军队的，武装的"},{"index":13,"word":"consideration","definition":"n.考虑；原因；关心；报酬"},{"index":14,"word":"considerable","definition":"a.相当多（或大、重要等）的"},{"index":15,"word":"sufficient","definition":"a.足够的"},{"index":16,"word":"sufficiency","definition":"n.足量；充足"},{"index":17,"word":"accomplish","definition":"v.完成"},{"index":18,"word":"announce","definition":"v.宣布；宣称，声称；通知"},{"index":19,"word":"criterion","definition":"n.（批评判断的）标准，准则"},{"index":20,"word":"overlook","definition":"v.俯瞰；忽视；不理会"},{"index":21,"word":"sympathy","definition":"n.同情；赞同"},{"index":22,"word":"sympathetic","definition":"a.同情的"},{"index":23,"word":"affordable","definition":"a.负担得起的"},{"index":24,"word":"district","definition":"n.地区"},{"index":25,"word":"renewable","definition":"a.可再生的"},{"index":26,"word":"reverse","definition":"v.扭转，反转n.相反，背面a.相反的"},{"index":27,"word":"passion","definition":"n.激情；热情；酷爱"},{"index":28,"word":"passionate","definition":"a.热爱的，狂热的；热烈的，强烈的"},{"index":29,"word":"capital","definition":"n.首都；资本；大写字母"},{"index":30,"word":"capitalism","definition":"n.资本主义"}]},{"name":"List 35","words":[{"index":1,"word":"bar","definition":"n.条；酒吧；障碍v.禁止；阻挡；封"},{"index":2,"word":"biological","definition":"a.生物学的；生物的"},{"index":3,"word":"biologist","definition":"n.生物学家"},{"index":4,"word":"leakage","definition":"n.泄漏量，渗漏，泄露"},{"index":5,"word":"leak","definition":"n.泄漏；渗漏；漏洞；裂缝v.漏水；透露；使泄漏"},{"index":6,"word":"strain","definition":"n.压力；应力；张力v.扭伤；拉紧；滤；损伤"},{"index":7,"word":"constraint","definition":"n.限制；约束"},{"index":8,"word":"mode","definition":"n.方式，样式，风格；工作状态"},{"index":9,"word":"draft","definition":"v.起草，草拟；选派，抽调n.草图，草稿"},{"index":10,"word":"evaluate","definition":"v.估计；评价；评估"},{"index":11,"word":"evaluation","definition":"n.估价，估值；评价，评估"},{"index":12,"word":"hijack","definition":"v.劫持；操纵"},{"index":13,"word":"republican","definition":"a.共和国的；共和政体的n.共和主义者"},{"index":14,"word":"legitimate","definition":"a.合法的；合情合理的"},{"index":15,"word":"legitimacy","definition":"n.合法性，合理性"},{"index":16,"word":"inflation","definition":"n.膨胀；通货膨胀；充气"},{"index":17,"word":"monarchy","definition":"n.君主制，君主政体；君主及王室成员"},{"index":18,"word":"monarch","definition":"n.君主，最高统治者"},{"index":19,"word":"astronomy","definition":"n.天文学"},{"index":20,"word":"multinational","definition":"a.跨国的；涉及多国的n.跨国公司"},{"index":21,"word":"whereas","definition":"conj.尽管；鉴于"},{"index":22,"word":"destroy","definition":"v.摧毁"},{"index":23,"word":"destructive","definition":"a.引起破坏（或毁灭）的；破坏（或毁灭）性的"},{"index":24,"word":"destruction","definition":"n.毁灭"},{"index":25,"word":"aid","definition":"n.援助v.帮助"},{"index":26,"word":"radical","definition":"a.根本的；彻底的；完全的n.自由基；激进分子"},{"index":27,"word":"appreciation","definition":"n.欣赏；理解，体谅；感激；增值"},{"index":28,"word":"appreciate","definition":"v.欣赏；理解；感激；增值"},{"index":29,"word":"bargain","definition":"n.交易；便宜货；协议；减价品v.商讨条件"}]},{"name":"List 36","words":[{"index":1,"word":"negotiate","definition":"v.谈判，磋商，协商"},{"index":2,"word":"owe","definition":"v.归功于；欠"},{"index":3,"word":"deserve","definition":"v.值得；应得；应受"},{"index":4,"word":"notion","definition":"n.观念；信念；理解"},{"index":5,"word":"interpretation","definition":"n.解释，说明；演奏方式，表演方式"},{"index":6,"word":"interpret","definition":"v.诠释；说明；口译；把……理解为"},{"index":7,"word":"obscure","definition":"a.无名的，鲜为人知的；费解的；不清楚的"},{"index":8,"word":"error","definition":"n.错误；差错；谬误"},{"index":9,"word":"merely","definition":"ad.仅仅，只不过"},{"index":10,"word":"mere","definition":"a.只不过；仅仅的n.小湖；池塘"},{"index":11,"word":"sample","definition":"n.样品v.取样"},{"index":12,"word":"reviewer","definition":"n.评论家；检查者"},{"index":13,"word":"integrity","definition":"n.完整；诚实正直；完好"},{"index":14,"word":"fade","definition":"a.乏味的；憔悴的v.逐渐消失；衰落；褪色"},{"index":15,"word":"host","definition":"n.主人；许多v.款待；当主人；主办；主持节目"},{"index":16,"word":"credibility","definition":"n.可信性，可靠性"},{"index":17,"word":"credit","definition":"n.信用；功劳v.信用"},{"index":18,"word":"credible","definition":"a.可信的，可靠的；（因看似可能成功而）可接受的"},{"index":19,"word":"incredible","definition":"a.极好的；难以置信的"},{"index":20,"word":"rail","definition":"v.怒斥，责骂n.铁路，铁道，轨道；栏杆，扶手"},{"index":21,"word":"dedicate","definition":"v.把……奉献给；题献词；为……举行典礼"},{"index":22,"word":"temporary","definition":"a.短暂的；暂时的；临时的"},{"index":23,"word":"temporarily","definition":"ad.暂时地，临时地"},{"index":24,"word":"contemporary","definition":"n.同代人；同辈人；同龄人a.属同时期的；同一时代的；当代的；现代的"},{"index":25,"word":"resistance","definition":"n.抵抗力；抵制；电阻"},{"index":26,"word":"resistant","definition":"a.抵制的"},{"index":27,"word":"resist","definition":"v.抵制"},{"index":28,"word":"furthermore","definition":"ad.此外"},{"index":29,"word":"retain","definition":"v.保留；保持；持有"},{"index":30,"word":"native","definition":"a.本地的，当地的，本土的；土著人的；天赋的，与生俱来的"}]},{"name":"List 37","words":[{"index":1,"word":"immune","definition":"a.免疫的；不受影响的；豁免的"},{"index":2,"word":"surround","definition":"v.环绕；围住；围绕（某话题）"},{"index":3,"word":"reminder","definition":"n.引起回忆的事物，提醒人的事物；通知单，提示信"},{"index":4,"word":"remind","definition":"v.提醒；使想起"},{"index":5,"word":"faith","definition":"n.信任；信心；宗教信仰；诚意"},{"index":6,"word":"faithful","definition":"a.忠实的；忠实于原文的n.忠实的人"},{"index":7,"word":"puzzle","definition":"v.使……迷惑不解"},{"index":8,"word":"commonly","definition":"ad.通常地；一般地"},{"index":9,"word":"standardise","definition":"v.使标准化；使符合标准（或规格）"},{"index":10,"word":"attend","definition":"v.参加；出席；注意；专心"},{"index":11,"word":"convention","definition":"n.习俗；惯例；协定；常规；大型会议"},{"index":12,"word":"conventional","definition":"a.传统的；常规的；习惯的"},{"index":13,"word":"hormone","definition":"n.激素，荷尔蒙"},{"index":14,"word":"inherent","definition":"a.固有的，内在的"},{"index":15,"word":"inherently","definition":"ad.内在地，固有地"},{"index":16,"word":"ambiguous","definition":"a.模棱两可的，含糊不清的；不明确的"},{"index":17,"word":"modest","definition":"a.谦虚的；些许的"},{"index":18,"word":"bind","definition":"v.使结合；捆绑"},{"index":19,"word":"pledge","definition":"n.诺言v.正式承诺"},{"index":20,"word":"civil","definition":"a.国民的；国家的；民事的"},{"index":21,"word":"civilization","definition":"n.文明，文明社会"},{"index":22,"word":"fiction","definition":"n.小说；虚构的事；假想之物"},{"index":23,"word":"luxury","definition":"a.奢华的n.奢侈品；奢侈"},{"index":24,"word":"occupy","definition":"v.占据；占领；侵占；使用"},{"index":25,"word":"occupation","definition":"n.职业；消遣；占领"},{"index":26,"word":"sentiment","definition":"n.情绪；看法；柔情"},{"index":27,"word":"trait","definition":"n.特点"},{"index":28,"word":"extreme","definition":"a.极度的；极大的n.极端；极限；极度"},{"index":29,"word":"extremely","definition":"ad.非常，极其"},{"index":30,"word":"perspective","definition":"a.透视的n.观点；远景；景观；透视法"}]},{"name":"List 38","words":[{"index":1,"word":"properly","definition":"ad.适当地，正确地；得体地，符合习俗地"},{"index":2,"word":"compensation","definition":"n.补偿金；补偿；薪酬"},{"index":3,"word":"assignment","definition":"n.（分派的）工作，任务；（工作等的）分派"},{"index":4,"word":"apparently","definition":"ad.据……所知，看来，似乎；显然"},{"index":5,"word":"compensate","definition":"v.给（某人）赔偿；补偿，弥补"},{"index":6,"word":"architecture","definition":"n.体系结构；建筑学；建筑设计"},{"index":7,"word":"apparent","definition":"a.显然的；明显的；表面上的"},{"index":8,"word":"uncertain","definition":"a.拿不准的；不确定的"},{"index":9,"word":"certainly","definition":"ad.当然地，肯定，无疑地"},{"index":10,"word":"sum","definition":"v.总结，概括n.金额；总和，全部"},{"index":11,"word":"uncertainty","definition":"n.不确定，不确定的事，犹豫"},{"index":12,"word":"esteem","definition":"n.敬重"},{"index":13,"word":"decrease","definition":"v./n.减少，减小"},{"index":14,"word":"assemble","definition":"v.聚集，集合，收集；组装"},{"index":15,"word":"tip","definition":"n.尖端；建议；小费v.倾倒；给小费"},{"index":16,"word":"internal","definition":"a.内部的；里面的；体内的n.内脏；本质"},{"index":17,"word":"proportion","definition":"n.比例；部分"},{"index":18,"word":"enormous","definition":"a.巨大的，极大的"},{"index":19,"word":"contain","definition":"v.包含，容纳；控制"},{"index":20,"word":"roughly","definition":"ad.大约，大致；粗暴地；粗糙地，凹凸不平地"},{"index":21,"word":"cautious","definition":"a.小心的；谨慎的"},{"index":22,"word":"mobile","definition":"n.手机a.可移动的；腿脚灵便的；易于变换社会阶层的"},{"index":23,"word":"interference","definition":"n.干扰，冲突；干涉"},{"index":24,"word":"subtle","definition":"a.不易察觉的；不明显的；微妙的；机智的"},{"index":25,"word":"legacy","definition":"n.遗产；遗赠财物；遗留问题"},{"index":26,"word":"recovery","definition":"n.恢复；复苏；回升；痊愈"},{"index":27,"word":"prompt","definition":"a.迅速的；敏捷的；立即的ad.准时地"},{"index":28,"word":"transfer","definition":"v.转移；换乘n.转移"},{"index":29,"word":"assign","definition":"v.分配，布置；指派，委派；确定"},{"index":30,"word":"rigid","definition":"a.僵硬的，死板的；坚硬的；固执的；严格的"}]},{"name":"List 39","words":[{"index":1,"word":"initiative","definition":"n.法案；倡议；主动权"},{"index":2,"word":"regularly","definition":"ad.规律地；均匀地"},{"index":3,"word":"behalf","definition":"n.利益，方面"},{"index":4,"word":"ahead","definition":"ad.（时间、空间）向前面，在前面；提前；领先"},{"index":5,"word":"relieve","definition":"v.缓和，减轻；调剂，使有趣"},{"index":6,"word":"substantial","definition":"a.大量的；价值巨大的；重大的；大而坚固的"},{"index":7,"word":"household","definition":"n.一家人，家庭a.家庭的，家用的"},{"index":8,"word":"emission","definition":"n.（光、热、气等的）发出，射出，排放；排放物"},{"index":9,"word":"substantially","definition":"ad.非常，大大地"},{"index":10,"word":"painful","definition":"a.疼痛的；痛苦的"},{"index":11,"word":"snap","definition":"v.啪地移动；（使）突然断开，断开（成两截）a.匆忙的；仓促的"},{"index":12,"word":"worm","definition":"v.蠕动，曲折行进n.蠕虫，寄生虫，幼虫；懦夫，可怜虫"},{"index":13,"word":"truly","definition":"ad.真诚地；真正，确实"},{"index":14,"word":"schedule","definition":"n.时间表，进度表v.安排；为……安排时间；预定"},{"index":15,"word":"integrate","definition":"a.完全的v.成为一体；（使）加入"},{"index":16,"word":"accelerate","definition":"v.加快；加速"},{"index":17,"word":"dismiss","definition":"v.摒弃；驳回；解雇"},{"index":18,"word":"paycheck","definition":"n.工资支票；工薪"},{"index":19,"word":"gallery","definition":"n.陈列室；美术馆"},{"index":20,"word":"interview","definition":"n.面试；记者采访，访谈；面谈"},{"index":21,"word":"shareholder","definition":"n.股东"},{"index":22,"word":"stuff","definition":"n.东西v.把……塞进"},{"index":23,"word":"interviewee","definition":"n.参加面试者；接受采访者"},{"index":24,"word":"holder","definition":"n.持有者；拥有者；支架"},{"index":25,"word":"deeply","definition":"ad.很，非常；深刻地，强烈地；至深处"},{"index":26,"word":"atmosphere","definition":"n.大气，空气；气氛"},{"index":27,"word":"affair","definition":"n.事件；风流韵事；公共事务"},{"index":28,"word":"cue","definition":"n.暗示；提示v.给……暗示"},{"index":29,"word":"latter","definition":"a.后者的；最后的n.后者"},{"index":30,"word":"transition","definition":"n.过渡；转变；变迁；变革"}]},{"name":"List 40","words":[{"index":1,"word":"chemical","definition":"a.化学的n.化学制品；化学品"},{"index":2,"word":"corruption","definition":"n.腐败，贪污，贿赂；堕落"},{"index":3,"word":"trigger","definition":"n.触发器；起因；扳机v.触发；引起；发动"},{"index":4,"word":"rare","definition":"a.稀有的"},{"index":5,"word":"navy","definition":"n.海军；海军部队"},{"index":6,"word":"component","definition":"n.组成部分a.组成的"},{"index":7,"word":"rarely","definition":"ad.很少；罕有；不常"},{"index":8,"word":"navigate","definition":"v.导航；找到正确方法"},{"index":9,"word":"craft","definition":"n.手艺；工艺；船；飞行器v.精心制作"},{"index":10,"word":"peculiar","definition":"a.不寻常的；古怪的"},{"index":11,"word":"platform","definition":"n.平台；站台；讲台"},{"index":12,"word":"description","definition":"n.描述"},{"index":13,"word":"hostility","definition":"n.敌意；（对思想或形势的）愤怒反对"},{"index":14,"word":"drama","definition":"n.戏剧；戏剧艺术；戏剧文学；戏剧性事件"},{"index":15,"word":"disorder","definition":"n.混乱；疾病"},{"index":16,"word":"hostile","definition":"a.敌意的，敌对的；不利的，有阻碍的"},{"index":17,"word":"dramatic","definition":"a.突然的；巨大的；令人吃惊的；激动人心的"},{"index":18,"word":"orderly","definition":"a.整洁的，有秩序的，守秩序的"},{"index":19,"word":"operate","definition":"v.操作；运转；经营"},{"index":20,"word":"dramatically","definition":"ad.剧烈地，明显地；戏剧性地"},{"index":21,"word":"hence","definition":"ad.因此；由此"},{"index":22,"word":"operator","definition":"n.操作人员；电话员；经营者"},{"index":23,"word":"deforestation","definition":"n.毁林；滥伐森林"},{"index":24,"word":"comprehensive","definition":"a.详尽的；综合性的"},{"index":25,"word":"collapse","definition":"n.崩溃；塌陷；暴跌；病倒v.崩溃；折叠；坍塌；暴跌"},{"index":26,"word":"neutrality","definition":"n.中立；中立状态"},{"index":27,"word":"comprehension","definition":"n.理解力；领悟能力"},{"index":28,"word":"allowance","definition":"n.津贴；限额，定量；免税额"},{"index":29,"word":"neutral","definition":"a.中立的；中性的，中和的"}]},{"name":"List 41","words":[{"index":1,"word":"index","definition":"n.指数；指标；索引v.为……编索引"},{"index":2,"word":"gradually","definition":"ad.逐渐地；逐步地"},{"index":3,"word":"progressive","definition":"a.进步的；先进的；开明的；稳步的n.进步人士；开明人士"},{"index":4,"word":"devote","definition":"v.献身；致力；专心；把……用于"},{"index":5,"word":"gradual","definition":"a.逐渐的；逐步的；平缓的"},{"index":6,"word":"fake","definition":"a.假的；冒充的；伪造的n.赝品；假货；冒充者"},{"index":7,"word":"primarily","definition":"ad.主要地，根本地"},{"index":8,"word":"output","definition":"v.输出n.产量，输出量，输出"},{"index":9,"word":"ruin","definition":"n.破产；毁灭；废墟v.毁灭；破坏；糟蹋"},{"index":10,"word":"saving","definition":"n.节省，节约；储蓄金，存款"},{"index":11,"word":"external","definition":"a.外部的；外面的n.外部；外观；形式；外部情况"},{"index":12,"word":"nevertheless","definition":"ad.然而"},{"index":13,"word":"grasp","definition":"n./v.领会；紧握；控制"},{"index":14,"word":"sponsor","definition":"n.赞助商；倡议者v.主办；资助；倡议"},{"index":15,"word":"reluctant","definition":"a.不情愿的；勉强的"},{"index":16,"word":"central","definition":"a.最重要的；关键的；有控制力的；在中心的"},{"index":17,"word":"default","definition":"n.违约；默认v.违约；不履行义务；预设"},{"index":18,"word":"stem","definition":"n.茎；柄；干v.阻止；封堵；起源于"},{"index":19,"word":"worldwide","definition":"a.影响全世界的；世界各地的ad.全球性地；世界范围地"},{"index":20,"word":"overturn","definition":"v.倾倒，翻掉；推翻，撤销（判决等）"},{"index":21,"word":"scene","definition":"n.地点，现场；场面；片段，镜头；景色，景象"},{"index":22,"word":"revise","definition":"v.修改；复习"},{"index":23,"word":"overrule","definition":"v.（以权力）否定，驳回"},{"index":24,"word":"diversity","definition":"n.多样性"},{"index":25,"word":"delight","definition":"n.高兴；乐趣v.使高兴；使愉快"},{"index":26,"word":"undermine","definition":"v.破坏，渐渐破坏；挖掘地基"},{"index":27,"word":"diverse","definition":"a.多种多样的"},{"index":28,"word":"theme","definition":"n.主题；主旋律；题目"},{"index":29,"word":"client","definition":"n.客户；当事人；委托人"},{"index":30,"word":"launch","definition":"n.发射；下水；上市；发起v.发射；发起；发行；使下水"}]},{"name":"List 42","words":[{"index":1,"word":"subsidy","definition":"n.补贴，补贴金，津贴"},{"index":2,"word":"familiar","definition":"a.熟悉的；常见到的"},{"index":3,"word":"prosperity","definition":"n.繁荣；兴旺；昌盛"},{"index":4,"word":"innocent","definition":"a.无辜的；天真的n.单纯的人"},{"index":5,"word":"unfamiliar","definition":"a.不熟悉的"},{"index":6,"word":"prosper","definition":"v.兴隆；成功"},{"index":7,"word":"odd","definition":"a.奇怪的，怪异的；偶然出现的；奇数的"},{"index":8,"word":"revival","definition":"n.振兴；复苏；重演；再流行"},{"index":9,"word":"valley","definition":"n.流域；山谷；谷地"},{"index":10,"word":"tension","definition":"n.张力；拉伸；矛盾；紧张局势v.绷紧"},{"index":11,"word":"equipment","definition":"n.设备；装备"},{"index":12,"word":"extent","definition":"n.程度；限度；面积；范围"},{"index":13,"word":"domestic","definition":"a.国内的；家务的；家用的；饲养的"},{"index":14,"word":"diminish","definition":"v.减小；变弱"},{"index":15,"word":"tense","definition":"n.时态a.拉紧的；绷紧的"},{"index":16,"word":"imitate","definition":"v.模仿"},{"index":17,"word":"render","definition":"v.使……处于某种状态；给予；递交"},{"index":18,"word":"evade","definition":"v.逃避，回避，逃脱"},{"index":19,"word":"vulnerable","definition":"a.脆弱的，易受伤害的"},{"index":20,"word":"initial","definition":"n.（名字/全名的）首字母a.最初的，开始的，第一的"},{"index":21,"word":"enthusiasm","definition":"n.热心，热忱，热情"},{"index":22,"word":"lure","definition":"v.劝诱，引诱n.吸引力，诱惑力；鱼饵，诱饵"},{"index":23,"word":"initially","definition":"ad.开头，最初，起初"},{"index":24,"word":"universal","definition":"a.普遍的；通用的；宇宙的；全世界的；全体的"},{"index":25,"word":"convert","definition":"v.转变；改建；改装；换算"},{"index":26,"word":"possess","definition":"v.拥有；具有（特质）"},{"index":27,"word":"universe","definition":"n.宇宙，天地万物"},{"index":28,"word":"election","definition":"n.选举；当选"},{"index":29,"word":"carefully","definition":"ad.小心地，仔细地"},{"index":30,"word":"campus","definition":"n.（大学的）校园"},{"index":31,"word":"elect","definition":"a.卓越的n.被选的人v.选举；选择，决定"}]},{"name":"List 43","words":[{"index":1,"word":"forecast","definition":"v./n.预测，预报"},{"index":2,"word":"combat","definition":"n.搏斗，战斗v.防止，减轻；与……战斗"},{"index":3,"word":"moderate","definition":"a.适度的；中等的；温和的v.变缓和；节制"},{"index":4,"word":"orient","definition":"v.朝向，面对；确定方位；熟悉，适应n.东方（尤指中国和日本）"},{"index":5,"word":"foster","definition":"a.收养的v.收养；促进"},{"index":6,"word":"wisdom","definition":"n.智慧；精明；知识，学问"},{"index":7,"word":"scheme","definition":"n.方案；计划；体系v.图谋；密谋"},{"index":8,"word":"virtually","definition":"ad.几乎，实际上；模拟地，虚拟地"},{"index":9,"word":"accuracy","definition":"n.精确（性）；准确（性）"},{"index":10,"word":"isolate","definition":"v.（使）隔离，孤立，脱离"},{"index":11,"word":"virtual","definition":"a.事实上的；虚拟的"},{"index":12,"word":"contrary","definition":"a.相对立的"},{"index":13,"word":"isolation","definition":"n.隔离，隔离状态；孤独，孤立状态"},{"index":14,"word":"virtue","definition":"n.高尚的道德，德行；美德；优秀品质"},{"index":15,"word":"settle","definition":"n.高背长椅v.定居；结算；停留；确定"},{"index":16,"word":"file","definition":"v.提起（诉讼）；提出（申请）n.文件，文件夹；档案"},{"index":17,"word":"infant","definition":"n.婴儿a.初期的"},{"index":18,"word":"commitment","definition":"n.承诺，许诺；奉献，投入；花费，使用"},{"index":19,"word":"stimulus","definition":"n.刺激物"},{"index":20,"word":"prejudice","definition":"n.偏见；成见v.损害；歧视"},{"index":21,"word":"commit","definition":"v.承诺；自杀；做出（错事）；犯（罪）"},{"index":22,"word":"stimulate","definition":"v.刺激，激励"},{"index":23,"word":"battery","definition":"n.电池；一系列"},{"index":24,"word":"embrace","definition":"n.拥抱；接受；包围；领会v.拥抱；包括；欣然接受；包含"},{"index":25,"word":"shelter","definition":"n.住处；避难；收容所v.保护；躲避"},{"index":26,"word":"retiree","definition":"n.退休人员，退休者"},{"index":27,"word":"exception","definition":"n.例外"},{"index":28,"word":"socially","definition":"ad.在社会上；在社交方面"},{"index":29,"word":"suppress","definition":"v.镇压；抑制；压抑；禁止发表"},{"index":30,"word":"sociable","definition":"a.好交际的，合群的"}]},{"name":"List 44","words":[{"index":1,"word":"insect","definition":"n.昆虫"},{"index":2,"word":"overweight","definition":"a.太胖的，过重的"},{"index":3,"word":"minimum","definition":"a.最低的；最小的n.最低限度；最小值；最少量"},{"index":4,"word":"fitness","definition":"n.健壮；健康；适合"},{"index":5,"word":"habitat","definition":"n.（动物的）栖息地，（植物的）产地"},{"index":6,"word":"minimal","definition":"a.极小的，极少的；最小的"},{"index":7,"word":"poll","definition":"n.民意测验；民意调查"},{"index":8,"word":"receptor","definition":"n.感受器；受体"},{"index":9,"word":"minimize","definition":"v.使最小化，使减少到最低限度；降低，贬低"},{"index":10,"word":"discrimination","definition":"n.歧视，区别对待"},{"index":11,"word":"cucumber","definition":"n.黄瓜"},{"index":12,"word":"addict","definition":"n.吸毒成瘾的人；对……入迷的人"},{"index":13,"word":"discriminate","definition":"v.歧视；区分"},{"index":14,"word":"command","definition":"v.命令；指挥，统率；应得，博得n.命令，指令；控制，指挥；掌握"},{"index":15,"word":"addiction","definition":"n.瘾；入迷，嗜好"},{"index":16,"word":"overwhelm","definition":"v.淹没，覆没；压倒，制服；使不知所措"},{"index":17,"word":"entertain","definition":"v.娱乐；款待；使有兴趣"},{"index":18,"word":"cater","definition":"v.满足……需要；迎合；考虑；提供餐饮服务"},{"index":19,"word":"overwhelmingly","definition":"ad.压倒性地，不可抵抗地"},{"index":20,"word":"straight","definition":"a.直的；准的ad.笔直地；直接n.（跑道的）直道"},{"index":21,"word":"distinctly","definition":"ad.明显地"},{"index":22,"word":"auction","definition":"n./v.拍卖"},{"index":23,"word":"straightforward","definition":"a.简单易懂的；坦率的"},{"index":24,"word":"distinction","definition":"n.区别；区分；差别；卓越"},{"index":25,"word":"occasionally","definition":"ad.偶然；偶尔；有时候"},{"index":26,"word":"memorize","definition":"v.记忆，记住"},{"index":27,"word":"distinctive","definition":"a.独特的，特别的"},{"index":28,"word":"lecture","definition":"n./v.演讲，讲课"},{"index":29,"word":"sightseer","definition":"n.观光客，游客"},{"index":30,"word":"misery","definition":"n.苦难；穷困"}]},{"name":"List 45","words":[{"index":1,"word":"edition","definition":"n.（书、报、杂志等的）版次；版本；（报纸、杂志的）一份"},{"index":2,"word":"philosophy","definition":"n.哲学；哲学体系；人生哲学"},{"index":3,"word":"panel","definition":"n.嵌板；金属板；专家咨询组；陪审团；控制板，仪表盘"},{"index":4,"word":"factual","definition":"a.根据事实的"},{"index":5,"word":"philosopher","definition":"n.哲学；哲学体系；人生哲学"},{"index":6,"word":"inadequate","definition":"a.不充分的，不足的；不胜任的，缺乏信心的"},{"index":7,"word":"cognitive","definition":"a.认知的；感知的；认识的"},{"index":8,"word":"tuition","definition":"n.指导；学费"},{"index":9,"word":"adequate","definition":"a.足够的；合格的；合乎需要的"},{"index":10,"word":"supplement","definition":"n.增补；补充；添加物v.补充；增补"},{"index":11,"word":"contract","definition":"n.合同；契约v.（使）收缩；感染（疾病）；订立合同（或契约）"},{"index":12,"word":"adequately","definition":"ad.充分地，足够地；适当地"},{"index":13,"word":"healthcare","definition":"n.医疗保健，健康护理"},{"index":14,"word":"faculty","definition":"n.院系；全体教师；天赋"},{"index":15,"word":"endless","definition":"a.不计其数的；无休止的"},{"index":16,"word":"passive","definition":"n.被动语态；动词被动形式a.消极的；被动的"},{"index":17,"word":"acceptance","definition":"n.验收；接受；认可；承认"},{"index":18,"word":"triumph","definition":"n.胜利；成就；成功的喜悦v.打败，战胜；成功"},{"index":19,"word":"channel","definition":"n.频道；波段；渠道；海峡"},{"index":20,"word":"acceptable","definition":"a.认同的，认可的；可接受的"},{"index":21,"word":"contest","definition":"n.比赛；竞争v.争辩；争夺"},{"index":22,"word":"garment","definition":"n.服装；服饰；外套v.给……穿衣服"},{"index":23,"word":"opponent","definition":"a.反对的n.对手；竞争者；反对者"},{"index":24,"word":"underline","definition":"v.画底线标出，强调，突现"},{"index":25,"word":"cast","definition":"n.全体演员；铸件v.向……投以；投射"},{"index":26,"word":"warrant","definition":"n.依据；许可证；执行令v.使有必要；使正当；使恰当"},{"index":27,"word":"somehow","definition":"ad.以某种方式（或方法）；不知怎地，不知为什么"},{"index":28,"word":"comply","definition":"v.遵从，遵守；服从；顺从"},{"index":29,"word":"tester","definition":"n.测试员；测试仪"},{"index":30,"word":"somewhat","definition":"ad.稍微，有点"}]},{"name":"List 46","words":[{"index":1,"word":"membership","definition":"n.会员；会员资格"},{"index":2,"word":"flaw","definition":"n.瑕疵；裂纹；一阵狂风v.（使）有裂纹；暴露缺点"},{"index":3,"word":"endure","definition":"v.忍受；持久存在"},{"index":4,"word":"remarkable","definition":"a.非凡的；引人注目的"},{"index":5,"word":"flawed","definition":"a.有错误的，有缺点的，有瑕疵的"},{"index":6,"word":"instinct","definition":"a.充满的n.本能；直觉；天性"},{"index":7,"word":"remark","definition":"n.评述；言论；谈论v.评论；谈论"},{"index":8,"word":"aggressive","definition":"a.好斗的；挑衅的；侵略的；富于攻击性的；积极进取的"},{"index":9,"word":"instinctively","definition":"ad.本能地"},{"index":10,"word":"fee","definition":"n.报酬；专业服务费；咨询费v.缴"},{"index":11,"word":"colony","definition":"n.殖民地；聚居区"},{"index":12,"word":"folk","definition":"n.人们；亲属a.民俗的；普通百姓的"},{"index":13,"word":"concrete","definition":"a.具体的；实际的n.混凝土；水泥；具体物v.（使）固结；（使）结合"},{"index":14,"word":"absolute","definition":"a.完全的；全部的；绝对的n.绝对真理"},{"index":15,"word":"horizon","definition":"n.地平线；范围；视野"},{"index":16,"word":"lane","definition":"n.车道；小巷；泳道；胡同"},{"index":17,"word":"deprive","definition":"v.剥夺；免职；使丧失"},{"index":18,"word":"segment","definition":"v.划分n.部分"},{"index":19,"word":"qualify","definition":"v.限定；合格；符合；修饰"},{"index":20,"word":"tear","definition":"n.眼泪；泪水v.撕裂；撕碎；扯破"},{"index":21,"word":"vague","definition":"a.含糊的；不明确的；不清楚的"},{"index":22,"word":"qualification","definition":"n.合格；学历；资历；限定条件"},{"index":23,"word":"confront","definition":"v.使面对，使面临；处理，解决"},{"index":24,"word":"ambition","definition":"n.追求的目标，夙愿；野心，雄心，志向"},{"index":25,"word":"bonus","definition":"n.奖金；红利；意外收获"},{"index":26,"word":"thesis","definition":"n.毕业论文，学位论文；论题"},{"index":27,"word":"provoke","definition":"v.激起，引起；挑衅，激怒"},{"index":28,"word":"enroll","definition":"v.记入名册，招募"},{"index":29,"word":"margin","definition":"n.页边空白；毛利；幅度，差额，边缘"},{"index":30,"word":"monopoly","definition":"n.垄断；独占；专利；专营服务"},{"index":31,"word":"enrollment","definition":"n.入学，注册，登记（人数）"}]},{"name":"List 47","words":[{"index":1,"word":"distinguish","definition":"v.区分，辨别；成为……的特征；看清，认出；使出众"},{"index":2,"word":"intuition","definition":"n.直觉，直观"},{"index":3,"word":"obsess","definition":"v.唠叨，挂牵；使痴迷，使迷恋"},{"index":4,"word":"impulse","definition":"n.冲动a.冲动的，一时心血来潮的"},{"index":5,"word":"intuitive","definition":"a.直觉的；有直觉力的"},{"index":6,"word":"attribute","definition":"n.属性；象征v.把……归因于；认为……属于"},{"index":7,"word":"vanish","definition":"v.（莫名其妙地）突然消失；不复存在；消亡"},{"index":8,"word":"technique","definition":"n.技巧；技术"},{"index":9,"word":"solely","definition":"ad.仅仅；单独地"},{"index":10,"word":"nonsense","definition":"n.谬论；胡扯；胡言乱语"},{"index":11,"word":"nowadays","definition":"ad.现今；时下"},{"index":12,"word":"sole","definition":"a.唯一的"},{"index":13,"word":"hinder","definition":"a.后面的v.阻碍；阻挡"},{"index":14,"word":"dose","definition":"v.给（某人）服药n.（药的）一剂，一服；一份，一点"},{"index":15,"word":"dispute","definition":"n.争论；辩论；争夺v.争论；辩论；争夺；反驳"},{"index":16,"word":"coordination","definition":"n.协调，配合（能力）"},{"index":17,"word":"dim","definition":"v.（使）变暗淡，变微弱；（使）减弱a.暗淡的，微弱的，模糊的；愚蠢的"},{"index":18,"word":"valid","definition":"a.有效的；符合逻辑的，合理的"},{"index":19,"word":"resident","definition":"n.居民；旅馆的住宿者a.居住的"},{"index":20,"word":"supervise","definition":"v.监督；管理；指导；督导"},{"index":21,"word":"withdraw","definition":"v.撤回；停止提供；（从银行）取（钱）"},{"index":22,"word":"exert","definition":"v.施加；努力；运用"},{"index":23,"word":"frustration","definition":"n.沮丧，懊丧；受阻，挫败"},{"index":24,"word":"complicate","definition":"v.使……复杂；使……难懂；使（疾病等）恶化"},{"index":25,"word":"illusion","definition":"n.幻想；假想"},{"index":26,"word":"outline","definition":"v.概述；勾勒出（轮廓）n.提纲，概述；轮廓；略图，草图"},{"index":27,"word":"assistant","definition":"a.助理的；副的n.助理；助手"},{"index":28,"word":"salary","definition":"n.薪水，工资"},{"index":29,"word":"mock","definition":"a.虚假的；不诚实的；模仿的v.嘲笑；蔑视"},{"index":30,"word":"dilemma","definition":"n.（进退两难的）窘境"}]},{"name":"List 48","words":[{"index":1,"word":"implement","definition":"n.工具，器具；手段v.实施，实现，使生效"},{"index":2,"word":"inclination","definition":"n.倾向，意愿；趋势"},{"index":3,"word":"equivalent","definition":"a.相等的n.相等的东西"},{"index":4,"word":"tackle","definition":"n.索具，滑车；（体育）用具v.处理；阻截；与某人交涉；向某人提起"},{"index":5,"word":"logical","definition":"a.逻辑的"},{"index":6,"word":"producer","definition":"n.生产商；产地；制作人"},{"index":7,"word":"curriculum","definition":"n.全部课程"},{"index":8,"word":"attach","definition":"v.把……固定，把……附上；认为有重要性，重视；参加"},{"index":9,"word":"productive","definition":"a.多产的；有效益的"},{"index":10,"word":"resemble","definition":"v.类似；相似；相像"},{"index":11,"word":"gather","definition":"v.聚集，聚拢；推测，推断"},{"index":12,"word":"reproduce","definition":"v.繁殖；复制；再现；生育"},{"index":13,"word":"wealthy","definition":"a.富有的；富裕的；富饶的n.富人；有钱人"},{"index":14,"word":"ideology","definition":"n.思想体系；意识形态"},{"index":15,"word":"pollution","definition":"n.污染"},{"index":16,"word":"glory","definition":"n.荣誉；光荣；赞美v.因……而喜悦"},{"index":17,"word":"exhaust","definition":"v.使精疲力竭"},{"index":18,"word":"grocery","definition":"n.食品杂货店；食品杂货"},{"index":19,"word":"conscience","definition":"n.良心，良知；内疚"},{"index":20,"word":"boom","definition":"n.（经济）繁荣；增长v.激增"},{"index":21,"word":"bachelor","definition":"n.学士；未婚男子；单身汉"},{"index":22,"word":"crash","definition":"a.紧急的；速成的n.撞击；暴跌；崩溃v.撞击；暴跌；崩溃"},{"index":23,"word":"skip","definition":"v.蹦跳，蹦跳着走；略过，跳过；不做"},{"index":24,"word":"inner","definition":"a.里面的；内部的；内心的n.内部"},{"index":25,"word":"pause","definition":"n.停顿；中止v.暂停；停顿"},{"index":26,"word":"alert","definition":"a.警觉的；充分意识到的n.戒备状态v.向……发出警报"},{"index":27,"word":"via","definition":"prep.通过；经由"},{"index":28,"word":"incline","definition":"v.（使）倾斜；（使）倾向于"},{"index":29,"word":"narrow","definition":"v.变窄，缩小a.狭窄的，狭义的，范围小的"},{"index":30,"word":"volume","definition":"n.体积；量；卷；容积；音量"}]},{"name":"List 49","words":[{"index":1,"word":"vital","definition":"a.必不可少的；对……极重要的；生命的"},{"index":2,"word":"request","definition":"n.要求，请求v.要求，请求"},{"index":3,"word":"monthly","definition":"a.每月的ad.每个月n.月刊"},{"index":4,"word":"conceal","definition":"v.掩盖；隐瞒；掩饰"},{"index":5,"word":"shopper","definition":"n.购物者，顾客；购物袋"},{"index":6,"word":"steadily","definition":"ad.逐渐地，稳步地；稳定地"},{"index":7,"word":"steady","definition":"a.稳定的；（发展、增长等）稳步的v.强制执行；委托办理；授权n.（政府或组织等经选举而获得的）授权；（政府的）"},{"index":8,"word":"mandate","definition":"任期；委托书；授权令"},{"index":9,"word":"depress","definition":"v.使抑郁，沮丧；使萧条，不景气；降低，减少"},{"index":10,"word":"depression","definition":"n.抑郁，沮丧；经济衰退"},{"index":11,"word":"clip","definition":"v.夹住，别住；修剪；碰撞n.夹子，回形针，别针；剪短，剪掉；（电影）片段"},{"index":12,"word":"tight","definition":"a.牢固的，紧的；紧身的；拮据的"},{"index":13,"word":"prone","definition":"a.易于的"},{"index":14,"word":"fossil","definition":"n.化石"},{"index":15,"word":"architect","definition":"n.建筑师，设计师"},{"index":16,"word":"worsen","definition":"v.（使）变得更坏；恶化；变得更糟"},{"index":17,"word":"thorny","definition":"a.棘手的；麻烦的；引起争议的"},{"index":18,"word":"downturn","definition":"n.（商业经济的）衰退，下降，衰退期"},{"index":19,"word":"distraction","definition":"n.分散注意力的事情"},{"index":20,"word":"coworker","definition":"n.共事的人，合作者"},{"index":21,"word":"cancer","definition":"n.癌；（迅速蔓延的）邪恶"},{"index":22,"word":"composition","definition":"n.作文，作曲，作品；构成；成分"},{"index":23,"word":"compose","definition":"v.组成；作曲；使镇静"},{"index":24,"word":"treatment","definition":"n.治疗；对待；处理"},{"index":25,"word":"cell","definition":"n.细胞；小牢房"},{"index":26,"word":"diffuse","definition":"v.传播（知识、消息等）；散布"},{"index":27,"word":"token","definition":"n.代币；代金券，礼券；标志，象征a.装样子的，敷衍的；象征性的，标志的"},{"index":28,"word":"comparison","definition":"n.比较；相似对比"},{"index":29,"word":"awaken","definition":"v.（使）醒来；唤起"},{"index":30,"word":"aggravate","definition":"v.使严重；使恶化；激怒"}]},{"name":"List 50","words":[{"index":1,"word":"elaborate","definition":"a.复杂的；精心制作的v.精心制作；详尽阐述n.（尤用于报章等）首相，总理；（加拿大的）省总理，地方总理a.首要的，最著"},{"index":2,"word":"premier","definition":"名的"},{"index":3,"word":"prescription","definition":"n.处方，药方；建议，秘诀"},{"index":4,"word":"oblige","definition":"v.效劳；迫使"},{"index":5,"word":"entail","definition":"n.限定继承权v.需要；牵涉；使必要"},{"index":6,"word":"crowd","definition":"n.人群；群众v.挤；挤满"},{"index":7,"word":"branch","definition":"n.树枝；分支；分支部门；（学科及语言的）分支"},{"index":8,"word":"predator","definition":"n.捕食性动物；实行弱肉强食的人（或机构），剥削者"},{"index":9,"word":"wallet","definition":"n.皮夹；钱包"},{"index":10,"word":"quest","definition":"n.探索，寻找，追求（幸福等）v.探索；探求"},{"index":11,"word":"questionable","definition":"a.可疑的，有问题的；可能不诚实（或不道德）的"},{"index":12,"word":"conceive","definition":"v.构想；怀孕"},{"index":13,"word":"fold","definition":"v.折叠"},{"index":14,"word":"variation","definition":"n.变化，变异；变体"},{"index":15,"word":"technical","definition":"a.技术的；技能的；工艺的"},{"index":16,"word":"penalty","definition":"n.处罚；刑罚；点球"},{"index":17,"word":"clue","definition":"n.提示；迹象；线索v.提示；为……提供线索"},{"index":18,"word":"ordinary","definition":"a.普通的；一般的n.普通；平常的人"},{"index":19,"word":"submit","definition":"v.提交；屈服；认为；顺从"},{"index":20,"word":"kinship","definition":"n.亲属关系"},{"index":21,"word":"inherit","definition":"v.继承；经遗传获得（品质、身体特征等）"},{"index":22,"word":"ceremony","definition":"n.仪式；典礼；礼节"},{"index":23,"word":"loyal","definition":"a.忠诚的；忠实的"},{"index":24,"word":"loyalty","definition":"n.忠诚，忠心"},{"index":25,"word":"tempt","definition":"v.诱惑；引诱；怂恿"},{"index":26,"word":"lifetime","definition":"n.一生，寿命，使用期限"},{"index":27,"word":"amateur","definition":"a.业余的n.业余爱好者；业余运动员；生手；外行"},{"index":28,"word":"mutual","definition":"a.相互的；彼此的；共有的"},{"index":29,"word":"uphold","definition":"v.支持，维护（正义等）；维持，确认（原判、裁决等）"},{"index":30,"word":"kingdom","definition":"n.王国；领域；管辖范围"}]},{"name":"List 51","words":[{"index":1,"word":"doctoral","definition":"a.博士的；博士学位的"},{"index":2,"word":"embody","definition":"v.体现；包含；收录；包括"},{"index":3,"word":"spot","definition":"n.斑点，污点；一个特定的点"},{"index":4,"word":"senate","definition":"n.参议院"},{"index":5,"word":"scrutiny","definition":"n.仔细检查"},{"index":6,"word":"merit","definition":"n.价值；优点；功绩；美德v.值得；应得"},{"index":7,"word":"verify","definition":"v.核实；证明；查对"},{"index":8,"word":"statute","definition":"n.法规；法令；章程；条例"},{"index":9,"word":"bury","definition":"v.埋葬；掩埋；隐藏"},{"index":10,"word":"sketch","definition":"n.素描；草图；速写；幽默短剧；小品v.概述；画素描"},{"index":11,"word":"treasury","definition":"n.财政部；宝库"},{"index":12,"word":"unilateral","definition":"a.单方的"},{"index":13,"word":"gaze","definition":"n.凝视；注视v.凝视；注视：盯着"},{"index":14,"word":"fluid","definition":"n.液体，流体a.流动的，液体的"},{"index":15,"word":"abdominal","definition":"a.腹部的"},{"index":16,"word":"photography","definition":"n.照相术；摄影"},{"index":17,"word":"grin","definition":"n./v.露齿而笑，咧嘴一笑"},{"index":18,"word":"specialise","definition":"v.专门研究（或从事），专攻"},{"index":19,"word":"specialist","definition":"n.专家，专业人士；专科医生"},{"index":20,"word":"confine","definition":"v.限制；拘禁"},{"index":21,"word":"prudent","definition":"a.谨慎的；节俭的"},{"index":22,"word":"paralysis","definition":"n.麻痹，瘫痪；（活动、工作等）能力的完全丧失"},{"index":23,"word":"formulate","definition":"v.制订；准备；规划；构想"},{"index":24,"word":"movement","definition":"n.移动；活动；迁移；乐章"},{"index":25,"word":"array","definition":"n.大量；各种v.布置，排列"},{"index":26,"word":"string","definition":"a.弦乐器的；线的n.字符串；弦；线；一连串v.悬挂；系；扎；把……连在一起"},{"index":27,"word":"phase","definition":"v.分阶段进行，逐步做n.阶段，时期；月相，（月亮的）盈亏"},{"index":28,"word":"continent","definition":"a.自制的，克制的n.大陆；洲"},{"index":29,"word":"amaze","definition":"v.使惊奇；使惊诧"},{"index":30,"word":"disaster","definition":"n.灾难；极为糟糕的事"}]},{"name":"List 52","words":[{"index":1,"word":"soul","definition":"n.灵魂；个性"},{"index":2,"word":"flourish","definition":"v.繁荣；兴旺"},{"index":3,"word":"broadly","definition":"ad.大体上，基本上，广泛地"},{"index":4,"word":"superior","definition":"a.更好的；更高的；有优越感的n.上司"},{"index":5,"word":"inferior","definition":"a.较差的；级别低的n.级别低的人"},{"index":6,"word":"exhibit","definition":"v.表现出；展览n.展览品；证物"},{"index":7,"word":"frighten","definition":"v.使惊恐"},{"index":8,"word":"nasty","definition":"a.可恶的，令人讨厌的"},{"index":9,"word":"hugely","definition":"ad.极度，极其；非常，深深地"},{"index":10,"word":"deploy","definition":"v.部署（军队或武器）；有效地利用"},{"index":11,"word":"chronic","definition":"a.慢性的；长期的；积习难改的"},{"index":12,"word":"chronicle","definition":"n.编年史，历史v.把……载入编年史，按事件发生顺序记载"},{"index":13,"word":"barely","definition":"ad.仅仅；几乎不；刚刚"},{"index":14,"word":"deliberately","definition":"ad.故意，存心；不慌不忙地，小心翼翼地"},{"index":15,"word":"assert","definition":"v.坚定地陈述；显示（权威）；彰显（自己）"},{"index":16,"word":"comfort","definition":"n.舒服；安慰；使生活舒适的东西"},{"index":17,"word":"rut","definition":"n.车辙；常规，刻板乏味的生活"},{"index":18,"word":"casual","definition":"a.放松的；不经意的；休闲的；临时的"},{"index":19,"word":"abandon","definition":"n.放肆；狂热；任性v.放弃；抛弃；废弃"},{"index":20,"word":"reinforce","definition":"v.加强；充实；加固"},{"index":21,"word":"wholly","definition":"ad.完全地"},{"index":22,"word":"abundant","definition":"a.大量的；丰盛的；充裕的"},{"index":23,"word":"deem","definition":"v.认为；当成；相信"},{"index":24,"word":"explosion","definition":"n.爆炸；激增；突增"},{"index":25,"word":"similarly","definition":"ad.相似地，类似地；同样，也"},{"index":26,"word":"revive","definition":"v.（使）苏醒；复活；复兴"},{"index":27,"word":"ultimately","definition":"ad.最终；最后"},{"index":28,"word":"fragment","definition":"n.片段；碎块v.分割；使成碎片"},{"index":29,"word":"persuade","definition":"v.说服"},{"index":30,"word":"intensity","definition":"n.强烈；紧张；剧烈"},{"index":31,"word":"intensify","definition":"v.（使）加强，（使）加剧"}]},{"name":"List 53","words":[{"index":1,"word":"enquiry/inquiry","definition":"n.调查；询问"},{"index":2,"word":"distort","definition":"v.扭曲；歪曲；使变形；使失真"},{"index":3,"word":"recipient","definition":"n.接受者；受方a.容纳的；感受性强的"},{"index":4,"word":"slightly","definition":"ad.稍微，略微；身材瘦小地"},{"index":5,"word":"spark","definition":"n.火花，火星；活力v.引发；冒火花"},{"index":6,"word":"framework","definition":"n.框架，机制，准则"},{"index":7,"word":"dimension","definition":"n.方面；维；尺寸；容积"},{"index":8,"word":"speculate","definition":"v.推测，猜测；投机"},{"index":9,"word":"crime","definition":"n.罪；罪行；犯罪活动"},{"index":10,"word":"label","definition":"n.标签；签条；标记v.贴标签于"},{"index":11,"word":"anticipate","definition":"v.预料，预期；预见；期望"},{"index":12,"word":"chancellor","definition":"n.总理；名誉校长"},{"index":13,"word":"embarrass","definition":"v.使窘迫；使尴尬；使陷入困境"},{"index":14,"word":"costly","definition":"a.花钱多的；昂贵的；引起困难的"},{"index":15,"word":"sensible","definition":"a.明智的，理智的，合理的，切合实际的"},{"index":16,"word":"outdate","definition":"v.使过时"},{"index":17,"word":"smartphone","definition":"n.智能手机"},{"index":18,"word":"scan","definition":"v.察看；扫描n.察看；扫描"},{"index":19,"word":"worthwhile","definition":"a.重要的；值得花时间（或花钱、努力等）的"},{"index":20,"word":"sanction","definition":"n.制裁；许可；处罚v.许可；实施制裁"},{"index":21,"word":"symptom","definition":"n.症状"},{"index":22,"word":"alleviation","definition":"n.减轻，缓和"},{"index":23,"word":"alleviate","definition":"v.减轻（不适）"},{"index":24,"word":"catalogue/catalog","definition":"n.目录；一连串（糟糕）事"},{"index":25,"word":"float","definition":"n.浮子；彩车v.浮动；漂浮；漂流"},{"index":26,"word":"wild","definition":"a.野生的；荒凉的；缺乏管教的n.野外，野生状态"},{"index":27,"word":"wildlife","definition":"n.野生生物"},{"index":28,"word":"linguist","definition":"n.语言学家；通晓数国语言的人"},{"index":29,"word":"tone","definition":"n.音质；语气"},{"index":30,"word":"document","definition":"n.文件；公文；文档v.记录"},{"index":31,"word":"elegant","definition":"a.优雅的；精妙的"}]},{"name":"List 54","words":[{"index":1,"word":"cigarette","definition":"n.香烟"},{"index":2,"word":"sadness","definition":"n.悲伤；使人悲伤的事情"},{"index":3,"word":"abolish","definition":"v.废除（制度和习俗等）"},{"index":4,"word":"numerical","definition":"a.数字的"},{"index":5,"word":"sequence","definition":"n.次序；顺序"},{"index":6,"word":"headline","definition":"n.大字标题；头条新闻；新闻摘要"},{"index":7,"word":"fierce","definition":"a.凶猛的；狂怒的；激烈的；狂热的"},{"index":8,"word":"leisure","definition":"n.空闲；休闲"},{"index":9,"word":"nutrition","definition":"n.营养；滋养"},{"index":10,"word":"perfectly","definition":"ad.完全地，非常；完美地，合适地"},{"index":11,"word":"sociologist","definition":"n.社会学家"},{"index":12,"word":"journey","definition":"n.（尤指长途）旅行；行程"},{"index":13,"word":"consist","definition":"v.（以……）为组成部分"},{"index":14,"word":"consistently","definition":"ad.一贯地，始终如一地"},{"index":15,"word":"click","definition":"v.（使）发咔嚓声，咔嚓声；点击"},{"index":16,"word":"transaction","definition":"n.（一笔）交易，业务，买卖"},{"index":17,"word":"exaggerate","definition":"v.夸大"},{"index":18,"word":"backyard","definition":"n.后院，后花园"},{"index":19,"word":"block","definition":"n.立方体；大楼；街区；一批，一组；障碍v.堵塞，阻塞；妨碍"},{"index":20,"word":"substitute","definition":"n.代替物；代替者v.取代；替代"},{"index":21,"word":"doubtful","definition":"a.怀疑的；难说的；悬而未定的"},{"index":22,"word":"activist","definition":"n.积极分子，活跃分子"},{"index":23,"word":"split","definition":"v.分开n.裂口，裂缝"},{"index":24,"word":"profound","definition":"a.深切的；巨大的；理解深刻的"},{"index":25,"word":"aging","definition":"n.变老a.老化的"},{"index":26,"word":"subsequent","definition":"a.随后的；后来的"},{"index":27,"word":"item","definition":"n.项目；一件商品；一则"},{"index":28,"word":"hunger","definition":"n.饥饿；渴求v.饥饿；使饥饿"},{"index":29,"word":"grain","definition":"n.谷物，谷类；颗粒，细粒"},{"index":30,"word":"actively","definition":"ad.积极地，活跃地"}]},{"name":"List 55","words":[{"index":1,"word":"await","definition":"v.等待；期待；将发生在"},{"index":2,"word":"tide","definition":"n.趋势，潮流；潮汐v.随潮漂流；帮人渡过（困难时期）"},{"index":3,"word":"bless","definition":"v.祈求上帝祝福；保佑，赐福于"},{"index":4,"word":"monetary","definition":"a.钱的；货币的"},{"index":5,"word":"prosecute","definition":"v.起诉；控告；担任原告律师"},{"index":6,"word":"transportation","definition":"n.运输；运输工具"},{"index":7,"word":"ecosystem","definition":"n.生态系统"},{"index":8,"word":"doom","definition":"n.厄运；悲观v.注定"},{"index":9,"word":"twist","definition":"n./v.捻；扭转"},{"index":10,"word":"freshman","definition":"n.大一新生"},{"index":11,"word":"fascinate","definition":"v.使着迷；蛊惑"},{"index":12,"word":"fascination","definition":"n.入迷；着迷；魅力"},{"index":13,"word":"scare","definition":"v.惊吓n.恐慌；恐惧"},{"index":14,"word":"stare","definition":"v./n.盯，凝视"},{"index":15,"word":"hygiene","definition":"n.卫生"},{"index":16,"word":"electricity","definition":"n.电，电流；电学"},{"index":17,"word":"vivid","definition":"a.生动的；清晰的；鲜明的；（想象）丰富的"},{"index":18,"word":"lottery","definition":"n.彩票；碰运气的事"},{"index":19,"word":"youth","definition":"n.年轻人，青年人；朝气，年轻人"},{"index":20,"word":"visual","definition":"a.视力的；视觉的n.视觉资料"},{"index":21,"word":"discourage","definition":"v.使灰心，使泄气；阻止，劝阻"},{"index":22,"word":"summarise","definition":"v.总结；概括；概述"},{"index":23,"word":"calorie","definition":"n.卡路里（食物所产生的热量或能量单位）"},{"index":24,"word":"childhood","definition":"n.幼年，童年"},{"index":25,"word":"army","definition":"n.军队，陆军；大群，大批"},{"index":26,"word":"satisfaction","definition":"n.满足，满意；乐事，愉快"},{"index":27,"word":"cartoon","definition":"n.漫画，动画片"},{"index":28,"word":"impulsive","definition":"a.凭冲动行事的，易冲动的"},{"index":29,"word":"cultivate","definition":"v.耕种；逐渐形成"},{"index":30,"word":"cultivation","definition":"n.耕种；种植；栽培；培植"}]},{"name":"List 56","words":[{"index":1,"word":"tactic","definition":"n.战术"},{"index":2,"word":"route","definition":"n.路线；巡访；途径"},{"index":3,"word":"fellow","definition":"a.同种情况的；同类的n.家伙；同事；同伴"},{"index":4,"word":"lengthy","definition":"a.很长的，漫长的，冗长的"},{"index":5,"word":"reshape","definition":"v.改变……的形状（或结构）；重塑；改组"},{"index":6,"word":"portray","definition":"v.描绘；描画；描写"},{"index":7,"word":"apartment","definition":"n.公寓"},{"index":8,"word":"newsroom","definition":"n.新闻编辑部"},{"index":9,"word":"proceed","definition":"v.继续做；行进"},{"index":10,"word":"magnify","definition":"v.（影响或声音的）放大；扩大；增强；夸张"},{"index":11,"word":"dishonest","definition":"a.不诚实的"},{"index":12,"word":"decay","definition":"v.腐坏；衰败n.衰败"},{"index":13,"word":"mysterious","definition":"a.神秘的，难以理解的"},{"index":14,"word":"intake","definition":"n.摄入量；纳入的人数"},{"index":15,"word":"bid","definition":"n.努力尝试v.力求获得；努力争取"},{"index":16,"word":"suburb","definition":"n.市郊"},{"index":17,"word":"profile","definition":"v.概述，扼要介绍n.轮廓；概述，简介；形象"},{"index":18,"word":"facility","definition":"n.设施；场所；天赋"},{"index":19,"word":"facilitate","definition":"v.促进"},{"index":20,"word":"classify","definition":"v.将……分类；界定"},{"index":21,"word":"blank","definition":"n.空白处，空格；遗忘a.空白的，茫然的，毫无表情的"},{"index":22,"word":"momentum","definition":"n.动力，推进力"},{"index":23,"word":"vice","definition":"n.邪恶；恶习；台钳，老虎钳"},{"index":24,"word":"unify","definition":"v.使联合，统一；使相同，使一致"},{"index":25,"word":"grind","definition":"v.磨(碎)，碾(碎)"},{"index":26,"word":"wire","definition":"n.金属线，电线；电报，电信v.将……连接到"},{"index":27,"word":"disadvantage","definition":"n.不利因素，障碍，缺点"},{"index":28,"word":"vocabulary","definition":"n.词汇"},{"index":29,"word":"solar","definition":"a.太阳的；太阳能的"},{"index":30,"word":"dairy","definition":"n.牛奶场a.奶制的"}]},{"name":"List 57","words":[{"index":1,"word":"symbolize","definition":"v.象征；代表"},{"index":2,"word":"depict","definition":"v.描绘"},{"index":3,"word":"calculate","definition":"v.计算；预测；核算；推测"},{"index":4,"word":"disturb","definition":"v.打扰；使不安；使烦恼；使紊乱"},{"index":5,"word":"refresh","definition":"v.刷新；更新；提醒；使恢复精力"},{"index":6,"word":"precede","definition":"v.先于；领先于"},{"index":7,"word":"senator","definition":"n.参议员"},{"index":8,"word":"cease","definition":"v.停止；不再"},{"index":9,"word":"prevail","definition":"v.流行；盛行；战胜；压倒"},{"index":10,"word":"persistent","definition":"a.执着的，坚持不懈的；连绵的，持续的"},{"index":11,"word":"plead","definition":"v.恳求；辩护；乞求"},{"index":12,"word":"consolidate","definition":"v.合并；使加强；使巩固"},{"index":13,"word":"persist","definition":"v.继续存在"},{"index":14,"word":"impartial","definition":"a.公正的，中立的"},{"index":15,"word":"explicit","definition":"a.清楚明白的；直言的；直截了当的"},{"index":16,"word":"contempt","definition":"n.蔑视"},{"index":17,"word":"setback","definition":"n.挫折；退步"},{"index":18,"word":"stern","definition":"a.严厉的；坚定的n.船尾；末端"},{"index":19,"word":"nonetheless","definition":"ad.尽管如此，但是"},{"index":20,"word":"shortcoming","definition":"n.缺点，短处"},{"index":21,"word":"quarterly","definition":"a.季度的ad.按季n.季刊"},{"index":22,"word":"apology","definition":"n.歉意"},{"index":23,"word":"pension","definition":"n.养老金，退休金"},{"index":24,"word":"intense","definition":"a.很大的；十分强烈的；严肃紧张的"},{"index":25,"word":"decorate","definition":"v.装饰；粉刷"},{"index":26,"word":"victim","definition":"n.受害者；牺牲品"},{"index":27,"word":"derive","definition":"v.（从……中）得到，获得;（从……中）提取；起源于，源自"},{"index":28,"word":"marine","definition":"a.海的；海产的；海船的；海上贸易的"},{"index":29,"word":"protest","definition":"n.抗议；反对v.抗议；反对"},{"index":30,"word":"compel","definition":"v.强迫；引起（反应）"}]},{"name":"List 58","words":[{"index":1,"word":"obstacle","definition":"n.障碍；绊脚石"},{"index":2,"word":"attack","definition":"v.攻击；抨击；侵害n.攻击"},{"index":3,"word":"humble","definition":"a.谦逊的；卑微的v.贬低"},{"index":4,"word":"prime","definition":"a.主要的；首要的；基本的；优质的n.盛年v.使做好准备"},{"index":5,"word":"compulsive","definition":"a.强迫性的，难控制的；引人入胜的"},{"index":6,"word":"masterpiece","definition":"n.杰作"},{"index":7,"word":"hypothesis","definition":"n.假说，假设；（凭空的）猜想，猜测"},{"index":8,"word":"durable","definition":"a.耐用的，持久的"},{"index":9,"word":"instruct","definition":"v.指示；传授；告知"},{"index":10,"word":"abstract","definition":"v.抽取，提取；写……的摘要a.抽象的"},{"index":11,"word":"duration","definition":"n.持续时间，期间"},{"index":12,"word":"augment","definition":"v.增加，提高，扩大"},{"index":13,"word":"diligent","definition":"a.孜孜不倦的，勤勉的"},{"index":14,"word":"subscribe","definition":"v.申请，预订；定期订购，订阅；定期捐助；认购股份"},{"index":15,"word":"refrain","definition":"v.克制，节制；避免n.经常重复的评价（或抱怨）"},{"index":16,"word":"diligence","definition":"n.勤勉；勤奋"},{"index":17,"word":"extract","definition":"v.提取，提炼；选取，摘录，拔出；索取，设法得到n.摘录；浓缩物"},{"index":18,"word":"prohibit","definition":"v.禁止"},{"index":19,"word":"interrupt","definition":"v.插嘴，打扰；使暂停，使中断"},{"index":20,"word":"delete","definition":"v.删除"},{"index":21,"word":"inspect","definition":"v.检查；视察"},{"index":22,"word":"resume/résumé","definition":"v.重新开始，（中断后）继续；恢复n.（=résumé）摘要，概述；简历"},{"index":23,"word":"frown","definition":"v.皱眉"},{"index":24,"word":"propel","definition":"v.推进，推动；迫使，驱使"},{"index":25,"word":"reckon","definition":"v.计算，总计；估计，猜想；认为"},{"index":26,"word":"territory","definition":"n.领土；地盘"},{"index":27,"word":"tease","definition":"v./n.戏弄，取笑；挑逗"},{"index":28,"word":"deficiency","definition":"n.缺乏，不足；缺点，缺陷"},{"index":29,"word":"consult","definition":"v.咨询；查询；请教；查阅"},{"index":30,"word":"ecology","definition":"n.生态（学）"}]},{"name":"List 59","words":[{"index":1,"word":"pioneer","definition":"v.开创，倡导n.先驱，先锋，带头人"},{"index":2,"word":"deduce","definition":"v.推论，推断，演绎"},{"index":3,"word":"precious","definition":"a.珍奇的；珍稀的；宝贵的；珍贵的"},{"index":4,"word":"jealous","definition":"a.妒忌的；猜疑的；警惕的"},{"index":5,"word":"tentative","definition":"a.暂定的，不确定的；犹豫不定的"},{"index":6,"word":"impair","definition":"v.损害；削弱"},{"index":7,"word":"dwell","definition":"v.居住；栖身"},{"index":8,"word":"apprehension","definition":"n.担忧，担心；了解，明白，理解"},{"index":9,"word":"scrutinize","definition":"v.细致审查，仔细查看，认真检查"},{"index":10,"word":"dwelling","definition":"n.住宅，住所"},{"index":11,"word":"luggage","definition":"n.行李，皮箱"},{"index":12,"word":"arrogant","definition":"a.傲慢的"},{"index":13,"word":"temper","definition":"v.使缓和，使温和n.脾气，易怒的性情，怒气；心情，情绪"},{"index":14,"word":"coincide","definition":"v.同时发生；相同，相符；重叠"},{"index":15,"word":"dumb","definition":"a.哑的；说不出话的；愚蠢而恼人的"},{"index":16,"word":"plea","definition":"n.（法律）抗辩；请求，恳求，托词，口实"},{"index":17,"word":"plateau","definition":"v.保持稳定水平，处于停滞状态n.高原；（发展、增长后的）停滞期"},{"index":18,"word":"numerous","definition":"a.众多的；许多的"},{"index":19,"word":"certificate","definition":"v.发给结业证书n.证明，证明书；文凭，结业证书，合格证书"},{"index":20,"word":"allege","definition":"v.断言，声称"},{"index":21,"word":"scold","definition":"v.责骂，训斥"},{"index":22,"word":"startle","definition":"v.使惊吓，使大吃一惊"},{"index":23,"word":"guidance","definition":"n.引导，指导"},{"index":24,"word":"inventory","definition":"n.存货，库存；清单v.开列清单"},{"index":25,"word":"hysteria","definition":"n.歇斯底里；大肆鼓吹，大惊小怪"},{"index":26,"word":"ornament","definition":"v.装饰，点缀，美化n.装饰品，首饰"},{"index":27,"word":"crude","definition":"a.粗略的；粗制的；粗鲁的n.石油"},{"index":28,"word":"proverb","definition":"n.谚语；格言"},{"index":29,"word":"deter","definition":"v.制止，阻止；威慑，使不敢"},{"index":30,"word":"insult","definition":"v.辱骂；冒犯n.侮辱；辱骂；冒犯"}]},{"name":"List 60","words":[{"index":1,"word":"ethnic","definition":"a.种族的，民族的n.少数民族的人"},{"index":2,"word":"worship","definition":"n./v.崇拜；爱慕"},{"index":3,"word":"gross","definition":"a.总的；严重的；粗俗的ad.总共v.总收入为n.总收入"},{"index":4,"word":"lame","definition":"a.瘸的；站不住脚的，无说服力的"},{"index":5,"word":"compact","definition":"n.合约，契约；小汽车v.把……紧压在一起a.紧密的，紧凑的；小型的"},{"index":6,"word":"hesitate","definition":"v.犹豫；顾虑"},{"index":7,"word":"swallow","definition":"v.吞咽；完全相信"},{"index":8,"word":"hesitant","definition":"a.犹豫的；踌躇的；不情愿的"},{"index":9,"word":"prolong","definition":"v.延长（时间）"},{"index":10,"word":"physician","definition":"n.内科医生"},{"index":11,"word":"consent","definition":"n.准许；同意v.准许；同意"},{"index":12,"word":"agony","definition":"n.极度痛苦"},{"index":13,"word":"conspire","definition":"v.密谋，图谋，阴谋"},{"index":14,"word":"sincere","definition":"a.真诚的；诚挚的"},{"index":15,"word":"agonize","definition":"v.使痛苦"},{"index":16,"word":"destiny","definition":"n.命运；天数；定数"},{"index":17,"word":"exceed","definition":"v.超过（某数量）；超越（限制、规定）"},{"index":18,"word":"conform","definition":"v.顺从，顺应；遵守，遵从；相一致"},{"index":19,"word":"postpone","definition":"v.延迟；延期；暂缓"},{"index":20,"word":"adverse","definition":"a.不利的"},{"index":21,"word":"destination","definition":"n.目的地，终点"},{"index":22,"word":"threshold","definition":"n.门槛，门口；界限；开端，起点"},{"index":23,"word":"accuse","definition":"v.控告；控诉；谴责"},{"index":24,"word":"nerve","definition":"v.鼓起勇气，振作精神n.神经；神经质，神经紧张；勇气，气魄"},{"index":25,"word":"cherish","definition":"v.珍藏；珍爱；怀念"},{"index":26,"word":"rumour/rumor","definition":"n.谣言；传闻v.谣传；传说"},{"index":27,"word":"duplicate","definition":"v.复制；复印n.复制品"},{"index":28,"word":"fatal","definition":"a.（事故、疾病）致命的"},{"index":29,"word":"irritate","definition":"v.激怒，恼火，使急躁"},{"index":30,"word":"despair","definition":"n.绝望"}]},{"name":"List 61","words":[{"index":1,"word":"amplify","definition":"v.（声音，电流或信号的）增加；增强；扩大，阐释，充实"},{"index":2,"word":"absurd","definition":"a.荒谬的，荒唐的"},{"index":3,"word":"selfish","definition":"a.自私的，利己的"},{"index":4,"word":"reckless","definition":"a.鲁莽的，不顾后果的"},{"index":5,"word":"pretend","definition":"v.假装，假托，借口；（在演戏中）装扮"},{"index":6,"word":"semester","definition":"n.学期"},{"index":7,"word":"despise","definition":"v.轻视，蔑视"},{"index":8,"word":"remedy","definition":"v.补救，改正n.补救法，改进措施；治疗法，药品"},{"index":9,"word":"conference","definition":"n.（大型正式）会议；协商"},{"index":10,"word":"endanger","definition":"v.使遭危险，危及，危害"},{"index":11,"word":"fruitful","definition":"a.多产的；果实累累的，富有成效的"},{"index":12,"word":"temperature","definition":"n.温度，体温；热度，发烧"},{"index":13,"word":"hardship","definition":"n.艰难，困苦，拮据"},{"index":14,"word":"recycle","definition":"v./n.再循环；回收利用；再利用"}]}],"writing":[{"name":"一、精神品质","phrases":[{"en":"team spirit","zh":"团队精神"},{"en":"teamwork","zh":"n.团队合作"},{"en":"strengthen/enhance the cooperation","zh":"增强合作"},{"en":"cultivate/foster the sense of teamwork","zh":"培养团队意识"},{"en":"optimism","zh":"n.乐观"},{"en":"optimistic","zh":"adj.乐观的"},{"en":"pessimism","zh":"n.悲观"},{"en":"pessimistic","zh":"adj.悲观的"},{"en":"patience","zh":"n.耐心"},{"en":"patient","zh":"adj.耐心的"},{"en":"prudence","zh":"n.谨慎"},{"en":"prudent","zh":"adj.谨慎的"},{"en":"persistence / perseverance","zh":"n.恒心/毅力/坚持"},{"en":"persevering","zh":"adj.坚持不懈的"},{"en":"give up halfway","zh":"半途而废"},{"en":"endeavor to do sth. / strive to do sth. / do one's utmost to do sth. / make every effort to do sth.","zh":"努力做某事"},{"en":"diligence","zh":"n.勤奋"},{"en":"self-dependence / self-reliance / independence","zh":"n.独立；自立"},{"en":"innovation","zh":"n.创新"},{"en":"innovative","zh":"adj.创新的；具有创新精神的"},{"en":"creativity","zh":"n.创造力"},{"en":"creative","zh":"adj.有创造力的"},{"en":"critical thinking","zh":"批判性思维"},{"en":"self-confidence","zh":"n.自信"},{"en":"modesty","zh":"n.谦虚"},{"en":"modest","zh":"adj.谦虚的"},{"en":"aggressive","zh":"adj.有进取心的"},{"en":"strong-willed","zh":"adj.意志坚强的"},{"en":"tireless","zh":"adj.孜孜不倦的"},{"en":"consistent","zh":"adj.始终如一的"},{"en":"adversity and hardship","zh":"逆境和苦难"},{"en":"a sense of achievement","zh":"成就感"},{"en":"painstaking efforts","zh":"艰苦努力/付出"},{"en":"ambition","zh":"n.胸怀；抱负"},{"en":"reap without sowing","zh":"不劳而获"},{"en":"haste makes waste","zh":"欲速则不达"},{"en":"strive for the best / strive for excellence","zh":"精益求精"},{"en":"take actions","zh":"付诸行动"},{"en":"down-to-earth","zh":"adj.务实的"},{"en":"thrift","zh":"n.节俭"},{"en":"thrifty","zh":"adj.节俭的"},{"en":"honesty","zh":"n.诚信"},{"en":"respect the old and care for the young","zh":"尊老爱幼"},{"en":"curiosity","zh":"n.好奇心"},{"en":"curious","zh":"adj.好奇的"},{"en":"spirit of the craftsman / craftsman's spirit / craftsmanship spirit","zh":"工匠精神"}]},{"name":"二、道德类","phrases":[{"en":"public morality","zh":"公德"},{"en":"devotion","zh":"n.投入；忠诚"},{"en":"dedication","zh":"n.奉献精神"},{"en":"charity","zh":"n.慈善"},{"en":"a sense of responsibility / duty","zh":"责任感"},{"en":"shoulder / undertake one's duty / responsibility","zh":"承担责任"},{"en":"avoid / shirk one's duty / responsibility","zh":"逃避责任"},{"en":"traditional virtues","zh":"传统美德"},{"en":"filial piety","zh":"孝道"},{"en":"selfless devotion","zh":"无私奉献"},{"en":"patriotism","zh":"n.爱国主义"},{"en":"comply with the law / observation of the law","zh":"遵守法律"},{"en":"comply with the public morality","zh":"遵守公德"},{"en":"follow the morals","zh":"按道德行事"},{"en":"improve public morals","zh":"改进社会风气"},{"en":"safeguard public morals","zh":"维护公共道德"},{"en":"the lack of moral sense","zh":"道德缺失"},{"en":"spit everywhere","zh":"随地吐痰"},{"en":"make noise / talk loudly","zh":"大声喧哗"},{"en":"litter","zh":"n.垃圾；v.乱丢垃圾"},{"en":"litter the house with sth.","zh":"在房间里乱扔……"},{"en":"empty promise","zh":"空洞承诺"},{"en":"false promise","zh":"虚假承诺"},{"en":"unfair competitions","zh":"不公平竞争"},{"en":"consumers' rights and interests","zh":"消费者权益"},{"en":"disregard the public rules","zh":"无视公共规章"},{"en":"break / violate public regulations","zh":"违反公共规章"},{"en":"amicable","zh":"adj.友好的"},{"en":"charitable","zh":"adj.乐善好施的"},{"en":"credibility","zh":"n.信誉，美誉"},{"en":"fake commodities","zh":"伪劣产品"},{"en":"dishonest behaviors","zh":"欺诈行为"},{"en":"illegal ads","zh":"非法广告"},{"en":"food safety","zh":"食品安全"},{"en":"misdeed / misconduct","zh":"n.不良行为"},{"en":"spirit of contact","zh":"契约精神"},{"en":"volunteer / volunteering / volunteering service","zh":"志愿者/志愿者活动/志愿服务"},{"en":"volunteer spirit","zh":"志愿者精神"},{"en":"benevolence","zh":"n.善心；仁慈"},{"en":"unaffordable prices of medicines","zh":"药价虚高"}]},{"name":"三、家庭/两代关系类","phrases":[{"en":"set an example","zh":"树立榜样"},{"en":"mutual understanding","zh":"相互理解"},{"en":"the aged society","zh":"老龄化社会"},{"en":"population aging","zh":"人口老龄化"},{"en":"generation gap","zh":"代沟"},{"en":"widen / expand generation gap","zh":"扩大代沟"},{"en":"narrow / bridge generation gap","zh":"消除代沟"},{"en":"career women","zh":"职业妇女"},{"en":"domestic / family violence","zh":"家庭暴力"},{"en":"foster / raise / breed / nurture / bring up","zh":"抚养"},{"en":"household chores","zh":"繁杂家务"},{"en":"spoil children = dote on children","zh":"溺爱孩子"},{"en":"over-indulgence","zh":"n.纵容溺爱"},{"en":"only child","zh":"独生子女"},{"en":"the universal two-child policy","zh":"全面二孩政策"},{"en":"a well-off family","zh":"小康之家"},{"en":"nuclear family","zh":"核心家庭"},{"en":"a single-parent family","zh":"单亲家庭"},{"en":"one's later years / one's remaining years","zh":"晚年"},{"en":"practice filial piety / fulfill filial duty","zh":"奉行孝道"},{"en":"support (take care of / sustain) the elderly (the old / the aged / the senior / aged parents / the old and infirm parents)","zh":"赡养老人"},{"en":"mistreat / ill-treat / maltreat parents","zh":"虐待父母"},{"en":"cousin","zh":"n.堂兄妹，表兄妹"},{"en":"offspring","zh":"n.后代，后辈"},{"en":"ancestor","zh":"n.祖先"},{"en":"heir","zh":"n.继承人"}]},{"name":"四、健康成长","phrases":[{"en":"idol","zh":"n.偶像"},{"en":"blind / irrational worship of ...","zh":"对……盲目/非理性的崇拜"},{"en":"physical health / fitness / well-being","zh":"生理健康"},{"en":"mental / psychological health / fitness / well-being","zh":"心理健康"},{"en":"improve / enhance physical (psychological) health","zh":"增进生理(心理)健康"},{"en":"hurt / damage physical (psychological) health","zh":"损害生理(心理)健康"},{"en":"health concern","zh":"健康问题"},{"en":"state of health","zh":"健康状况"},{"en":"sub-health","zh":"n.亚健康"},{"en":"public health","zh":"公共卫生"},{"en":"state of mind","zh":"心态"},{"en":"physical exercises","zh":"体育锻炼"},{"en":"well-balanced diet","zh":"均衡饮食"},{"en":"health care","zh":"医疗保健"},{"en":"junk food","zh":"垃圾食品"},{"en":"malnutrition","zh":"n.营养不良"},{"en":"go on a diet","zh":"节食，减肥"},{"en":"indigestion","zh":"n.消化不良"},{"en":"malnutrition","zh":"n.营养不良"},{"en":"infectious disease / illness","zh":"传染病"},{"en":"chronic disease / illness","zh":"慢性病"},{"en":"non-acclimatization","zh":"水土不服"},{"en":"short-sightedness","zh":"n.近视"}]},{"name":"五、文化类","phrases":[{"en":"culture and civilization","zh":"文化和文明"},{"en":"the Spring Festival","zh":"春节"},{"en":"dining together / gathering dinners","zh":"聚会吃饭"},{"en":"the joyful atmosphere of the New Year","zh":"新年的喜庆氛围"},{"en":"museum","zh":"n.博物馆"},{"en":"art gallery","zh":"艺术馆"},{"en":"be free of charge","zh":"免费的"},{"en":"The cultural blending / integration / fusion","zh":"文化融合"},{"en":"cultural exchanges / interaction / interchange","zh":"文化交流"},{"en":"cultural diversity","zh":"文化多元化"},{"en":"multiculturalism","zh":"n.多元文化"},{"en":"cultural identity","zh":"文化特性"},{"en":"cultural treasures","zh":"文化宝藏"},{"en":"cultural heritage / legacy","zh":"文化遗产"},{"en":"cultural relics","zh":"文物"},{"en":"cultural facilities","zh":"文化设施"},{"en":"cultural devolution","zh":"文化退化"},{"en":"cultural insights","zh":"文化视角"},{"en":"traditional Chinese culture / national culture","zh":"民族(传统)文化"},{"en":"alien / foreign culture","zh":"外国文化"},{"en":"Chinese cultural symbols","zh":"中国文化的符号"},{"en":"advocate / carry forward traditional culture","zh":"弘扬传统文化"},{"en":"preserve and cherish traditions","zh":"保存和珍惜传统"},{"en":"undermine traditions","zh":"破坏传统"},{"en":"great and profound","zh":"博大精深的"},{"en":"literature","zh":"n.文学"},{"en":"local customs and practices","zh":"风土人情"},{"en":"cross-cultural communication","zh":"跨文化交流"},{"en":"spiritual civilization","zh":"精神文明"},{"en":"break with old customs","zh":"抛弃传统"},{"en":"hand down from generation to generation","zh":"代代相传"},{"en":"national pride","zh":"民族自豪"},{"en":"original","zh":"adj.原始的；原创的"},{"en":"charming","zh":"adj.极具魅力的"},{"en":"splendid","zh":"adj.壮丽辉煌的"},{"en":"talk show","zh":"谈话节目"},{"en":"crash","zh":"v./n.碰撞"},{"en":"collection","zh":"n.收藏品"},{"en":"mahjong","zh":"麻将"},{"en":"Peking / Beijing Opera","zh":"京剧"},{"en":"Tang Suit","zh":"唐装"},{"en":"folk art","zh":"民间艺术"},{"en":"paper cutting","zh":"剪纸"}]},{"name":"六、教育读书类","phrases":[{"en":"part-time jobs","zh":"兼职工作"},{"en":"vacation","zh":"n.假期"},{"en":"compulsory education","zh":"义务教育"},{"en":"life-long education","zh":"终身教育"},{"en":"exam / test-oriented education","zh":"应试教育"},{"en":"quality-oriented education","zh":"素质教育"},{"en":"comprehensive development of a child","zh":"孩子的全面发展"},{"en":"impart knowledge","zh":"讲授知识"},{"en":"to enroll new students","zh":"录取新生"},{"en":"admissions","zh":"录取人数"},{"en":"recruitment","zh":"n.招募"},{"en":"popular fiction","zh":"通俗小说"},{"en":"poetry","zh":"n.诗歌（不可数）"},{"en":"poem","zh":"n.诗歌（可数）"},{"en":"intellectual property","zh":"知识产权"},{"en":"law education","zh":"法制教育"},{"en":"teach students according to their aptitude","zh":"因材施教"},{"en":"academic / theoretical knowledge","zh":"学术/理论知识"},{"en":"practical skills","zh":"实用技能"},{"en":"integrate theory with practice","zh":"理论联系实际"},{"en":"disconnect theory from practice","zh":"理论脱离实际"},{"en":"shape / mold one's character","zh":"塑造性格"},{"en":"extra-curricular activities","zh":"课外活动"},{"en":"the spirit of exploration","zh":"探索精神"},{"en":"cultivate (nurture, foster) creative / original thinking","zh":"培养创新思维"},{"en":"stifle / constrain / extinguish creativity","zh":"扼杀创造力"},{"en":"sap / dampen student's interest in sth.","zh":"挫伤学生对某事的兴趣"},{"en":"opening ceremony","zh":"开学典礼"},{"en":"key school","zh":"重点中学"},{"en":"private school","zh":"私立学校"},{"en":"public school","zh":"公立学校"},{"en":"eliminate illiteracy","zh":"扫盲"},{"en":"miss a class","zh":"缺课"},{"en":"drop out","zh":"辍学"},{"en":"dropout","zh":"n.退学者"},{"en":"quit school","zh":"退学"},{"en":"assistantship","zh":"助学金"},{"en":"scholarship","zh":"奖学金"},{"en":"university graduates","zh":"大学毕业生"},{"en":"pursue post-graduate study / prepare for the national entrance examination for postgraduates","zh":"考研"},{"en":"study abroad / go abroad for further education","zh":"出国留学"},{"en":"excessive / undue academic pressure","zh":"过大的学习压力"},{"en":"the burden of study / learning","zh":"学习负担"},{"en":"ease / relieve academic pressure","zh":"缓解学习压力"},{"en":"intensify academic pressure","zh":"增强学习压力"},{"en":"academic atmosphere","zh":"学习气氛"}]},{"name":"七、经济社会发展","phrases":[{"en":"market share","zh":"市场份额"},{"en":"mobile phone/ cell phone","zh":"手机"},{"en":"industry","zh":"n.工业；行业"},{"en":"developing countries","zh":"发展中国家"},{"en":"developed countries","zh":"发达国家"},{"en":"saturation","zh":"n.饱和"},{"en":"manufacturer","zh":"n.制造商"},{"en":"brand","zh":"n.品牌"},{"en":"the domestic market","zh":"国内市场"},{"en":"the competitive edge","zh":"竞争力；竞争优势"},{"en":"urban","zh":"adj.城市的"},{"en":"rural","zh":"adj.农村的"},{"en":"urbanization","zh":"n.城市化"},{"en":"population expansion","zh":"人口规模膨胀"},{"en":"medical care","zh":"医疗"},{"en":"shorten / narrow the gap between the rural and urban areas","zh":"缩小城乡差距"},{"en":"canteen","zh":"n.餐厅"},{"en":"start one's own business","zh":"创业；开公司"},{"en":"satisfaction","zh":"n.满意"},{"en":"economic globalization","zh":"经济全球化"},{"en":"mobile payment","zh":"移动支付"},{"en":"shared bikes","zh":"共享单车"},{"en":"high-speed trains","zh":"高铁"},{"en":"online shopping","zh":"网络购物"},{"en":"recession / bleeding economy","zh":"经济不景气"},{"en":"economic / financial crisis","zh":"经济/金融危机"},{"en":"economic recovery","zh":"经济复苏"},{"en":"economic prosperity / boom","zh":"经济繁荣"},{"en":"delayed retirement","zh":"延迟退休"},{"en":"the family planning policy / the one-child policy","zh":"计划生育政策"},{"en":"spur / stimulate economic development","zh":"刺激经济发展"},{"en":"hinder / impede economic development","zh":"阻碍经济发展"},{"en":"job market","zh":"就业市场"},{"en":"look for / hunt for / seek a job","zh":"找工作"},{"en":"job seeker","zh":"求职者"},{"en":"a tough job market","zh":"严峻的就业形势"},{"en":"unrealistic salary expectations","zh":"不切实际的薪资期望"},{"en":"pursue a high-paid job","zh":"追求高薪工作"},{"en":"the lack of practical experience / hands-on experience / practical","zh":"没有或缺乏实践经验/实践能"},{"en":"abilities / vocational skills / career skills","zh":"力/职业技能"},{"en":"lose one's job / be unemployed","zh":"失业"},{"en":"unemployment","zh":"n.失业人数"},{"en":"generate / create job opportunities / employment opportunities","zh":"创造/提供就业机会"},{"en":"career guidance","zh":"就业指导"},{"en":"decline / recession / depression","zh":"n.萎缩/衰退/萧条"},{"en":"the demand exceeds the supply","zh":"供不应求"},{"en":"unfair competition","zh":"不正当竞争"},{"en":"fierce / intense / furious competition","zh":"激烈竞争"},{"en":"fake and inferior product","zh":"假冒伪劣产品"},{"en":"after-sale service","zh":"售后服务"},{"en":"enterprise image","zh":"企业形象"},{"en":"over-consuming","zh":"超前消费"},{"en":"enhance citizens’ standard of living","zh":"提升居民生活水平"},{"en":"eliminate poverty","zh":"消除贫困"},{"en":"narrow the gap between the wealthy and the needy","zh":"缩小贫富差距"},{"en":"infrastructure","zh":"n.基础设施"},{"en":"park","zh":"n.公园"},{"en":"financial budget","zh":"财政预算"}]},{"name":"八、环保类","phrases":[{"en":"environment-friendly","zh":"adj.生态环保的"},{"en":"conserve natural habitats","zh":"保护生存环境"},{"en":"animal rights activist","zh":"动物权益保护者"},{"en":"natural reserve","zh":"自然保护区"},{"en":"natural resources","zh":"自然资源"},{"en":"energy conservation and environmental protection","zh":"节能环保"},{"en":"biodiversity","zh":"n.生物多样性"},{"en":"extinction","zh":"n.灭绝"},{"en":"greenhouse effect","zh":"温室效应"},{"en":"develop renewable resources","zh":"开发可再生资源"},{"en":"low-carbon economy","zh":"低碳经济"},{"en":"biodegradable","zh":"adj.可生物降解的"},{"en":"environment-friendly (eco-friendly) products","zh":"环保产品"},{"en":"household garbage","zh":"生活垃圾"},{"en":"waste sorting / garbage classification","zh":"垃圾分类"},{"en":"industrial waste","zh":"工业废物"},{"en":"reduce exhaust emission from cars / automobiles","zh":"减少汽车尾气排放"},{"en":"public transport","zh":"公共交通"},{"en":"water and soil erosion","zh":"水土流失"},{"en":"create pleasant living environment","zh":"创造怡人的生活环境"},{"en":"air pollution","zh":"空气污染"},{"en":"degradation / deterioration of air quality","zh":"空气质量恶化"},{"en":"discharge / emit poisonous / toxic gas","zh":"排放有毒气体"},{"en":"toxic waste","zh":"有毒废物"}]}]};
+// Auto-generated data file for 考研政治学习系统
+// Total points: 706
+const APP_DATA = {
+  "points": [
+    {
+      "id": 1,
+      "gid": 1,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义的三大组成部分是马克思主义哲学、马克思主义政治经济学和科学社会主义。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义的三大组成部分？",
+        "a": "是马克思主义哲学、马克思主义政治经济学和科学社会主义。"
+      }
+    },
+    {
+      "id": 2,
+      "gid": 2,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义创立的经济社会根源和历史条件是资本主义生产方式的发展及其内在矛盾。",
+      "keywords": [
+        "矛盾",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义创立的经济社会根源和历史条件？",
+        "a": "是资本主义生产方式的发展及其内在矛盾。"
+      }
+    },
+    {
+      "id": 3,
+      "gid": 3,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义创立的阶级与实践基础是工人阶级的斗争实践。",
+      "keywords": [
+        "基础是工人阶级的斗争",
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义创立的阶级与实践基础？",
+        "a": "是工人阶级的斗争实践。"
+      }
+    },
+    {
+      "id": 4,
+      "gid": 4,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义创立的直接思想来源，即19 世纪西欧三大先进思潮，是德国古典哲学、英国古典政治经济 学和英法空想社会主义。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义创立的直接思想来源，即19 世纪西欧三大先进思潮？",
+        "a": "是德国古典哲学、英国古典政治经济 学和英法空想社会主义。"
+      }
+    },
+    {
+      "id": 5,
+      "gid": 5,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义创立的自然科学前提是细胞学说、能量守恒与转化定律和生物进化论。",
+      "keywords": [
+        "前提是细胞学说"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义创立的自然科学前提？",
+        "a": "是细胞学说、能量守恒与转化定律和生物进化论。"
+      }
+    },
+    {
+      "id": 6,
+      "gid": 6,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "1848 年2 月，《共产党宣言》发表，标志着马克思主义公开问世，它也是世界上第一个无产阶级政党 共产主义者同盟的党纲。",
+      "keywords": [
+        "标志着马克思主义公开",
+        "第一个无产阶级政党"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 7,
+      "gid": 7,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义的基本特征包括科学性、人民性、实践性和发展性。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义的基本特征？",
+        "a": "包括科学性、人民性、实践性和发展性。"
+      }
+    },
+    {
+      "id": 8,
+      "gid": 8,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义具有科学性，其科学的世界观和方法论是辩证唯物主义和历史唯物主义，这构成马克思主 义突出的理论优势。",
+      "keywords": [
+        "唯物主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义具有科学性，其科学的世界观和方法论？",
+        "a": "是辩证唯物主义和历史唯物主义，这构成马克思主 义突出的理论优势。"
+      }
+    },
+    {
+      "id": 9,
+      "gid": 9,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义具有发展性，能够与时俱进，不断吸收人类最新文明成果。",
+      "keywords": [
+        "与时俱进",
+        "最新文明成果"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 10,
+      "gid": 10,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义具有人民性，其政治立场是人民至上，人民性是马克思主义最鲜明的品格。",
+      "keywords": [
+        "最鲜明的品格"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "马克思主义具有人民性，其政治立场？",
+        "a": "是人民至上，人民性是马克思主义最鲜明的品格。"
+      }
+    },
+    {
+      "id": 11,
+      "gid": 11,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义具有实践性，实践观点是马克思主义首要的和基本的观点。",
+      "keywords": [
+        "实践",
+        "首要的和基本的观点"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义具有实践性，实践观点？",
+        "a": "是马克思主义首要的和基本的观点。"
+      }
+    },
+    {
+      "id": 12,
+      "gid": 12,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "列宁认为，资本主义发达国家已经发展到帝国主义阶段，经济政治发展不平衡已成为资本主义发展的 绝对规律，因而提出社会主义革命可能在一国或数国首先发生并取得胜利的论断。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 13,
+      "gid": 13,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义的基本特征可概括为科学性与革命性的统一，其人民性、实践性和发展性集中体现为革命 性。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 14,
+      "gid": 14,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "《资本论》系统阐述了剩余价值学说，揭示了资本主义生产关系的秘密，被称为“工人阶级的圣经”。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "生产关系",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 15,
+      "gid": 15,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "1871 年6 月出版的《法兰西内战》科学总结了巴黎公社的历史经验。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 16,
+      "gid": 16,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "1844 年2 月，马克思、恩格斯在《德法年鉴》上发表的论文表明，他们完成了从唯心主义向唯物主义、 从革命民主主义向共产主义的转变，为创立马克思主义奠定了思想前提。",
+      "keywords": [
+        "前提",
+        "唯心主义",
+        "唯物主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 17,
+      "gid": 17,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "唯物史观和剩余价值学说是马克思一生的两个伟大发现，也是科学社会主义诞生的两大基石。",
+      "keywords": [
+        "价值",
+        "剩余价值"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "唯物史观和剩余价值学说？",
+        "a": "是马克思一生的两个伟大发现，也是科学社会主义诞生的两大基石。"
+      }
+    },
+    {
+      "id": 18,
+      "gid": 18,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "导论马克思主义是关于无产阶级和人类解放的科学",
+      "content": "马克思主义追求的根本价值目标是实现人的自由而全面的发展。",
+      "keywords": [
+        "价值",
+        "根本价值目标是实现人"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义追求的根本价值目标？",
+        "a": "是实现人的自由而全面的发展。"
+      }
+    },
+    {
+      "id": 19,
+      "gid": 19,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "运动是物质的存在方式和根本属性，运动是绝对的、无条件的。",
+      "keywords": [
+        "根本属性"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "运动是物质的存在方式和根本属性，运动？",
+        "a": "是绝对的、无条件的。"
+      }
+    },
+    {
+      "id": 20,
+      "gid": 20,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "物质的唯一特性和最本质的规定是客观实在性。",
+      "keywords": [
+        "最本质的规定是",
+        "本质的规定是客观实在"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "物质的唯一特性和最本质的规定？",
+        "a": "是客观实在性。"
+      }
+    },
+    {
+      "id": 21,
+      "gid": 21,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "物质世界的二重化表现为从自然界中分化出人类社会，从客观世界中分化出主观世界。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 22,
+      "gid": 22,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "物质世界二重化的关键是人的实践活动。",
+      "keywords": [
+        "关键是人的实践活动",
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "物质世界二重化的关键？",
+        "a": "是人的实践活动。"
+      }
+    },
+    {
+      "id": 23,
+      "gid": 23,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "意识的本质是客观内容和主观形式的统一，意识是人脑这种特殊物质的机能和属性。",
+      "keywords": [
+        "本质是客观内容和主观"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "意识的本质？",
+        "a": "是客观内容和主观形式的统一，意识是人脑这种特殊物质的机能和属性。"
+      }
+    },
+    {
+      "id": 24,
+      "gid": 24,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "意识具有目的性、计划性和创造性，能够指导实践以改造客观世界，并具有调控人的行为和生理活动 的作用。",
+      "keywords": [
+        "实践",
+        "目的性"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "意识具有目的性、计划性和创造性，能够？",
+        "a": "指导实践以改造客观世界，并具有调控人的行为和生理活动 的作用。"
+      }
+    },
+    {
+      "id": 25,
+      "gid": 25,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "物质和意识的对立，只有在何者为第一性、何者为第二性这一范围内才具有绝对的意义，这一范围涉 及物质和意识的地位不同、起源不同。",
+      "keywords": [
+        "第一性"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 26,
+      "gid": 26,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "尊重客观规律是正确发挥主观能动性的前提。",
+      "keywords": [
+        "前提"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "尊重客观规律？",
+        "a": "是正确发挥主观能动性的前提。"
+      }
+    },
+    {
+      "id": 27,
+      "gid": 27,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "人们可以认识、利用规律，但不能创造、改变、消灭规律。",
+      "keywords": [
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 28,
+      "gid": 28,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "人工智能是人的意识能动性的一种特殊表现，是人的本质力量的对象化、现实化和物化。",
+      "keywords": [
+        "本质力量的对象化"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人工智能？",
+        "a": "是人的意识能动性的一种特殊表现，是人的本质力量的对象化、现实化和物化。"
+      }
+    },
+    {
+      "id": 29,
+      "gid": 29,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "人工智能无法超越或取代人类智能。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 30,
+      "gid": 30,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "对立统一规律，即矛盾规律，是唯物辩证法的根本规律，也是唯物辩证法的实质和核心。",
+      "keywords": [
+        "对立统一",
+        "核心",
+        "根本规律",
+        "矛盾",
+        "辩证法"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "对立统一规律，即矛盾规律？",
+        "a": "是唯物辩证法的根本规律，也是唯物辩证法的实质和核心。"
+      }
+    },
+    {
+      "id": 31,
+      "gid": 31,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "联系具有客观性、普遍性、多样性和条件性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 32,
+      "gid": 32,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "事物的联系是事物本身所固有的，不以人的意志为转移的，不能将联系理解为主观联系。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "事物的联系？",
+        "a": "是事物本身所固有的，不以人的意志为转移的，不能将联系理解为主观联系。"
+      }
+    },
+    {
+      "id": 33,
+      "gid": 33,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "整个世界是相互联系的统一整体，普遍联系通过中介实现。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "整个世界？",
+        "a": "是相互联系的统一整体，普遍联系通过中介实现。"
+      }
+    },
+    {
+      "id": 34,
+      "gid": 34,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "发展的实质是新事物的产生和旧事物的灭亡，新事物并不等于新出现的事物。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "发展的实质？",
+        "a": "是新事物的产生和旧事物的灭亡，新事物并不等于新出现的事物。"
+      }
+    },
+    {
+      "id": 35,
+      "gid": 35,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "矛盾的同一性与斗争性是辩证统一的，矛盾同一性是包含差别的同一，不包含内部差别的事物就不能 存在和发展。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "矛盾的同一性与斗争性？",
+        "a": "是辩证统一的，矛盾同一性是包含差别的同一，不包含内部差别的事物就不能 存在和发展。"
+      }
+    },
+    {
+      "id": 36,
+      "gid": 36,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "矛盾的同一性和斗争性是矛盾的两种基本属性，二者不能单独存在和作用。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "矛盾的同一性和斗争性？",
+        "a": "是矛盾的两种基本属性，二者不能单独存在和作用。"
+      }
+    },
+    {
+      "id": 37,
+      "gid": 37,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "矛盾的普遍性与特殊性是辩证统一的，这一关系是矛盾问题的精髓。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "矛盾的普遍性与特殊性？",
+        "a": "是辩证统一的，这一关系是矛盾问题的精髓。"
+      }
+    },
+    {
+      "id": 38,
+      "gid": 38,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "矛盾的共性是无条件的、绝对的，矛盾的个性是有条件的、相对的，共性寓于个性之中。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "矛盾的共性？",
+        "a": "是无条件的、绝对的，矛盾的个性是有条件的、相对的，共性寓于个性之中。"
+      }
+    },
+    {
+      "id": 39,
+      "gid": 39,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "任何现实存在的事物的矛盾都是共性和个性的有机统一。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "任何现实存在的事物的矛盾都？",
+        "a": "是共性和个性的有机统一。"
+      }
+    },
+    {
+      "id": 40,
+      "gid": 40,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "事物的性质由主要矛盾的主要方面决定。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 41,
+      "gid": 41,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "区分量变和质变的根本标志是事物的变化是否超出度，度是保持事物质的稳定性的数量界限。",
+      "keywords": [
+        "标志是事物的变化是否",
+        "根本标志是事物的变化"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "区分量变和质变的根本标志？",
+        "a": "是事物的变化是否超出度，度是保持事物质的稳定性的数量界限。"
+      }
+    },
+    {
+      "id": 42,
+      "gid": 42,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "量变质变规律体现了事物发展的渐进性和飞跃性的统一。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 43,
+      "gid": 43,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "单纯的量变不会永远持续下去，量变达到一定程度必然引起质变。",
+      "keywords": [
+        "必然引起质变"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 44,
+      "gid": 44,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "辩证否定是事物的自我否定和自我发展，辩证否定的实质是“扬弃”，不能将其理解为外部否定或相 互否定。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "辩证否定？",
+        "a": "是事物的自我否定和自我发展，辩证否定的实质是“扬弃”，不能将其理解为外部否定或相 互否定。"
+      }
+    },
+    {
+      "id": 45,
+      "gid": 45,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "事物的发展呈现出波浪式前进或螺旋式上升的总趋势，不能将其理解为线性发展。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 46,
+      "gid": 46,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "任何事物都是内容与形式的统一。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "任何事物都？",
+        "a": "是内容与形式的统一。"
+      }
+    },
+    {
+      "id": 47,
+      "gid": 47,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "本质是一般的、普遍的、相对稳定的，本质深藏于事物内部，只有通过理性思维才能把握。",
+      "keywords": [
+        "本质是一般的",
+        "本质深藏于事物内部"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 48,
+      "gid": 48,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "现象是个别的、具体的、多变易逝的，现象一定表现本质，假象也表现本质。",
+      "keywords": [
+        "本质"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 49,
+      "gid": 49,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "必然寓于偶然之中，并通过偶然表现出来。",
+      "keywords": [
+        "必然寓于偶然之中"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 50,
+      "gid": 50,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第一章世界的物质性及其发展规律",
+      "content": "学习唯物辩证法，需要不断增强思维能力，六种思维能力包括辩证思维能力、历史思维能力、系统思 维能力、战略思维能力、底线思维能力和创新思维能力。",
+      "keywords": [
+        "辩证法"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "学习唯物辩证法，需要不断增强思维能力，六种思维能力？",
+        "a": "包括辩证思维能力、历史思维能力、系统思 维能力、战略思维能力、底线思维能力和创新思维能力。"
+      }
+    },
+    {
+      "id": 51,
+      "gid": 51,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "实践的三个基本要素是实践主体、实践客体和实践中介，其中实践主体是能动的人，实践客体不等于 客观事物。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "实践的三个基本要素？",
+        "a": "是实践主体、实践客体和实践中介，其中实践主体是能动的人，实践客体不等于 客观事物。"
+      }
+    },
+    {
+      "id": 52,
+      "gid": 52,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "实践主体与客体的关系只有通过中介才能起作用。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 53,
+      "gid": 53,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "实践的三个基本特征是客观实在性、自觉能动性和社会历史性，其中客观实在性体现了实践与认识的 不同。",
+      "keywords": [
+        "实践",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "实践的三个基本特征？",
+        "a": "是客观实在性、自觉能动性和社会历史性，其中客观实在性体现了实践与认识的 不同。"
+      }
+    },
+    {
+      "id": 54,
+      "gid": 54,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "实践的三个基本类型是物质生产实践、社会政治实践和科学文化实践。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "实践的三个基本类型？",
+        "a": "是物质生产实践、社会政治实践和科学文化实践。"
+      }
+    },
+    {
+      "id": 55,
+      "gid": 55,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "实践对认识具有决定作用，是认识的来源、动力、目的和检验标准。",
+      "keywords": [
+        "动力",
+        "实践",
+        "目的和检验标准",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "实践对认识具有决定作用？",
+        "a": "是认识的来源、动力、目的和检验标准。"
+      }
+    },
+    {
+      "id": 56,
+      "gid": 56,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "认识的本质是主体在实践基础上对客体的能动的反映。",
+      "keywords": [
+        "基础上对客体的能动的",
+        "实践",
+        "本质是主体在实践基础",
+        "认识"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "认识的本质？",
+        "a": "是主体在实践基础上对客体的能动的反映。"
+      }
+    },
+    {
+      "id": 57,
+      "gid": 57,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "认识运动的第一次飞跃是在实践基础上从感性认识上升到理性认识。",
+      "keywords": [
+        "基础上从感性认识上升",
+        "实践",
+        "第一次飞跃是在实践基",
+        "第一次飞跃是在实践基础",
+        "认识"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "认识运动的第一次飞跃？",
+        "a": "是在实践基础上从感性认识上升到理性认识。"
+      }
+    },
+    {
+      "id": 58,
+      "gid": 58,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "认识运动的第二次飞跃是从认识到实践的飞跃，这是更为重要的飞跃。",
+      "keywords": [
+        "实践",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "认识运动的第二次飞跃？",
+        "a": "是从认识到实践的飞跃，这是更为重要的飞跃。"
+      }
+    },
+    {
+      "id": 59,
+      "gid": 59,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "认识总过程是实践、认识、再实践、再认识，循环往复、无限发展，这也是实践和认识的辩证运动过 程，体现了认识的规律。",
+      "keywords": [
+        "实践",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "认识总过程？",
+        "a": "是实践、认识、再实践、再认识，循环往复、无限发展，这也是实践和认识的辩证运动过 程，体现了认识的规律。"
+      }
+    },
+    {
+      "id": 60,
+      "gid": 60,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "真理的客观性是真理的本质属性，凡真理都是客观真理。",
+      "keywords": [
+        "本质属性"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "真理的客观性？",
+        "a": "是真理的本质属性，凡真理都是客观真理。"
+      }
+    },
+    {
+      "id": 61,
+      "gid": 61,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "在确定的对象和范围内，真理与谬误的对立是绝对的。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 62,
+      "gid": 62,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "真理在一定条件下会转化为谬误。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 63,
+      "gid": 63,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "任何成功的实践都是真理尺度和价值尺度的统一，也是合规律性和合目的性的统一。",
+      "keywords": [
+        "价值",
+        "实践",
+        "目的性的统一"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "任何成功的实践都？",
+        "a": "是真理尺度和价值尺度的统一，也是合规律性和合目的性的统一。"
+      }
+    },
+    {
+      "id": 64,
+      "gid": 64,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "实践是检验真理的唯一标准，但实践对真理的检验不可能一次完成，实践检验真理是一个永无止境的 发展过程。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 65,
+      "gid": 65,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "认识必然和争取自由，是人类认识世界和改造世界的根本目标。",
+      "keywords": [
+        "必然和争取自由",
+        "根本目标",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "认识必然和争取自由？",
+        "a": "是人类认识世界和改造世界的根本目标。"
+      }
+    },
+    {
+      "id": 66,
+      "gid": 66,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第二章实践与认识及其发展规律",
+      "content": "认识可以来自直接经验或间接经验，但归根到底都来源于实践，不能认为一切真知都来自个人的直接 经验。",
+      "keywords": [
+        "实践",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 67,
+      "gid": 67,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "社会存在包括自然地理环境、人口因素和物质生产方式。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会存在？",
+        "a": "包括自然地理环境、人口因素和物质生产方式。"
+      }
+    },
+    {
+      "id": 68,
+      "gid": 68,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "社会意识中的意识形态包括政治法律思想、道德、艺术、宗教、哲学等，其中政治法律思想居于核心 地位并发挥主导作用。",
+      "keywords": [
+        "核心",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会意识中的意识形态？",
+        "a": "包括政治法律思想、道德、艺术、宗教、哲学等，其中政治法律思想居于核心 地位并发挥主导作用。"
+      }
+    },
+    {
+      "id": 69,
+      "gid": 69,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "社会意识中的非意识形态包括自然科学、语言学和形式逻辑等。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会意识中的非意识形态？",
+        "a": "包括自然科学、语言学和形式逻辑等。"
+      }
+    },
+    {
+      "id": 70,
+      "gid": 70,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "社会存在决定社会意识，是社会意识的来源和根源，社会意识是社会存在的产物，其反映可能或早或 迟，并具有相对独立性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会存在决定社会意识？",
+        "a": "是社会意识的来源和根源，社会意识是社会存在的产物，其反映可能或早或 迟，并具有相对独立性。"
+      }
+    },
+    {
+      "id": 71,
+      "gid": 71,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "社会发展的根本动力是生产力和生产关系的矛盾运动、经济基础和上层建筑的矛盾运动。",
+      "keywords": [
+        "上层建筑",
+        "动力是生产力和生产关",
+        "基础和上层建筑的矛盾",
+        "根本动力是生产力和生",
+        "生产关系",
+        "生产力",
+        "矛盾",
+        "经济基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "社会发展的根本动力？",
+        "a": "是生产力和生产关系的矛盾运动、经济基础和上层建筑的矛盾运动。"
+      }
+    },
+    {
+      "id": 72,
+      "gid": 72,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "社会发展的其他动力包括阶级斗争、革命、改革、科学技术和文化。",
+      "keywords": [
+        "动力包括阶级斗争"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会发展的其他动力？",
+        "a": "包括阶级斗争、革命、改革、科学技术和文化。"
+      }
+    },
+    {
+      "id": 73,
+      "gid": 73,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "人的本质在其现实性上是一切社会关系的总和，是具体的、历史的、现实的。",
+      "keywords": [
+        "本质在其现实性上是一"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人的本质在其现实性上？",
+        "a": "是一切社会关系的总和，是具体的、历史的、现实的。"
+      }
+    },
+    {
+      "id": 74,
+      "gid": 74,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "现实的人及其活动是社会历史存在和发展的前提。",
+      "keywords": [
+        "前提"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "现实的人及其活动？",
+        "a": "是社会历史存在和发展的前提。"
+      }
+    },
+    {
+      "id": 75,
+      "gid": 75,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "人民群众是历史的主体和创造者，在社会历史发展过程中起着决定性作用。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "人民群众？",
+        "a": "是历史的主体和创造者，在社会历史发展过程中起着决定性作用。"
+      }
+    },
+    {
+      "id": 76,
+      "gid": 76,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "任何历史人物都不能决定或改变历史发展的总进程和总方向。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 77,
+      "gid": 77,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "自然地理环境是人类社会生存和发展的永恒的、必要的条件，是人们生活和生产的自然基础。",
+      "keywords": [
+        "基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "自然地理环境？",
+        "a": "是人类社会生存和发展的永恒的、必要的条件，是人们生活和生产的自然基础。"
+      }
+    },
+    {
+      "id": 78,
+      "gid": 78,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "社会形态更替归根结底是社会基本矛盾运动的结果，其中生产力的发展具有最终的决定意义。",
+      "keywords": [
+        "最终的决定意义",
+        "生产力",
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会形态更替归根结底？",
+        "a": "是社会基本矛盾运动的结果，其中生产力的发展具有最终的决定意义。"
+      }
+    },
+    {
+      "id": 79,
+      "gid": 79,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "生产力具有客观现实性和社会历史性，劳动者是生产力中最活跃的因素。",
+      "keywords": [
+        "劳动",
+        "最活跃的因素",
+        "生产力"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "生产力具有客观现实性和社会历史性，劳动者？",
+        "a": "是生产力中最活跃的因素。"
+      }
+    },
+    {
+      "id": 80,
+      "gid": 80,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "在现代，科学技术日益成为生产发展的决定性因素，科学技术是先进生产力的集中体现和主要标志， 也是第一生产力。",
+      "keywords": [
+        "标志",
+        "生产力",
+        "第一生产力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "在现代，科学技术日益成为生产发展的决定性因素，科学技术？",
+        "a": "是先进生产力的集中体现和主要标志， 也是第一生产力。"
+      }
+    },
+    {
+      "id": 81,
+      "gid": 81,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "生产资料所有制关系是生产关系中最基本的、具有决定意义的方面，生产关系是社会关系中最基本的 关系。",
+      "keywords": [
+        "最基本的",
+        "生产关系"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "生产资料所有制关系？",
+        "a": "是生产关系中最基本的、具有决定意义的方面，生产关系是社会关系中最基本的 关系。"
+      }
+    },
+    {
+      "id": 82,
+      "gid": 82,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "在整个上层建筑中，政治上层建筑居于主导地位，国家政权是政治上层建筑的核心。",
+      "keywords": [
+        "上层建筑",
+        "核心"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "在整个上层建筑中，政治上层建筑居于主导地位，国家政权？",
+        "a": "是政治上层建筑的核心。"
+      }
+    },
+    {
+      "id": 83,
+      "gid": 83,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第三章人类社会及其发展规律",
+      "content": "人民群众的总体意愿和行动代表了历史发展的方向，人民群众的社会实践最终决定历史发展的结局。",
+      "keywords": [
+        "实践",
+        "最终决定历史发"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 84,
+      "gid": 84,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "具体劳动体现劳动的自然属性，抽象劳动体现劳动的社会属性，劳动二重性决定商品的二因素。",
+      "keywords": [
+        "劳动",
+        "商品"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 85,
+      "gid": 85,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "使用价值构成社会财富的物质内容，是一切劳动产品共有的属性，也是商品的物质承担者。",
+      "keywords": [
+        "价值",
+        "劳动",
+        "商品"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "使用价值构成社会财富的物质内容？",
+        "a": "是一切劳动产品共有的属性，也是商品的物质承担者。"
+      }
+    },
+    {
+      "id": 86,
+      "gid": 86,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "价值的质和实体是抽象劳动，价值量由生产商品的社会必要劳动时间决定。",
+      "keywords": [
+        "价值",
+        "劳动",
+        "商品"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "价值的质和实体？",
+        "a": "是抽象劳动，价值量由生产商品的社会必要劳动时间决定。"
+      }
+    },
+    {
+      "id": 87,
+      "gid": 87,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "商品是用于交换的劳动产品。",
+      "keywords": [
+        "劳动",
+        "商品"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 88,
+      "gid": 88,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "货币的本质是一般等价物，货币本身有价值，能够表现其他一切商品的价值并与之交换。",
+      "keywords": [
+        "价值",
+        "商品",
+        "本质是一般等价物"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "货币的本质？",
+        "a": "是一般等价物，货币本身有价值，能够表现其他一切商品的价值并与之交换。"
+      }
+    },
+    {
+      "id": 89,
+      "gid": 89,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "货币的最基本职能是价值尺度，即标价，和流通手段，即现场交易。",
+      "keywords": [
+        "价值",
+        "最基本职能是价"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "货币的最基本职能？",
+        "a": "是价值尺度，即标价，和流通手段，即现场交易。"
+      }
+    },
+    {
+      "id": 90,
+      "gid": 90,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "货币有利于解决商品交换的困难，但并没有从根本上消除商品经济的矛盾。",
+      "keywords": [
+        "商品",
+        "根本上消除商品经济的",
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 91,
+      "gid": 91,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "私人劳动由生产资料私有制决定，社会劳动由社会分工决定，私人劳动和社会劳动的矛盾是商品经济 的基本矛盾。",
+      "keywords": [
+        "劳动",
+        "商品",
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 92,
+      "gid": 92,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "价值规律的表现形式是商品价格围绕商品价值自发波动。",
+      "keywords": [
+        "价值",
+        "商品"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "价值规律的表现形式？",
+        "a": "是商品价格围绕商品价值自发波动。"
+      }
+    },
+    {
+      "id": 93,
+      "gid": 93,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "劳动力成为商品，是货币转化为资本的前提，标志着简单商品生产发展到资本主义商品生产的新阶段。",
+      "keywords": [
+        "前提",
+        "动力成为商品",
+        "劳动",
+        "商品",
+        "标志着简单商品生产发",
+        "资本"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "劳动力成为商品？",
+        "a": "是货币转化为资本的前提，标志着简单商品生产发展到资本主义商品生产的新阶段。"
+      }
+    },
+    {
+      "id": 94,
+      "gid": 94,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "必要劳动再生产劳动力的价值。",
+      "keywords": [
+        "价值",
+        "动力的价值",
+        "劳动"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 95,
+      "gid": 95,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "剩余劳动无偿地为资本家生产剩余价值，剩余劳动是剩余价值的唯一源泉。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "劳动",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "剩余劳动无偿地为资本家生产剩余价值，剩余劳动？",
+        "a": "是剩余价值的唯一源泉。"
+      }
+    },
+    {
+      "id": 96,
+      "gid": 96,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "劳动力商品的使用价值是价值的源泉，其价值包含历史道德因素，并由维持劳动者本人生活、维持其 家属生活和教育训练所需的费用构成。",
+      "keywords": [
+        "价值",
+        "动力商品的使用价值是",
+        "劳动",
+        "商品",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "劳动力商品的使用价值？",
+        "a": "是价值的源泉，其价值包含历史道德因素，并由维持劳动者本人生活、维持其 家属生活和教育训练所需的费用构成。"
+      }
+    },
+    {
+      "id": 97,
+      "gid": 97,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "资本主义生产过程是劳动过程和价值增殖过程的统一，其主要方面是价值增殖。",
+      "keywords": [
+        "价值",
+        "劳动",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "资本主义生产过程？",
+        "a": "是劳动过程和价值增殖过程的统一，其主要方面是价值增殖。"
+      }
+    },
+    {
+      "id": 98,
+      "gid": 98,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "企业家追逐超额剩余价值的结果，是整个资本家阶级普遍获得相对剩余价值。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "企业家追逐超额剩余价值的结果？",
+        "a": "是整个资本家阶级普遍获得相对剩余价值。"
+      }
+    },
+    {
+      "id": 99,
+      "gid": 99,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "资本主义工资的本质是劳动力价值或价格，但在现象上表现为全部劳动的报酬，模糊了必要劳动和剩 余劳动的界限，掩盖了剥削关系。",
+      "keywords": [
+        "价值",
+        "动力价值或价格",
+        "劳动",
+        "本质是劳动力价值或价",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "资本主义工资的本质？",
+        "a": "是劳动力价值或价格，但在现象上表现为全部劳动的报酬，模糊了必要劳动和剩 余劳动的界限，掩盖了剥削关系。"
+      }
+    },
+    {
+      "id": 100,
+      "gid": 100,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "利润的本质是剩余价值，利润形式掩盖了剩余价值与可变资本的关系。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "本质是剩余价值",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "利润的本质？",
+        "a": "是剩余价值，利润形式掩盖了剩余价值与可变资本的关系。"
+      }
+    },
+    {
+      "id": 101,
+      "gid": 101,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "平均利润是不同生产部门的资本家之间竞争的结果，也是剩余价值规律和竞争规律作用的必然结果。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "必然结果",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "平均利润？",
+        "a": "是不同生产部门的资本家之间竞争的结果，也是剩余价值规律和竞争规律作用的必然结果。"
+      }
+    },
+    {
+      "id": 102,
+      "gid": 102,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "资本积累是贫富两极分化和失业的根源，其历史趋势是资本主义灭亡、社会主义胜利。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "资本积累？",
+        "a": "是贫富两极分化和失业的根源，其历史趋势是资本主义灭亡、社会主义胜利。"
+      }
+    },
+    {
+      "id": 103,
+      "gid": 103,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "资本有机构成表示为c∶v，并具有不断提高的一般趋势。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 104,
+      "gid": 104,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "产业资本正常循环的两个条件，是三种职能形式在空间上并存、三种职能形式在时间上继起。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "产业资本正常循环的两个条件？",
+        "a": "是三种职能形式在空间上并存、三种职能形式在时间上继起。"
+      }
+    },
+    {
+      "id": 105,
+      "gid": 105,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "社会总资本的运动表现为社会再生产，社会再生产的核心问题是社会总产品的实现，包括价值补偿和 实物补偿。",
+      "keywords": [
+        "价值",
+        "核心问题是社会总产品",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会总资本的运动表现为社会再生产，社会再生产的核心问题？",
+        "a": "是社会总产品的实现，包括价值补偿和 实物补偿。"
+      }
+    },
+    {
+      "id": 106,
+      "gid": 106,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "经济危机的根本原因是资本主义基本矛盾，货币的支付手段和流通手段职能蕴含经济危机的抽象一般 可能性。",
+      "keywords": [
+        "根本原因是资本主义基",
+        "矛盾",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "经济危机的根本原因？",
+        "a": "是资本主义基本矛盾，货币的支付手段和流通手段职能蕴含经济危机的抽象一般 可能性。"
+      }
+    },
+    {
+      "id": 107,
+      "gid": 107,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第四章资本主义的本质及规律",
+      "content": "经济危机的本质特征是生产相对过剩，经济危机的周期性体现了社会再生产的周期性特点。",
+      "keywords": [
+        "本质特征是生产相对过"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "经济危机的本质特征？",
+        "a": "是生产相对过剩，经济危机的周期性体现了社会再生产的周期性特点。"
+      }
+    },
+    {
+      "id": 108,
+      "gid": 108,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "短期价格协定是最简单、初级的垄断组织形式。",
+      "keywords": [
+        "最简单"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "短期价格协定？",
+        "a": "是最简单、初级的垄断组织形式。"
+      }
+    },
+    {
+      "id": 109,
+      "gid": 109,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "国际卡特尔是早期的国际垄断同盟，国家垄断资本主义的国际联盟是当代国际垄断同盟的形式。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "国际卡特尔？",
+        "a": "是早期的国际垄断同盟，国家垄断资本主义的国际联盟是当代国际垄断同盟的形式。"
+      }
+    },
+    {
+      "id": 110,
+      "gid": 110,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "世界大变局下资本主义的矛盾与冲突，表现为经济发展失调、政治体制失灵和社会融合机制失效。",
+      "keywords": [
+        "矛盾",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 111,
+      "gid": 111,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "第二次世界大战后资本主义变化的根本推动力量，是科学技术革命和生产力的发展。",
+      "keywords": [
+        "动力量",
+        "根本推动力量",
+        "生产力",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "第二次世界大战后资本主义变化的根本推动力量？",
+        "a": "是科学技术革命和生产力的发展。"
+      }
+    },
+    {
+      "id": 112,
+      "gid": 112,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "经济全球化表现为生产全球化、贸易全球化和金融全球化。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 113,
+      "gid": 113,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "垄断资本向世界范围扩展的基本形式，包括借贷资本输出、生产资本输出和商品资本输出。",
+      "keywords": [
+        "商品",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "垄断资本向世界范围扩展的基本形式？",
+        "a": "包括借贷资本输出、生产资本输出和商品资本输出。"
+      }
+    },
+    {
+      "id": 114,
+      "gid": 114,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "国家垄断资本主义的宏观调节，是运用财政政策、货币政策等经济手段进行调节；微观规制，是运用 法律手段规范市场秩序。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "国家垄断资本主义的宏观调节？",
+        "a": "是运用财政政策、货币政策等经济手段进行调节；微观规制，是运用 法律手段规范市场秩序。"
+      }
+    },
+    {
+      "id": 115,
+      "gid": 115,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "金融寡头在经济领域的统治主要通过“参与制”实现，对国家机器的控制主要通过同政府的“个人联 合”实现。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 116,
+      "gid": 116,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "生产集中和资本集中是资本家追求剩余价值的结果，发展到一定阶段必然引起垄断，这是资本主义发 展的客观规律，私人垄断资本主义在此基础上形成。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "基础上形成",
+        "必然引起垄断",
+        "资本"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "生产集中和资本集中？",
+        "a": "是资本家追求剩余价值的结果，发展到一定阶段必然引起垄断，这是资本主义发 展的客观规律，私人垄断资本主义在此基础上形成。"
+      }
+    },
+    {
+      "id": 117,
+      "gid": 117,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "垄断不能消除竞争，因为它没有消除产生竞争的经济条件，必须通过竞争来维持，且生产复杂多样， 任何垄断组织都不可能把包罗万象的社会生产全部包下来。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 118,
+      "gid": 118,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "垄断利润形成的关键，在于垄断组织在经济生活中起了决定性作用。",
+      "keywords": [
+        "关键"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "垄断利润形成的关键？",
+        "a": "在于垄断组织在经济生活中起了决定性作用。"
+      }
+    },
+    {
+      "id": 119,
+      "gid": 119,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "垄断价格既不能增加也不能减少整个社会生产的价值总量，只是对商品价值和剩余价值作了有利于垄 断资本的再分配。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "商品",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "垄断价格既不能增加也不能减少整个社会生产的价值总量，只？",
+        "a": "是对商品价值和剩余价值作了有利于垄 断资本的再分配。"
+      }
+    },
+    {
+      "id": 120,
+      "gid": 120,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "国家垄断资本主义是科技进步和生产社会化程度进一步提高的产物，是资本主义基本矛盾进一步尖锐 化的必然结果。",
+      "keywords": [
+        "必然结果",
+        "矛盾",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "国家垄断资本主义？",
+        "a": "是科技进步和生产社会化程度进一步提高的产物，是资本主义基本矛盾进一步尖锐 化的必然结果。"
+      }
+    },
+    {
+      "id": 121,
+      "gid": 121,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "国家垄断资本主义的产生，是垄断资本主义生产关系在自身范围内的部分质变，标志着资本主义发展 进入了新的阶段。",
+      "keywords": [
+        "标志着资本主义发展",
+        "生产关系",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "国家垄断资本主义的产生？",
+        "a": "是垄断资本主义生产关系在自身范围内的部分质变，标志着资本主义发展 进入了新的阶段。"
+      }
+    },
+    {
+      "id": 122,
+      "gid": 122,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第五章资本主义的发展及其趋势",
+      "content": "国际金融资本的垄断，成为当代资本主义最突出、最鲜明、最主要的特征。",
+      "keywords": [
+        "最主要的特征",
+        "最突出",
+        "最鲜明",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 123,
+      "gid": 123,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "19 世纪初期的批判的空想社会主义，是科学社会主义的直接思想来源。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "19 世纪初期的批判的空想社会主义？",
+        "a": "是科学社会主义的直接思想来源。"
+      }
+    },
+    {
+      "id": 124,
+      "gid": 124,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "唯物史观和剩余价值学说，为社会主义从空想到科学的飞跃奠定了坚实的理论基础。",
+      "keywords": [
+        "价值",
+        "剩余价值",
+        "基础"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 125,
+      "gid": 125,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "巴黎公社革命是第一国际精神的产儿，是无产阶级夺取政权的第一次伟大尝试。",
+      "keywords": [
+        "第一国际精神的产儿",
+        "第一次伟大尝试"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "巴黎公社革命？",
+        "a": "是第一国际精神的产儿，是无产阶级夺取政权的第一次伟大尝试。"
+      }
+    },
+    {
+      "id": 126,
+      "gid": 126,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "列宁在一国胜利论基础上，得出社会主义可能在经济文化相对落后的俄国首先取得胜利的结论，并领 导俄国十月革命。",
+      "keywords": [
+        "基础上"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 127,
+      "gid": 127,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "十月革命实现了社会主义从理想到现实的伟大飞跃，开辟了人类历史的新纪元，从根本上推翻了人剥 削人、人压迫人的制度，建立起世界上第一个人民当家作主的社会主义国家。",
+      "keywords": [
+        "根本上推翻了人剥",
+        "第一个人民当家作主的"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 128,
+      "gid": 128,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "苏俄战时共产主义时期的主要特征，是余粮收集制、取消商品货币关系。",
+      "keywords": [
+        "商品"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "苏俄战时共产主义时期的主要特征？",
+        "a": "是余粮收集制、取消商品货币关系。"
+      }
+    },
+    {
+      "id": 129,
+      "gid": 129,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "苏俄新经济政策时期的主要特征，是发展商品经济。",
+      "keywords": [
+        "商品"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "苏俄新经济政策时期的主要特征？",
+        "a": "是发展商品经济。"
+      }
+    },
+    {
+      "id": 130,
+      "gid": 130,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "列宁把建设社会主义作为一个长期探索、不断实践的过程，把大力发展生产力、提高劳动生产率放在 首要地位。",
+      "keywords": [
+        "劳动",
+        "实践",
+        "生产力",
+        "首要地位"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 131,
+      "gid": 131,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "马克思是第一国际的灵魂，第一国际促进马克思主义传播及其与国际工人运动的结合，初步确立了马 克思主义在工人运动中的指导地位。",
+      "keywords": [
+        "第一国际促进马克思主",
+        "第一国际的灵魂"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 132,
+      "gid": 132,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第六章社会主义的发展及其规律",
+      "content": "资本主义必然灭亡、社会主义必然胜利，是科学社会主义的核心命题。",
+      "keywords": [
+        "必然灭亡",
+        "必然胜利",
+        "核心命题",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "资本主义必然灭亡、社会主义必然胜利？",
+        "a": "是科学社会主义的核心命题。"
+      }
+    },
+    {
+      "id": 133,
+      "gid": 133,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第七章共产主义崇高理想及其最终实现",
+      "content": "是否坚持科学的立场、观点和方法，是能否正确预见未来的基本前提，也是马克思主义与空想社会主 义的根本区别。",
+      "keywords": [
+        "前提",
+        "根本区别"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "是否坚持科学的立场、观点和方法？",
+        "a": "是能否正确预见未来的基本前提，也是马克思主义与空想社会主 义的根本区别。"
+      }
+    },
+    {
+      "id": 134,
+      "gid": 134,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第七章共产主义崇高理想及其最终实现",
+      "content": "实现人的自由而全面的发展，是马克思主义追求的根本价值目标，也是共产主义社会的根本特征。",
+      "keywords": [
+        "价值",
+        "根本价值目标",
+        "根本特征"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "实现人的自由而全面的发展？",
+        "a": "是马克思主义追求的根本价值目标，也是共产主义社会的根本特征。"
+      }
+    },
+    {
+      "id": 135,
+      "gid": 135,
+      "subject": "马原",
+      "subject_full": "马克思主义基本原理",
+      "chapter": "第七章共产主义崇高理想及其最终实现",
+      "content": "我们党的最高理想和最终目标是实现共产主义，这也是党的最高行动纲领。",
+      "keywords": [
+        "最高理想和最终",
+        "最高行动纲领"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "我们党的最高理想和最终目标？",
+        "a": "是实现共产主义，这也是党的最高行动纲领。"
+      }
+    },
+    {
+      "id": 1,
+      "gid": 136,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "导论马克思主义中国化时代化的历史进程与理论成果",
+      "content": "1938 年毛泽东在党的六届六中全会上作的《论新阶段》报告标志着“马克思主义的中国化”命题正式 提出。",
+      "keywords": [
+        "标志着“马克思主义的"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 2,
+      "gid": 137,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "导论马克思主义中国化时代化的历史进程与理论成果",
+      "content": "推进马克思主义中国化时代化的根本途径是“两个结合”，即同中国具体实际相结合、同中华优秀传 统文化相结合。",
+      "keywords": [
+        "根本途径是“两个结合"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "推进马克思主义中国化时代化的根本途径？",
+        "a": "是“两个结合”，即同中国具体实际相结合、同中华优秀传 统文化相结合。"
+      }
+    },
+    {
+      "id": 3,
+      "gid": 138,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "导论马克思主义中国化时代化的历史进程与理论成果",
+      "content": "毛泽东思想是马克思主义中国化时代化的第一次历史性飞跃，中国特色社会主义理论体系实现了马克 思主义中国化时代化新的飞跃，习近平新时代中国特色社会主义思想也实现了马克思主义中国化时代 化新的飞跃。",
+      "keywords": [
+        "第一次历史性飞跃"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "毛泽东思想？",
+        "a": "是马克思主义中国化时代化的第一次历史性飞跃，中国特色社会主义理论体系实现了马克 思主义中国化时代化新的飞跃，习近平新时代中国特色社会主义思想也实现了马克思主义中国化时代 化新的飞跃。"
+      }
+    },
+    {
+      "id": 4,
+      "gid": 139,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "1945 年党的七大概括了毛泽东思想的主要内容，将其确立为党必须长期坚持的指导思想并写入党章， 这是七大的历史性贡献。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 5,
+      "gid": 140,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "1981 年党的十一届六中全会通过《关于建国以来党的若干历史问题的决议》，首次概括毛泽东思想的 活的灵魂，即实事求是、群众路线、独立自主。",
+      "keywords": [
+        "实事求是",
+        "独立自主",
+        "群众路线",
+        "首次概括毛泽东思想的"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 6,
+      "gid": 141,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "从进攻大城市转向农村进军，是中国革命具有决定意义的新起点。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "从进攻大城市转向农村进军？",
+        "a": "是中国革命具有决定意义的新起点。"
+      }
+    },
+    {
+      "id": 7,
+      "gid": 142,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "实事求是是毛泽东思想的基本点和精髓，是马克思主义的根本观点，也是中国共产党的思想路线。",
+      "keywords": [
+        "实事求是",
+        "根本观点"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "实事求是？",
+        "a": "是毛泽东思想的基本点和精髓，是马克思主义的根本观点，也是中国共产党的思想路线。"
+      }
+    },
+    {
+      "id": 8,
+      "gid": 143,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "群众路线是我们党的生命线和根本工作路线，是党永葆青春活力和战斗力的重要传家宝。",
+      "keywords": [
+        "根本工作路线",
+        "群众路线"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "群众路线？",
+        "a": "是我们党的生命线和根本工作路线，是党永葆青春活力和战斗力的重要传家宝。"
+      }
+    },
+    {
+      "id": 9,
+      "gid": 144,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "独立自主是中华民族精神之魂，是我们全部理论和实践的立足点。",
+      "keywords": [
+        "实践",
+        "独立自主"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "独立自主？",
+        "a": "是中华民族精神之魂，是我们全部理论和实践的立足点。"
+      }
+    },
+    {
+      "id": 10,
+      "gid": 145,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "《反对本本主义》是独立自主思想最初的明确表述。",
+      "keywords": [
+        "最初的明确表述",
+        "独立自主"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "《反对本本主义》？",
+        "a": "是独立自主思想最初的明确表述。"
+      }
+    },
+    {
+      "id": 11,
+      "gid": 146,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "全心全意为人民服务，是党区别于其他一切政党的根本标志，也是党一切行动的根本出发点和落脚点。",
+      "keywords": [
+        "出发点和落脚点",
+        "标志",
+        "根本出发点和落脚点",
+        "根本标志",
+        "落脚点"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "全心全意为人民服务？",
+        "a": "是党区别于其他一切政党的根本标志，也是党一切行动的根本出发点和落脚点。"
+      }
+    },
+    {
+      "id": 12,
+      "gid": 147,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "自我革命是党区别于其他一切政党的显著标志。",
+      "keywords": [
+        "标志",
+        "自我革命"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "自我革命？",
+        "a": "是党区别于其他一切政党的显著标志。"
+      }
+    },
+    {
+      "id": 13,
+      "gid": 148,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "新民主主义革命基本思想的提出，标志着毛泽东思想开始萌芽。",
+      "keywords": [
+        "新民主主义",
+        "标志着毛泽东思想开始"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 14,
+      "gid": 149,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "农村包围城市、武装夺取政权思想的提出和阐述，标志着毛泽东思想初步形成。",
+      "keywords": [
+        "农村包围城市",
+        "标志着毛泽东思想初步"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 15,
+      "gid": 150,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "新民主主义革命理论的系统阐述，标志着毛泽东思想趋于成熟。",
+      "keywords": [
+        "新民主主义",
+        "标志着毛泽东思想趋于"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 16,
+      "gid": 151,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第一章毛泽东思想及其历史地位",
+      "content": "革命和建设是毛泽东思想的实践基础，战争与革命是毛泽东思想形成的时代背景。",
+      "keywords": [
+        "基础",
+        "实践"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "革命和建设？",
+        "a": "是毛泽东思想的实践基础，战争与革命是毛泽东思想形成的时代背景。"
+      }
+    },
+    {
+      "id": 17,
+      "gid": 152,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "新民主主义革命的性质是资产阶级民主革命，前途是走向社会主义。",
+      "keywords": [
+        "新民主主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新民主主义革命的性质？",
+        "a": "是资产阶级民主革命，前途是走向社会主义。"
+      }
+    },
+    {
+      "id": 18,
+      "gid": 153,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "新民主主义革命的政治纲领，是建立各革命阶级联合专政的国家；经济纲领，是没收封建地主土地归 农民所有、没收官僚资本归新民主主义国家所有、保护民族工商业；文化纲领，是建设民族的、科学 的、大众的文化。",
+      "keywords": [
+        "新民主主义",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新民主主义革命的政治纲领？",
+        "a": "是建立各革命阶级联合专政的国家；经济纲领，是没收封建地主土地归 农民所有、没收官僚资本归新民主主义国家所有、保护民族工商业；文化纲领，是建设民族的、科学 的、大众的文化。"
+      }
+    },
+    {
+      "id": 19,
+      "gid": 154,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "新民主主义革命道路根本在于处理好土地革命、武装斗争和农村革命根据地建设三者之间的关系。",
+      "keywords": [
+        "土地革命",
+        "新民主主义",
+        "根本在于处理好土地革",
+        "武装斗争"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新民主主义革命道路根本？",
+        "a": "在于处理好土地革命、武装斗争和农村革命根据地建设三者之间的关系。"
+      }
+    },
+    {
+      "id": 20,
+      "gid": 155,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "统一战线、武装斗争、党的建设，是党在中国革命中战胜敌人的三个主要法宝。",
+      "keywords": [
+        "党的建设",
+        "武装斗争",
+        "统一战线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "统一战线、武装斗争、党的建设？",
+        "a": "是党在中国革命中战胜敌人的三个主要法宝。"
+      }
+    },
+    {
+      "id": 21,
+      "gid": 156,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "中国革命的中心问题、新民主主义革命理论的核心问题，是无产阶级的领导权。",
+      "keywords": [
+        "新民主主义",
+        "核心问题"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国革命的中心问题、新民主主义革命理论的核心问题？",
+        "a": "是无产阶级的领导权。"
+      }
+    },
+    {
+      "id": 22,
+      "gid": 157,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "中国革命取得胜利的根本保证，是无产阶级及其党的领导。",
+      "keywords": [
+        "根本保证"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国革命取得胜利的根本保证？",
+        "a": "是无产阶级及其党的领导。"
+      }
+    },
+    {
+      "id": 23,
+      "gid": 158,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "新民主主义革命的实质，是党领导下的农民革命。",
+      "keywords": [
+        "新民主主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新民主主义革命的实质？",
+        "a": "是党领导下的农民革命。"
+      }
+    },
+    {
+      "id": 24,
+      "gid": 159,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "中国革命最基本的动力是无产阶级，基本问题是农民问题，首要问题是分清敌友，基本内容是土地革 命。",
+      "keywords": [
+        "动力是无产阶级",
+        "最基本的动力是",
+        "首要问题是分清敌友"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国革命最基本的动力？",
+        "a": "是无产阶级，基本问题是农民问题，首要问题是分清敌友，基本内容是土地革 命。"
+      }
+    },
+    {
+      "id": 25,
+      "gid": 160,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "帝国主义是中国革命的首要对象，是中国社会进步和发展的最大障碍，也是近代中国贫困落后和一切 灾难祸害的总根源。",
+      "keywords": [
+        "最大障碍",
+        "首要对象"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "帝国主义？",
+        "a": "是中国革命的首要对象，是中国社会进步和发展的最大障碍，也是近代中国贫困落后和一切 灾难祸害的总根源。"
+      }
+    },
+    {
+      "id": 26,
+      "gid": 161,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "无产阶级是中国革命最基本的动力，农民是中国革命的主力军。",
+      "keywords": [
+        "动力",
+        "最基本的动力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "无产阶级？",
+        "a": "是中国革命最基本的动力，农民是中国革命的主力军。"
+      }
+    },
+    {
+      "id": 27,
+      "gid": 162,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "区分新旧两种不同范畴民主主义革命的根本标志，是革命领导权掌握在无产阶级还是资产阶级手中。",
+      "keywords": [
+        "标志",
+        "根本标志"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "区分新旧两种不同范畴民主主义革命的根本标志？",
+        "a": "是革命领导权掌握在无产阶级还是资产阶级手中。"
+      }
+    },
+    {
+      "id": 28,
+      "gid": 163,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "没收封建地主土地归农民所有，是新民主主义革命的主要内容；没收官僚资本归新民主主义国家所有， 是新民主主义革命的题中应有之义。",
+      "keywords": [
+        "新民主主义",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "没收封建地主土地归农民所有？",
+        "a": "是新民主主义革命的主要内容；没收官僚资本归新民主主义国家所有， 是新民主主义革命的题中应有之义。"
+      }
+    },
+    {
+      "id": 29,
+      "gid": 164,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "统一战线建立的必然性，首先是由中国半殖民地半封建社会的阶级状况所决定，其次由中国革命的长 期性、残酷性及发展的不平衡性所决定。",
+      "keywords": [
+        "必然性",
+        "统一战线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "统一战线建立的必然性，首先？",
+        "a": "是由中国半殖民地半封建社会的阶级状况所决定，其次由中国革命的长 期性、残酷性及发展的不平衡性所决定。"
+      }
+    },
+    {
+      "id": 30,
+      "gid": 165,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第二章新民主主义革命理论",
+      "content": "统一战线包括两个联盟，第一个是工人阶级同农民阶级、广大知识分子及其他劳动者的联盟，主要是 工农联盟；第二个是工人阶级和非劳动人民的联盟，主要是与民族资产阶级的联盟。第一个联盟是统 一战线的基础，是基本的、主要的联盟。",
+      "keywords": [
+        "劳动",
+        "基础",
+        "第一个是工人阶级同农",
+        "第一个联盟是统",
+        "统一战线"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "统一战线？",
+        "a": "包括两个联盟，第一个是工人阶级同农民阶级、广大知识分子及其他劳动者的联盟，主要是 工农联盟；第二个是工人阶级和非劳动人民的联盟，主要是与民族资产阶级的联盟。第一个联盟是统 一战线的基础，是基本的、主要的联盟。"
+      }
+    },
+    {
+      "id": 31,
+      "gid": 166,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "资本主义工商业改造的目的，是将私营经济改造成国营经济，将私有制改造成公有制；方式是和平赎 买。",
+      "keywords": [
+        "目的",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "资本主义工商业改造的目的？",
+        "a": "是将私营经济改造成国营经济，将私有制改造成公有制；方式是和平赎 买。"
+      }
+    },
+    {
+      "id": 32,
+      "gid": 167,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "资本主义工商业改造，采取从低级到高级的国家资本主义过渡形式，初级形式包括委托加工、计划订 货、统购包销、经销代销等，高级形式包括个别行业公私合营和全行业公私合营。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 33,
+      "gid": 168,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "初级国家资本主义和个别行业公私合营，实行四马分肥，即将利润分为国家所得税、企业公积金、工 人福利费和资方红利；全行业公私合营后，对资方实行定股定息。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 34,
+      "gid": 169,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "农业社会主义改造在三大改造中首先进行，土地改革完成后，农民既有发展个体经济的积极性，也有 参加互助合作的积极性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 35,
+      "gid": 170,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "农业和手工业社会主义改造的目的，是把个体经济改造成集体经济，将私有制改造成公有制；方式是 合作化，方针是积极领导、稳步前进，步骤是循序渐进。",
+      "keywords": [
+        "目的"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "农业和手工业社会主义改造的目的？",
+        "a": "是把个体经济改造成集体经济，将私有制改造成公有制；方式是 合作化，方针是积极领导、稳步前进，步骤是循序渐进。"
+      }
+    },
+    {
+      "id": 36,
+      "gid": 171,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "农业社会主义改造遵循自愿互利、典型示范和国家帮助的原则，手工业社会主义改造采取说服教育、 示范和国家帮助的方法。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 37,
+      "gid": 172,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "农业社会主义改造依次经历互助组、初级合作社、高级合作社三个阶段，互助组的生产资料仍归农民 个人所有，初级合作社实行按劳分配与土地入股分红相结合，高级合作社的生产资料归集体所有并实 行按劳分配。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 38,
+      "gid": 173,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "手工业改造经历供销小组、供销合作社和生产合作社三个阶段，其性质分别是社会主义萌芽、半社会 主义和社会主义。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 39,
+      "gid": 174,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "新民主主义社会中，个体经济站在十字路口，占绝对优势，国营经济居于领导地位。",
+      "keywords": [
+        "新民主主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 40,
+      "gid": 175,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "新民主主义社会时期的民族资产阶级具有两面性，既有剥削工人的一面，也有接受工人阶级及其政党 领导的一面。",
+      "keywords": [
+        "新民主主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 41,
+      "gid": 176,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "社会主义改造的历史经验，是坚持社会主义工业化建设与社会主义改造同时并举，采取积极引导、逐 步过渡的方式，并用和平方法进行改造。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会主义改造的历史经验？",
+        "a": "是坚持社会主义工业化建设与社会主义改造同时并举，采取积极引导、逐 步过渡的方式，并用和平方法进行改造。"
+      }
+    },
+    {
+      "id": 42,
+      "gid": 177,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "社会主义公有制成为我国社会的经济基础，标志着阶级剥削制度结束和社会主义基本制度确立。",
+      "keywords": [
+        "基础",
+        "标志着阶级剥削制度结",
+        "经济基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 43,
+      "gid": 178,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第三章社会主义改造理论",
+      "content": "社会主义基本制度确立，是中国历史上最深刻、最伟大的社会变革，意味着进入社会主义初级阶段， 进入全面建设社会主义的历史阶段。",
+      "keywords": [
+        "最伟大的社会变",
+        "最深刻",
+        "社会主义初级阶段"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会主义基本制度确立？",
+        "a": "是中国历史上最深刻、最伟大的社会变革，意味着进入社会主义初级阶段， 进入全面建设社会主义的历史阶段。"
+      }
+    },
+    {
+      "id": 44,
+      "gid": 179,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "《论十大关系》以苏为鉴，独立自主探索适合中国国情的社会主义建设道路，标志着党探索中国社会 主义建设道路的良好开端。",
+      "keywords": [
+        "标志着党探索中国社会",
+        "独立自主"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 45,
+      "gid": 180,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "《关于正确处理人民内部矛盾的问题》，提出走一条有别于苏联的中国工业化道路。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 46,
+      "gid": 181,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "处理政治思想领域的人民内部矛盾，实行“团结、批评、团结”的方针；处理物质利益和分配方面的 矛盾，实行统筹兼顾、适当安排的方针；处理科学文化领域的矛盾，实行“百花齐放、百家争鸣”的 方针。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 47,
+      "gid": 182,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "以农业为基础、以工业为主导、以农轻重为序，是发展国民经济的总方针。",
+      "keywords": [
+        "基础"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "以农业为基础、以工业为主导、以农轻重为序？",
+        "a": "是发展国民经济的总方针。"
+      }
+    },
+    {
+      "id": 48,
+      "gid": 183,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "党的八大正确分析了社会主义改造完成后我国社会主要矛盾的变化，指出国内主要矛盾已不再是工人 阶级与资产阶级的矛盾，而是人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的 状况之间的矛盾。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "党的八大正确分析了社会主义改造完成后我国社会主要矛盾的变化？",
+        "a": "指出国内主要矛盾已不再是工人 阶级与资产阶级的矛盾，而是人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的 状况之间的矛盾。"
+      }
+    },
+    {
+      "id": 49,
+      "gid": 184,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "党的八大提出既反保守又反冒进、坚持在综合平衡中稳步前进的方针，集中讨论执政党的建设问题， 并要求扩大社会主义民主、健全社会主义法制。",
+      "keywords": [
+        "党的建设"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 50,
+      "gid": 185,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "处理人民内部矛盾，要采取民主的方法，即讨论、批评和说服教育的方法。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 51,
+      "gid": 186,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第四章社会主义建设道路初步探索的理论成果",
+      "content": "关于正确处理人民内部矛盾的思想，是社会主义国家政治生活的主题。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "关于正确处理人民内部矛盾的思想？",
+        "a": "是社会主义国家政治生活的主题。"
+      }
+    },
+    {
+      "id": 52,
+      "gid": 187,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "邓小平理论是中国特色社会主义理论体系的开篇之作，党的十三大标志其轮廓形成，南方谈话标志其 逐步走向成熟。",
+      "keywords": [
+        "标志其",
+        "标志其轮廓形成"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "邓小平理论？",
+        "a": "是中国特色社会主义理论体系的开篇之作，党的十三大标志其轮廓形成，南方谈话标志其 逐步走向成熟。"
+      }
+    },
+    {
+      "id": 53,
+      "gid": 188,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "党的十二大提出，走自己的道路，建设有中国特色的社会主义。从此，“中国特色社会主义”成为我 们党的全部理论和实践创新的主题。这一重大命题的提出具有里程碑意义。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 54,
+      "gid": 189,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "“三个代表”重要思想实现了中国特色社会主义理论体系的跨世纪发展，科学发展观实现了其在新世 纪新阶段的新发展，习近平新时代中国特色社会主义思想谱写了其在新时代的新篇章。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 55,
+      "gid": 190,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "中国特色社会主义理论体系形成发展的历史条件，是党认真总结我国社会主义建设正反两方面的历史 经验，并科学判断我国发展所处历史方位。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国特色社会主义理论体系形成发展的历史条件？",
+        "a": "是党认真总结我国社会主义建设正反两方面的历史 经验，并科学判断我国发展所处历史方位。"
+      }
+    },
+    {
+      "id": 56,
+      "gid": 191,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "中国特色社会主义理论体系形成发展的实践基础，是党领导的改革开放和社会主义现代化建设的生动 实践。",
+      "keywords": [
+        "基础",
+        "实践",
+        "改革开放"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国特色社会主义理论体系形成发展的实践基础？",
+        "a": "是党领导的改革开放和社会主义现代化建设的生动 实践。"
+      }
+    },
+    {
+      "id": 57,
+      "gid": 192,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "南方谈话是邓小平理论的集大成之作，深刻回答困扰人们思想的一系列问题，推动改革开放和社会主 义现代化建设进入新阶段，邓小平理论也逐步走向成熟。 第六、七、八章邓小平理论、“三个代表”重要思想、科学发展观",
+      "keywords": [
+        "改革开放"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "南方谈话？",
+        "a": "是邓小平理论的集大成之作，深刻回答困扰人们思想的一系列问题，推动改革开放和社会主 义现代化建设进入新阶段，邓小平理论也逐步走向成熟。 第六、七、八章邓小平理论、“三个代表”重要思想、科学发展观"
+      }
+    },
+    {
+      "id": 58,
+      "gid": 193,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "什么是社会主义、怎样建设社会主义，是邓小平理论首要的基本的理论问题。",
+      "keywords": [
+        "首要的基本的理论问题"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "什么是社会主义、怎样建设社会主义？",
+        "a": "是邓小平理论首要的基本的理论问题。"
+      }
+    },
+    {
+      "id": 59,
+      "gid": 194,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "社会主义社会发展生产力的目的，是实现共同富裕。",
+      "keywords": [
+        "生产力",
+        "目的"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会主义社会发展生产力的目的？",
+        "a": "是实现共同富裕。"
+      }
+    },
+    {
+      "id": 60,
+      "gid": 195,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "解放思想、实事求是是邓小平理论的精髓。",
+      "keywords": [
+        "实事求是",
+        "解放思想"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "解放思想、实事求？",
+        "a": "是是邓小平理论的精髓。"
+      }
+    },
+    {
+      "id": 61,
+      "gid": 196,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "党的基本路线是国家的生命线、人民的幸福线，以经济建设为中心是兴国之要和最根本的拨乱反正。",
+      "keywords": [
+        "最根本的拨乱反",
+        "根本的拨乱反正"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的基本路线？",
+        "a": "是国家的生命线、人民的幸福线，以经济建设为中心是兴国之要和最根本的拨乱反正。"
+      }
+    },
+    {
+      "id": 62,
+      "gid": 197,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "坚持四项基本原则是立国之本，是党和国家生存发展的政治基石。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持四项基本原则？",
+        "a": "是立国之本，是党和国家生存发展的政治基石。"
+      }
+    },
+    {
+      "id": 63,
+      "gid": 198,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "搞清楚什么是社会主义、怎样建设社会主义，关键是在坚持社会主义基本制度的基础上进一步认清社 会主义的本质。",
+      "keywords": [
+        "关键是在坚持社会主义",
+        "基础上进一步认清社",
+        "本质"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "搞清楚什么？",
+        "a": "是社会主义、怎样建设社会主义，关键是在坚持社会主义基本制度的基础上进一步认清社 会主义的本质。"
+      }
+    },
+    {
+      "id": 64,
+      "gid": 199,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "社会主义的根本任务是发展生产力。",
+      "keywords": [
+        "根本任务是发展生产力",
+        "生产力"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会主义的根本任务？",
+        "a": "是发展生产力。"
+      }
+    },
+    {
+      "id": 65,
+      "gid": 200,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "中国解决所有问题的关键是靠自己的发展，科学技术是第一生产力。",
+      "keywords": [
+        "关键是靠自己的发展",
+        "生产力",
+        "第一生产力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国解决所有问题的关键？",
+        "a": "是靠自己的发展，科学技术是第一生产力。"
+      }
+    },
+    {
+      "id": 66,
+      "gid": 201,
+      "subject": "毛中特",
+      "subject_full": "毛泽东思想和中国特色社会主义理论体系概论",
+      "chapter": "第五章中国特色社会主义理论体系的形成发展",
+      "content": "改革开放是当代中国的鲜明标志和活力源泉，是决定中国命运和实现中华民族伟大复兴的关键一招。",
+      "keywords": [
+        "关键一招",
+        "改革开放",
+        "标志和活力源泉"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "改革开放？",
+        "a": "是当代中国的鲜明标志和活力源泉，是决定中国命运和实现中华民族伟大复兴的关键一招。"
+      }
+    },
+    {
+      "id": 1,
+      "gid": 202,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "习近平新时代中国特色社会主义思想回答的时代课题，是新时代坚持和发展什么样的中国特色社会主 义、怎样坚持和发展中国特色社会主义，建设什么样的社会主义现代化强国、怎样建设社会主义现代 化强国，以及建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "习近平新时代中国特色社会主义思想回答的时代课题？",
+        "a": "是新时代坚持和发展什么样的中国特色社会主 义、怎样坚持和发展中国特色社会主义，建设什么样的社会主义现代化强国、怎样建设社会主义现代 化强国，以及建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党。"
+      }
+    },
+    {
+      "id": 2,
+      "gid": 203,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "习近平新时代中国特色社会主义思想的主要内容中，“十个明确”构成主体内容，具有四梁八柱和统 摄作用；“十四个坚持”构成基本方略；“十三个方面成就”科学总结了新时代伟大实践。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 3,
+      "gid": 204,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "“六个必须坚持”是习近平新时代中国特色社会主义思想的世界观、方法论和贯穿其中的立场观点方 法的重要体现，彰显了这一思想的理论品格和鲜明特征。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "“六个必须坚持”？",
+        "a": "是习近平新时代中国特色社会主义思想的世界观、方法论和贯穿其中的立场观点方 法的重要体现，彰显了这一思想的理论品格和鲜明特征。"
+      }
+    },
+    {
+      "id": 4,
+      "gid": 205,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "坚持人民至上是根本价值立场，体现了历史唯物主义群众史观。",
+      "keywords": [
+        "价值",
+        "唯物主义",
+        "根本价值立场"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持人民至上？",
+        "a": "是根本价值立场，体现了历史唯物主义群众史观。"
+      }
+    },
+    {
+      "id": 5,
+      "gid": 206,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "坚持自信自立是内在精神特质，体现了客观规律性和主观能动性的有机结合。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持自信自立？",
+        "a": "是内在精神特质，体现了客观规律性和主观能动性的有机结合。"
+      }
+    },
+    {
+      "id": 6,
+      "gid": 207,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "坚持守正创新是鲜明理论品格，体现了变与不变、继承与发展的内在联系。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持守正创新？",
+        "a": "是鲜明理论品格，体现了变与不变、继承与发展的内在联系。"
+      }
+    },
+    {
+      "id": 7,
+      "gid": 208,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "坚持问题导向是重要实践要求，体现了矛盾的普遍性和客观性。",
+      "keywords": [
+        "实践",
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持问题导向？",
+        "a": "是重要实践要求，体现了矛盾的普遍性和客观性。"
+      }
+    },
+    {
+      "id": 8,
+      "gid": 209,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "坚持系统观念是基本思想和工作方法，体现了辩证唯物主义普遍联系的原理。",
+      "keywords": [
+        "唯物主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持系统观念？",
+        "a": "是基本思想和工作方法，体现了辩证唯物主义普遍联系的原理。"
+      }
+    },
+    {
+      "id": 9,
+      "gid": 210,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "坚持胸怀天下是中国共产党人的境界格局，体现了马克思主义追求人类进步和解放的崇高理想。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持胸怀天下？",
+        "a": "是中国共产党人的境界格局，体现了马克思主义追求人类进步和解放的崇高理想。"
+      }
+    },
+    {
+      "id": 10,
+      "gid": 211,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "“两个结合”是党在探索中国特色社会主义道路中得出的规律性认识，是我们取得成功的最大法宝， 也是推进马克思主义中国化时代化的根本途径。",
+      "keywords": [
+        "最大法宝",
+        "根本途径",
+        "认识"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“两个结合”？",
+        "a": "是党在探索中国特色社会主义道路中得出的规律性认识，是我们取得成功的最大法宝， 也是推进马克思主义中国化时代化的根本途径。"
+      }
+    },
+    {
+      "id": 11,
+      "gid": 212,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "中华优秀传统文化是中华文明的智慧结晶和精华所在，是中华民族的根和魂，是我们在世界文化激荡 中站稳脚跟的根基，也是我们党创新理论的“根”。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中华优秀传统文化？",
+        "a": "是中华文明的智慧结晶和精华所在，是中华民族的根和魂，是我们在世界文化激荡 中站稳脚跟的根基，也是我们党创新理论的“根”。"
+      }
+    },
+    {
+      "id": 12,
+      "gid": 213,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "习近平新时代中国特色社会主义思想是全党全国各族人民为实现中华民族伟大复兴而奋斗的行动指南， 是新时代党和国家事业发展的根本遵循。",
+      "keywords": [
+        "根本遵循"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "习近平新时代中国特色社会主义思想？",
+        "a": "是全党全国各族人民为实现中华民族伟大复兴而奋斗的行动指南， 是新时代党和国家事业发展的根本遵循。"
+      }
+    },
+    {
+      "id": 13,
+      "gid": 214,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "“两个确立”反映了全党全军全国各族人民共同心愿，是党在新时代取得的重大政治成果，对新时代 党和国家事业发展、对推进中华民族伟大复兴历史进程具有决定性意义。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "“两个确立”反映了全党全军全国各族人民共同心愿？",
+        "a": "是党在新时代取得的重大政治成果，对新时代 党和国家事业发展、对推进中华民族伟大复兴历史进程具有决定性意义。"
+      }
+    },
+    {
+      "id": 14,
+      "gid": 215,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "导论习近平新时代中国特色社会主义思想的科学体系和历史地位",
+      "content": "“两个确立”是新时代党和国家事业取得历史性成就、发生历史性变革的决定性因素，是党和人民应 对一切不确定性的最大确定性、最大底气、最大保证。",
+      "keywords": [
+        "最大保证",
+        "最大底气",
+        "最大确定性"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“两个确立”？",
+        "a": "是新时代党和国家事业取得历史性成就、发生历史性变革的决定性因素，是党和人民应 对一切不确定性的最大确定性、最大底气、最大保证。"
+      }
+    },
+    {
+      "id": 15,
+      "gid": 216,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "中国特色社会主义是党和人民历尽千辛万苦、付出巨大代价取得的根本成就，是实现中华民族伟大复 兴的必由之路。",
+      "keywords": [
+        "根本成就"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国特色社会主义？",
+        "a": "是党和人民历尽千辛万苦、付出巨大代价取得的根本成就，是实现中华民族伟大复 兴的必由之路。"
+      }
+    },
+    {
+      "id": 16,
+      "gid": 217,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "坚持和发展中国特色社会主义是改革开放以来党的全部理论和实践的主题，是当代中国发展进步的根 本方向。",
+      "keywords": [
+        "实践",
+        "改革开放"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持和发展中国特色社会主义？",
+        "a": "是改革开放以来党的全部理论和实践的主题，是当代中国发展进步的根 本方向。"
+      }
+    },
+    {
+      "id": 17,
+      "gid": 218,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "改革开放以来我们取得一切成绩和进步的根本原因，是开辟了中国特色社会主义道路、形成了中国特 色社会主义理论体系、确立了中国特色社会主义制度、发展了中国特色社会主义文化。",
+      "keywords": [
+        "改革开放",
+        "根本原因"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "改革开放以来我们取得一切成绩和进步的根本原因？",
+        "a": "是开辟了中国特色社会主义道路、形成了中国特 色社会主义理论体系、确立了中国特色社会主义制度、发展了中国特色社会主义文化。"
+      }
+    },
+    {
+      "id": 18,
+      "gid": 219,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "中国特色社会主义道路是实现途径，中国特色社会主义理论体系是行动指南，中国特色社会主义制度 是根本保障，中国特色社会主义文化是精神力量，四者统一于中国特色社会主义伟大实践。",
+      "keywords": [
+        "实践",
+        "根本保障"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国特色社会主义道路？",
+        "a": "是实现途径，中国特色社会主义理论体系是行动指南，中国特色社会主义制度 是根本保障，中国特色社会主义文化是精神力量，四者统一于中国特色社会主义伟大实践。"
+      }
+    },
+    {
+      "id": 19,
+      "gid": 220,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "中国特色社会主义道路自信、理论自信、制度自信、文化自信，来源于实践、来源于人民、来源于真 理。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 20,
+      "gid": 221,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "马克思主义深刻揭示了社会主义必然代替资本主义的客观规律，这是坚定“四个自信”的理论支撑和 根本依据。",
+      "keywords": [
+        "必然代替资本主义的客",
+        "根本依据",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "马克思主义深刻揭示了社会主义必然代替资本主义的客观规律，这？",
+        "a": "是坚定“四个自信”的理论支撑和 根本依据。"
+      }
+    },
+    {
+      "id": 21,
+      "gid": 222,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "“四个全面”战略布局中，全面建设社会主义现代化国家是战略目标，居于引领地位；全面深化改革、 全面依法治国、全面从严治党是三大战略举措，为实现战略目标提供重要保障。",
+      "keywords": [
+        "全面从严治党",
+        "全面依法治国",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "“四个全面”战略布局中，全面建设社会主义现代化国家？",
+        "a": "是战略目标，居于引领地位；全面深化改革、 全面依法治国、全面从严治党是三大战略举措，为实现战略目标提供重要保障。"
+      }
+    },
+    {
+      "id": 22,
+      "gid": 223,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "党的坚强领导是中国特色社会主义最本质的特征，也是中国特色社会主义制度的最大优势。",
+      "keywords": [
+        "最大优势",
+        "最本质的特征",
+        "本质的特征"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的坚强领导？",
+        "a": "是中国特色社会主义最本质的特征，也是中国特色社会主义制度的最大优势。"
+      }
+    },
+    {
+      "id": 23,
+      "gid": 224,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "中华5000 多年文明是中国特色社会主义的文化根脉和突出优势。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中华5000 多年文明？",
+        "a": "是中国特色社会主义的文化根脉和突出优势。"
+      }
+    },
+    {
+      "id": 24,
+      "gid": 225,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "新时代是我国发展新的历史方位，标志着中国特色社会主义事业进入新的发展阶段。",
+      "keywords": [
+        "标志着中国特色社会主"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 25,
+      "gid": 226,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "我国社会主要矛盾的变化，是中国特色社会主义进入新时代的基本依据。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "我国社会主要矛盾的变化？",
+        "a": "是中国特色社会主义进入新时代的基本依据。"
+      }
+    },
+    {
+      "id": 26,
+      "gid": 227,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第一章新时代坚持和发展中国特色社会主义",
+      "content": "发展不平衡不充分问题，是满足人民日益增长的美好生活需要的主要制约因素。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "发展不平衡不充分问题？",
+        "a": "是满足人民日益增长的美好生活需要的主要制约因素。"
+      }
+    },
+    {
+      "id": 27,
+      "gid": 228,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "中国梦的本质是国家富强、民族振兴、人民幸福。",
+      "keywords": [
+        "本质是国家富强"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国梦的本质？",
+        "a": "是国家富强、民族振兴、人民幸福。"
+      }
+    },
+    {
+      "id": 28,
+      "gid": 229,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "全面建成小康社会，是实现中华民族伟大复兴中国梦的关键一步。",
+      "keywords": [
+        "关键一步"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "全面建成小康社会？",
+        "a": "是实现中华民族伟大复兴中国梦的关键一步。"
+      }
+    },
+    {
+      "id": 29,
+      "gid": 230,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "全面建成社会主义现代化强国分两步走：从2020 年到2035 年基本实现社会主义现代化，从2035 年 到本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 30,
+      "gid": 231,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "党的领导直接关系中国式现代化的根本方向、前途命运、最终成败，决定中国式现代化的根本性质。",
+      "keywords": [
+        "中国式现代化",
+        "最终成败",
+        "根本性质",
+        "根本方向"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 31,
+      "gid": 232,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "中国式现代化深植中华优秀传统文化，体现科学社会主义的先进本质，借鉴吸收一切人类优秀文明成 果，代表人类文明进步的发展方向，是一种全新的人类文明形态。",
+      "keywords": [
+        "中国式现代化",
+        "本质"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 32,
+      "gid": 233,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "中国式现代化提供了一种全新的现代化模式，是对西方现代化理论和实践的重大超越，为广大发展中 国家提供了全新选择。",
+      "keywords": [
+        "中国式现代化",
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国式现代化提供了一种全新的现代化模式？",
+        "a": "是对西方现代化理论和实践的重大超越，为广大发展中 国家提供了全新选择。"
+      }
+    },
+    {
+      "id": 33,
+      "gid": 234,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "团结奋斗是中国共产党和中国人民最显著的精神标识，是中国人民创造历史伟业的必由之路。",
+      "keywords": [
+        "最显著的精神标"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "团结奋斗？",
+        "a": "是中国共产党和中国人民最显著的精神标识，是中国人民创造历史伟业的必由之路。"
+      }
+    },
+    {
+      "id": 34,
+      "gid": 235,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "新民主主义革命为实现现代化创造了根本社会条件。",
+      "keywords": [
+        "新民主主义",
+        "根本社会条件"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 35,
+      "gid": 236,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "社会主义革命和建设，为现代化建设奠定了根本政治前提和制度基础，提供了宝贵经验、理论准备和 物质基础。",
+      "keywords": [
+        "前提和制度基础",
+        "基础",
+        "根本政治前提和制度基"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 36,
+      "gid": 237,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "进入新时代，为中国式现代化提供了更为完善的制度保证、更为坚实的物质基础、更为主动的精神力 量。",
+      "keywords": [
+        "中国式现代化",
+        "基础"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 37,
+      "gid": 238,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "中国式现代化的显著特征是人口规模巨大的现代化。",
+      "keywords": [
+        "中国式现代化"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国式现代化的显著特征？",
+        "a": "是人口规模巨大的现代化。"
+      }
+    },
+    {
+      "id": 38,
+      "gid": 239,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第二章以中国式现代化全面推进中华民族伟大复兴",
+      "content": "社会主义现代化的根本要求是物质富足、精神富有。",
+      "keywords": [
+        "根本要求是物质富足"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会主义现代化的根本要求？",
+        "a": "是物质富足、精神富有。"
+      }
+    },
+    {
+      "id": 39,
+      "gid": 240,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "党的领导是党和国家的根本所在、命脉所在，是全国各族人民的利益所系、命运所系。",
+      "keywords": [
+        "根本所在"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的领导？",
+        "a": "是党和国家的根本所在、命脉所在，是全国各族人民的利益所系、命运所系。"
+      }
+    },
+    {
+      "id": 40,
+      "gid": 241,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "中国最大的国情，就是中国共产党的领导。",
+      "keywords": [
+        "最大的国情"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国最大的国情，就？",
+        "a": "是中国共产党的领导。"
+      }
+    },
+    {
+      "id": 41,
+      "gid": 242,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "中国共产党领导是中国特色社会主义制度的最大优势，也是中国特色社会主义最本质的特征。",
+      "keywords": [
+        "最大优势",
+        "最本质的特征",
+        "本质的特征"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国共产党领导？",
+        "a": "是中国特色社会主义制度的最大优势，也是中国特色社会主义最本质的特征。"
+      }
+    },
+    {
+      "id": 42,
+      "gid": 243,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "中国共产党领导是实现中华民族伟大复兴的根本保证，中国共产党是中国特色社会主义事业的坚强领 导核心。",
+      "keywords": [
+        "核心",
+        "根本保证"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国共产党领导？",
+        "a": "是实现中华民族伟大复兴的根本保证，中国共产党是中国特色社会主义事业的坚强领 导核心。"
+      }
+    },
+    {
+      "id": 43,
+      "gid": 244,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "坚持和加强党的全面领导，为推进新时代中国特色社会主义事业提供政治保证，使党成为风雨来袭时 中国人民最可靠的主心骨。",
+      "keywords": [
+        "最可靠的主心骨"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 44,
+      "gid": 245,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "党中央集中统一领导是党的领导的最高原则，是党保持团结统一和强大战斗力、不断取得胜利的关键 所在。",
+      "keywords": [
+        "关键",
+        "最高原则"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党中央集中统一领导？",
+        "a": "是党的领导的最高原则，是党保持团结统一和强大战斗力、不断取得胜利的关键 所在。"
+      }
+    },
+    {
+      "id": 45,
+      "gid": 246,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "维护党中央权威和集中统一领导，最关键的是坚决维护习近平同志党中央的核心、全党的核心地位。",
+      "keywords": [
+        "关键的是坚决维护习近",
+        "最关键的是坚决",
+        "核心",
+        "核心地位"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "维护党中央权威和集中统一领导，最关键的？",
+        "a": "是坚决维护习近平同志党中央的核心、全党的核心地位。"
+      }
+    },
+    {
+      "id": 46,
+      "gid": 247,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第三章坚持党的全面领导",
+      "content": "党的领导制度是我国的根本领导制度，是中国特色社会主义制度建设的关键、中国特色社会主义制度 体系的核心、国家治理体系和治理能力现代化的关键。",
+      "keywords": [
+        "关键",
+        "核心",
+        "根本领导制度"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的领导制度？",
+        "a": "是我国的根本领导制度，是中国特色社会主义制度建设的关键、中国特色社会主义制度 体系的核心、国家治理体系和治理能力现代化的关键。"
+      }
+    },
+    {
+      "id": 47,
+      "gid": 248,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "始终同人民在一起、为人民利益而奋斗、紧紧依靠人民创造历史伟业，是我们党立于不败之地、从胜 利走向胜利的根本原因。",
+      "keywords": [
+        "根本原因"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 48,
+      "gid": 249,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "民心是最大的政治，决定事业兴衰成败。",
+      "keywords": [
+        "最大的政治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 49,
+      "gid": 250,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "坚持以人民为中心，是新时代坚持和发展中国特色社会主义的根本立场，是贯穿党治国理政全部活动 的一条红线。",
+      "keywords": [
+        "根本立场"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "坚持以人民为中心？",
+        "a": "是新时代坚持和发展中国特色社会主义的根本立场，是贯穿党治国理政全部活动 的一条红线。"
+      }
+    },
+    {
+      "id": 50,
+      "gid": 251,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "人民立场是中国共产党的根本政治立场，是我们党区别于其他政党的显著标志。",
+      "keywords": [
+        "标志",
+        "根本政治立场"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人民立场？",
+        "a": "是中国共产党的根本政治立场，是我们党区别于其他政党的显著标志。"
+      }
+    },
+    {
+      "id": 51,
+      "gid": 252,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "我们党的最大政治优势是密切联系群众，党执政后的最大危险是脱离群众。",
+      "keywords": [
+        "最大危险是脱离",
+        "最大危险是脱离群",
+        "最大政治优势是",
+        "最大政治优势是密"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "我们党的最大政治优势？",
+        "a": "是密切联系群众，党执政后的最大危险是脱离群众。"
+      }
+    },
+    {
+      "id": 52,
+      "gid": 253,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "人民是我们党的生命之根、执政之基、力量之源。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 53,
+      "gid": 254,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "让群众满意，是我们党做好一切工作的价值取向和根本标准。",
+      "keywords": [
+        "价值",
+        "根本标准"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "让群众满意？",
+        "a": "是我们党做好一切工作的价值取向和根本标准。"
+      }
+    },
+    {
+      "id": 54,
+      "gid": 255,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "调查研究是获得真知灼见的源头活水，是贯彻群众路线的有效途径。",
+      "keywords": [
+        "群众路线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "调查研究？",
+        "a": "是获得真知灼见的源头活水，是贯彻群众路线的有效途径。"
+      }
+    },
+    {
+      "id": 55,
+      "gid": 256,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "共同富裕是中国特色社会主义的本质要求，是中国式现代化的重要特征。",
+      "keywords": [
+        "中国式现代化",
+        "本质要求"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "共同富裕？",
+        "a": "是中国特色社会主义的本质要求，是中国式现代化的重要特征。"
+      }
+    },
+    {
+      "id": 56,
+      "gid": 257,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "中国式现代化是全体人民共同富裕的现代化，这是区别于西方现代化的显著标志，也是中国式现代化 的本质特征。",
+      "keywords": [
+        "中国式现代化",
+        "本质特征",
+        "标志"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国式现代化？",
+        "a": "是全体人民共同富裕的现代化，这是区别于西方现代化的显著标志，也是中国式现代化 的本质特征。"
+      }
+    },
+    {
+      "id": 57,
+      "gid": 258,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第四章坚持以人民为中心",
+      "content": "实现人的自由而全面发展，是共产主义的本质特征。",
+      "keywords": [
+        "本质特征"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "实现人的自由而全面发展？",
+        "a": "是共产主义的本质特征。"
+      }
+    },
+    {
+      "id": 58,
+      "gid": 259,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "改革是经济社会发展的强大动力，发展是解决一切经济社会问题的关键，稳定是改革发展的前提。",
+      "keywords": [
+        "关键",
+        "前提",
+        "动力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "改革是经济社会发展的强大动力，发展？",
+        "a": "是解决一切经济社会问题的关键，稳定是改革发展的前提。"
+      }
+    },
+    {
+      "id": 59,
+      "gid": 260,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "国家治理体系和治理能力是相辅相成的有机整体，要通过好的治理体系提高治理能力，通过提高治理 能力发挥治理体系效能，不能认为治理体系越完善、治理能力就必然越强。",
+      "keywords": [
+        "必然越强"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "国家治理体系和治理能力？",
+        "a": "是相辅相成的有机整体，要通过好的治理体系提高治理能力，通过提高治理 能力发挥治理体系效能，不能认为治理体系越完善、治理能力就必然越强。"
+      }
+    },
+    {
+      "id": 60,
+      "gid": 261,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "进一步全面深化改革的重点和牵引，是深化经济体制改革；主题是牢牢把握推进中国式现代化；主线 是制度建设。",
+      "keywords": [
+        "中国式现代化"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "进一步全面深化改革的重点和牵引？",
+        "a": "是深化经济体制改革；主题是牢牢把握推进中国式现代化；主线 是制度建设。"
+      }
+    },
+    {
+      "id": 61,
+      "gid": 262,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "坚持党的全面领导为全面深化改革提供根本政治保证。",
+      "keywords": [
+        "根本政治保证"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 62,
+      "gid": 263,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "坚持以人民为中心为全面深化改革提供强大力量源泉。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 63,
+      "gid": 264,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "解放和发展社会生产力，是改革开放的鲜明特征和首要任务。",
+      "keywords": [
+        "改革开放",
+        "生产力",
+        "首要任务"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "解放和发展社会生产力？",
+        "a": "是改革开放的鲜明特征和首要任务。"
+      }
+    },
+    {
+      "id": 64,
+      "gid": 265,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "改革开放是决定当代中国命运的关键一招，也是决定实现“两个一百年”奋斗目标、实现中华民族伟 大复兴的关键一招。",
+      "keywords": [
+        "关键一招",
+        "改革开放"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "改革开放？",
+        "a": "是决定当代中国命运的关键一招，也是决定实现“两个一百年”奋斗目标、实现中华民族伟 大复兴的关键一招。"
+      }
+    },
+    {
+      "id": 65,
+      "gid": 266,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "改革开放是党和人民大踏步赶上时代的重要法宝，是实现中华民族伟大复兴的强大动力，全面深化改 革开放是新时代坚持和发展中国特色社会主义的根本动力。",
+      "keywords": [
+        "动力",
+        "改革开放",
+        "根本动力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "改革开放？",
+        "a": "是党和人民大踏步赶上时代的重要法宝，是实现中华民族伟大复兴的强大动力，全面深化改 革开放是新时代坚持和发展中国特色社会主义的根本动力。"
+      }
+    },
+    {
+      "id": 66,
+      "gid": 267,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "进一步全面深化改革，为中国式现代化提供强大动力和制度保障。",
+      "keywords": [
+        "中国式现代化",
+        "动力和制度保障"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 67,
+      "gid": 268,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "改善人民生活，是正确处理改革发展稳定关系的结合点。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "改善人民生活？",
+        "a": "是正确处理改革发展稳定关系的结合点。"
+      }
+    },
+    {
+      "id": 68,
+      "gid": 269,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第五章全面深化改革开放",
+      "content": "完善高水平对外开放体制机制，是推进中国式现代化的内在要求、推动高质量发展的强大动力、推动 经济全球化的大国担当、构建人类命运共同体的重要举措。",
+      "keywords": [
+        "中国式现代化",
+        "人类命运共同体",
+        "动力",
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "完善高水平对外开放体制机制？",
+        "a": "是推进中国式现代化的内在要求、推动高质量发展的强大动力、推动 经济全球化的大国担当、构建人类命运共同体的重要举措。"
+      }
+    },
+    {
+      "id": 69,
+      "gid": 270,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "新发展阶段明确了我国发展的历史方位，我国经济已由高速增长阶段转向高质量发展阶段。",
+      "keywords": [
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 70,
+      "gid": 271,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "新发展理念明确了现代化建设的指导原则，要以新发展理念引领高质量发展。",
+      "keywords": [
+        "新发展理念",
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新发展理念明确了现代化建设的？",
+        "a": "指导原则，要以新发展理念引领高质量发展。"
+      }
+    },
+    {
+      "id": 71,
+      "gid": 272,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "新发展格局明确了我国经济现代化的路径选择，加快构建新发展格局是推动高质量发展的战略基点。",
+      "keywords": [
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新发展格局明确了我国经济现代化的路径选择，加快构建新发展格局？",
+        "a": "是推动高质量发展的战略基点。"
+      }
+    },
+    {
+      "id": 72,
+      "gid": 273,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "新质生产力由技术革命性突破、生产要素创新性配置、产业深度转型升级催生，以劳动者、劳动资料、 劳动对象及其优化组合的跃升为基本内涵，以全要素生产率大幅提升为核心标志，特点是创新，关键 在质优，本质是先进生产力。",
+      "keywords": [
+        "关键",
+        "劳动",
+        "本质是先进生产力",
+        "标志",
+        "核心标志",
+        "生产力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 73,
+      "gid": 274,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "发展新质生产力，是推动高质量发展的内在要求和重要着力点。",
+      "keywords": [
+        "生产力",
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "发展新质生产力？",
+        "a": "是推动高质量发展的内在要求和重要着力点。"
+      }
+    },
+    {
+      "id": 74,
+      "gid": 275,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "高质量发展是新时代我国经济社会发展的鲜明主题，是全面建设社会主义现代化国家的首要任务，也 是中国式现代化的本质要求之一，是遵循经济规律发展的必然要求。",
+      "keywords": [
+        "中国式现代化",
+        "必然要求",
+        "本质要求之一",
+        "首要任务",
+        "高质量发展"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "高质量发展？",
+        "a": "是新时代我国经济社会发展的鲜明主题，是全面建设社会主义现代化国家的首要任务，也 是中国式现代化的本质要求之一，是遵循经济规律发展的必然要求。"
+      }
+    },
+    {
+      "id": 75,
+      "gid": 276,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "坚持“两个毫不动摇”，就是毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制 经济发展。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持“两个毫不动摇”，就？",
+        "a": "是毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制 经济发展。"
+      }
+    },
+    {
+      "id": 76,
+      "gid": 277,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "构建高水平社会主义市场经济体制，关键是要处理好政府和市场的关系。",
+      "keywords": [
+        "关键是要处理好政府和",
+        "市场经济"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "构建高水平社会主义市场经济体制，关键？",
+        "a": "是要处理好政府和市场的关系。"
+      }
+    },
+    {
+      "id": 77,
+      "gid": 278,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "现代化产业体系是推动经济高质量发展的关键力量，数字化是新的时代特征，数字经济正在成为新一 轮国际竞争的重点领域。",
+      "keywords": [
+        "关键力量",
+        "高质量发展"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "现代化产业体系？",
+        "a": "是推动经济高质量发展的关键力量，数字化是新的时代特征，数字经济正在成为新一 轮国际竞争的重点领域。"
+      }
+    },
+    {
+      "id": 78,
+      "gid": 279,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "数据已成为重要的新生产要素，已成为我国经济高质量发展的新引擎，是稳增长、促转型的重要引擎。",
+      "keywords": [
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 79,
+      "gid": 280,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "全面建设社会主义现代化国家，最艰巨、最繁重的任务依然在农村，最广泛、最深厚的基础依然在农 村。",
+      "keywords": [
+        "基础依然在农",
+        "最广泛",
+        "最深厚的基础依",
+        "最繁重的任务依",
+        "最艰巨"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 80,
+      "gid": 281,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "发展是解决我国一切问题的基础和关键。",
+      "keywords": [
+        "关键",
+        "基础和关键"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 81,
+      "gid": 282,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "国家安全是民族复兴的根基。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "国家安全？",
+        "a": "是民族复兴的根基。"
+      }
+    },
+    {
+      "id": 82,
+      "gid": 283,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "公有制经济和非公有制经济，都是社会主义市场经济的重要组成部分、我国经济社会发展的重要基础， 都是为社会主义服务的经济成分。",
+      "keywords": [
+        "基础",
+        "市场经济"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "公有制经济和非公有制经济，都？",
+        "a": "是社会主义市场经济的重要组成部分、我国经济社会发展的重要基础， 都是为社会主义服务的经济成分。"
+      }
+    },
+    {
+      "id": 83,
+      "gid": 284,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "创新是引领发展的第一动力，创新发展注重解决发展动力问题，必须坚持创新在我国现代化建设全局 中的核心地位。",
+      "keywords": [
+        "动力",
+        "动力问题",
+        "核心地位",
+        "第一动力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 84,
+      "gid": 285,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "协调是持续健康发展的内在要求，绿色是永续发展的必要条件和人民对美好生活追求的重要体现。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "协调是持续健康发展的内在要求，绿色？",
+        "a": "是永续发展的必要条件和人民对美好生活追求的重要体现。"
+      }
+    },
+    {
+      "id": 85,
+      "gid": 286,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "开放是国家繁荣发展的必由之路，共享是中国特色社会主义的本质要求，共享发展注重解决社会公平 正义问题。",
+      "keywords": [
+        "本质要求"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "开放是国家繁荣发展的必由之路，共享？",
+        "a": "是中国特色社会主义的本质要求，共享发展注重解决社会公平 正义问题。"
+      }
+    },
+    {
+      "id": 86,
+      "gid": 287,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "发展具有基础性、根本性，是解决安全问题的总钥匙，发展就是最大的安全，安全是发展的条件、前 提和保障。",
+      "keywords": [
+        "基础性",
+        "最大的安全",
+        "根本性"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "发展具有基础性、根本性？",
+        "a": "是解决安全问题的总钥匙，发展就是最大的安全，安全是发展的条件、前 提和保障。"
+      }
+    },
+    {
+      "id": 87,
+      "gid": 288,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "推进高质量发展，以深化供给侧结构性改革为主线；制度建设是进一步全面深化改革的主线。",
+      "keywords": [
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "推进高质量发展，以深化供给侧结构性改革为主线；制度建设？",
+        "a": "是进一步全面深化改革的主线。"
+      }
+    },
+    {
+      "id": 88,
+      "gid": 289,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "公有制主体地位和国有经济主导作用不能动摇，这是我国各族人民共享发展成果的制度保证，也是巩 固党的执政地位、坚持我国社会主义制度的重要保证。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "公有制主体地位和国有经济主导作用不能动摇，这？",
+        "a": "是我国各族人民共享发展成果的制度保证，也是巩 固党的执政地位、坚持我国社会主义制度的重要保证。"
+      }
+    },
+    {
+      "id": 89,
+      "gid": 290,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "国有企业是中国特色社会主义的重要物质基础和政治基础，是我们党执政兴国的重要支柱和依靠力量。",
+      "keywords": [
+        "基础和政治基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "国有企业？",
+        "a": "是中国特色社会主义的重要物质基础和政治基础，是我们党执政兴国的重要支柱和依靠力量。"
+      }
+    },
+    {
+      "id": 90,
+      "gid": 291,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "民营经济是非公有制经济的主要经济组织形式，是推进中国式现代化的生力军，是高质量发展的重要 基础、实现第二个百年奋斗目标的重要力量，也是推进供给侧结构性改革、高质量发展和现代化经济 体系建设的重要主体。",
+      "keywords": [
+        "中国式现代化",
+        "基础",
+        "高质量发展"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "民营经济？",
+        "a": "是非公有制经济的主要经济组织形式，是推进中国式现代化的生力军，是高质量发展的重要 基础、实现第二个百年奋斗目标的重要力量，也是推进供给侧结构性改革、高质量发展和现代化经济 体系建设的重要主体。"
+      }
+    },
+    {
+      "id": 91,
+      "gid": 292,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "构建全国统一大市场，是构建高水平社会主义市场经济体制的内在要求、构建新发展格局的基础支撑、 推动高质量发展的重要保障。",
+      "keywords": [
+        "基础支撑",
+        "市场经济",
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "构建全国统一大市场？",
+        "a": "是构建高水平社会主义市场经济体制的内在要求、构建新发展格局的基础支撑、 推动高质量发展的重要保障。"
+      }
+    },
+    {
+      "id": 92,
+      "gid": 293,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "构建新发展格局，是以全国统一大市场基础上的国内大循环为主体，最本质的特征是实现高水平的自 立自强。",
+      "keywords": [
+        "基础上的国内大循环为",
+        "最本质的特征是",
+        "本质的特征是实现高水"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "构建新发展格局？",
+        "a": "是以全国统一大市场基础上的国内大循环为主体，最本质的特征是实现高水平的自 立自强。"
+      }
+    },
+    {
+      "id": 93,
+      "gid": 294,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "巩固拓展脱贫攻坚成果是推进乡村全面振兴的底线任务，确保国家粮食安全、确保不发生规模性返贫 是做好“三农”工作的底线任务。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "巩固拓展脱贫攻坚成果？",
+        "a": "是推进乡村全面振兴的底线任务，确保国家粮食安全、确保不发生规模性返贫 是做好“三农”工作的底线任务。"
+      }
+    },
+    {
+      "id": 94,
+      "gid": 295,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "实施乡村振兴战略，是新时代新征程“三农”工作的总抓手。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "实施乡村振兴战略？",
+        "a": "是新时代新征程“三农”工作的总抓手。"
+      }
+    },
+    {
+      "id": 95,
+      "gid": 296,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "实施乡村振兴战略，农业农村现代化是总目标，坚持农业农村优先发展是总方针，产业兴旺、生态宜 居、乡风文明、治理有效、生活富裕是总要求，建立健全城乡融合发展体制机制和政策体系是制度保 障。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "实施乡村振兴战略，农业农村现代化？",
+        "a": "是总目标，坚持农业农村优先发展是总方针，产业兴旺、生态宜 居、乡风文明、治理有效、生活富裕是总要求，建立健全城乡融合发展体制机制和政策体系是制度保 障。"
+      }
+    },
+    {
+      "id": 96,
+      "gid": 297,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第六章推动高质量发展",
+      "content": "增加农民收入，是“三农”工作的中心任务；推进农业转移人口市民化，是新型城镇化首要任务。",
+      "keywords": [
+        "首要任务"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "增加农民收入？",
+        "a": "是“三农”工作的中心任务；推进农业转移人口市民化，是新型城镇化首要任务。"
+      }
+    },
+    {
+      "id": 97,
+      "gid": 298,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "教育、科技、人才，是全面建设社会主义现代化国家和中国式现代化的基础性、战略性支撑。",
+      "keywords": [
+        "中国式现代化",
+        "基础性"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "教育、科技、人才？",
+        "a": "是全面建设社会主义现代化国家和中国式现代化的基础性、战略性支撑。"
+      }
+    },
+    {
+      "id": 98,
+      "gid": 299,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "实施科教兴国战略，要把教育摆在优先发展的战略地位，把科技创新作为提高社会生产力和综合国力 的战略支撑。",
+      "keywords": [
+        "生产力"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 99,
+      "gid": 300,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "教育是民族振兴、社会进步的基石，是国之大计、党之大计，是国家经济社会发展的支撑力量，在国 家发展中始终具有基础性先导性全局性地位。",
+      "keywords": [
+        "基础性先导性全局性地"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "教育是民族振兴、社会进步的基石？",
+        "a": "是国之大计、党之大计，是国家经济社会发展的支撑力量，在国 家发展中始终具有基础性先导性全局性地位。"
+      }
+    },
+    {
+      "id": 100,
+      "gid": 301,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "“培养什么人、怎样培养人、为谁培养人”，是教育的根本问题和建设教育强国的核心课题，体现教 育浓厚的政治属性；政治属性是教育强国的首要属性。",
+      "keywords": [
+        "核心课题",
+        "根本问题和建设教育强",
+        "首要属性"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“培养什么人、怎样培养人、为谁培养人”？",
+        "a": "是教育的根本问题和建设教育强国的核心课题，体现教 育浓厚的政治属性；政治属性是教育强国的首要属性。"
+      }
+    },
+    {
+      "id": 101,
+      "gid": 302,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "立德树人是教育的根本任务，人民满意是发展教育的根本尺度，教育公平是社会公平的重要基础，高 质量发展是各级各类教育的生命线，加强教师队伍建设是建设教育强国最重要的基础工作。",
+      "keywords": [
+        "基础",
+        "基础工作",
+        "最重要的基础工",
+        "根本任务",
+        "根本尺度"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "立德树人？",
+        "a": "是教育的根本任务，人民满意是发展教育的根本尺度，教育公平是社会公平的重要基础，高 质量发展是各级各类教育的生命线，加强教师队伍建设是建设教育强国最重要的基础工作。"
+      }
+    },
+    {
+      "id": 102,
+      "gid": 303,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "充分发挥新型举国体制优势，关键是完善党中央对科技工作集中统一领导的体制。",
+      "keywords": [
+        "关键是完善党中央对科"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "充分发挥新型举国体制优势，关键？",
+        "a": "是完善党中央对科技工作集中统一领导的体制。"
+      }
+    },
+    {
+      "id": 103,
+      "gid": 304,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "基础研究是科技创新的源头，国家战略科技力量是世界科技强国竞争的着力点。",
+      "keywords": [
+        "基础研究是科技创新的"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "基础研究？",
+        "a": "是科技创新的源头，国家战略科技力量是世界科技强国竞争的着力点。"
+      }
+    },
+    {
+      "id": 104,
+      "gid": 305,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第七章社会主义现代化建设的教育科技人才战略",
+      "content": "人才是实现民族振兴、赢得国际竞争主动的战略资源，是第一资源，已成为推动社会发展最活跃、最 积极的因素。",
+      "keywords": [
+        "最活跃",
+        "第一资源"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人才是实现民族振兴、赢得国际竞争主动的战略资源？",
+        "a": "是第一资源，已成为推动社会发展最活跃、最 积极的因素。"
+      }
+    },
+    {
+      "id": 105,
+      "gid": 306,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "人民代表大会制度是我国的根本政治制度，是贯彻群众路线的最好实现形式，也是实现我国全过程人 民民主的重要制度载体。",
+      "keywords": [
+        "最好实现形式",
+        "根本政治制度",
+        "群众路线"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人民代表大会制度？",
+        "a": "是我国的根本政治制度，是贯彻群众路线的最好实现形式，也是实现我国全过程人 民民主的重要制度载体。"
+      }
+    },
+    {
+      "id": 106,
+      "gid": 307,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "人民代表大会制度的建立，意味着中国政治从根本上实现了由少数人掌握政权、绝大多数人受压迫被 剥削，到中国共产党领导、人民当家作主的伟大跨越。",
+      "keywords": [
+        "根本上实现了由少数人"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 107,
+      "gid": 308,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "中国共产党领导的多党合作和政治协商制度，是我国的基本政治制度，是新型政党制度。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国共产党领导的多党合作和政治协商制度？",
+        "a": "是我国的基本政治制度，是新型政党制度。"
+      }
+    },
+    {
+      "id": 108,
+      "gid": 309,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "人民政协不是国家机关，而是中国共产党领导的政治组织、爱国统一战线组织、多党合作和政治协商 的重要机构，社会主义协商民主的重要渠道和专门协商机构。",
+      "keywords": [
+        "统一战线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "人民政协不？",
+        "a": "是国家机关，而是中国共产党领导的政治组织、爱国统一战线组织、多党合作和政治协商 的重要机构，社会主义协商民主的重要渠道和专门协商机构。"
+      }
+    },
+    {
+      "id": 109,
+      "gid": 310,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "社会主义协商民主是在决策之前和决策实施之中开展广泛协商、凝聚共识和智慧，是践行全过程人民 民主的重要形式、全过程人民民主的重要组成部分、我国社会主义民主政治的特有形式和独特优势， 也是党的群众路线在政治领域的重要体现。",
+      "keywords": [
+        "全过程人民民主",
+        "群众路线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会主义协商民主？",
+        "a": "是在决策之前和决策实施之中开展广泛协商、凝聚共识和智慧，是践行全过程人民 民主的重要形式、全过程人民民主的重要组成部分、我国社会主义民主政治的特有形式和独特优势， 也是党的群众路线在政治领域的重要体现。"
+      }
+    },
+    {
+      "id": 110,
+      "gid": 311,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "民族区域自治制度是我国的基本政治制度，是中国特色解决民族问题的正确道路的重要内容和制度保 障，体现单一制国家结构，民族区域自治不等于高度自治。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "民族区域自治制度？",
+        "a": "是我国的基本政治制度，是中国特色解决民族问题的正确道路的重要内容和制度保 障，体现单一制国家结构，民族区域自治不等于高度自治。"
+      }
+    },
+    {
+      "id": 111,
+      "gid": 312,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "基层群众自治制度是我国的基本政治制度，是社会主义民主政治建设的基础。",
+      "keywords": [
+        "基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "基层群众自治制度？",
+        "a": "是我国的基本政治制度，是社会主义民主政治建设的基础。"
+      }
+    },
+    {
+      "id": 112,
+      "gid": 313,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "发展基层民主，是实现人民有效政治参与的重要渠道、人民当家作主的有效途径、社会主义民主最广 泛的实践。",
+      "keywords": [
+        "实践",
+        "最广"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "发展基层民主？",
+        "a": "是实现人民有效政治参与的重要渠道、人民当家作主的有效途径、社会主义民主最广 泛的实践。"
+      }
+    },
+    {
+      "id": 113,
+      "gid": 314,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "广大人民群众最直接的政治参与和最直观的当家作主感受主要在基层。",
+      "keywords": [
+        "最直接的政治参",
+        "最直观的当家作"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 114,
+      "gid": 315,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "党的领导是人民当家作主和依法治国的根本保证，人民当家作主是社会主义民主政治的本质特征，依 法治国是党领导人民治理国家的基本方式。",
+      "keywords": [
+        "本质特征",
+        "根本保证",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的领导？",
+        "a": "是人民当家作主和依法治国的根本保证，人民当家作主是社会主义民主政治的本质特征，依 法治国是党领导人民治理国家的基本方式。"
+      }
+    },
+    {
+      "id": 115,
+      "gid": 316,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "走中国特色社会主义政治发展道路，最根本的是坚持党的领导。",
+      "keywords": [
+        "最根本的是坚持",
+        "根本的是坚持党的领导"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "走中国特色社会主义政治发展道路，最根本的？",
+        "a": "是坚持党的领导。"
+      }
+    },
+    {
+      "id": 116,
+      "gid": 317,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "全过程人民民主，是社会主义民主政治的本质属性。",
+      "keywords": [
+        "全过程人民民主",
+        "本质属性"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "全过程人民民主？",
+        "a": "是社会主义民主政治的本质属性。"
+      }
+    },
+    {
+      "id": 117,
+      "gid": 318,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "人民政协的三个职能，是政治协商、民主监督、参政议政。人民政协要始终坚持团结和民主两大主题， 把加强思想政治引领、广泛凝聚共识作为中心环节。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "人民政协的三个职能？",
+        "a": "是政治协商、民主监督、参政议政。人民政协要始终坚持团结和民主两大主题， 把加强思想政治引领、广泛凝聚共识作为中心环节。"
+      }
+    },
+    {
+      "id": 118,
+      "gid": 319,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "协商民主的最大优势，在于体现人民民主的真谛，人民群众始终是各类协商民主的主体力量。",
+      "keywords": [
+        "最大优势"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "协商民主的最大优势？",
+        "a": "在于体现人民民主的真谛，人民群众始终是各类协商民主的主体力量。"
+      }
+    },
+    {
+      "id": 119,
+      "gid": 320,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "统战工作的本质要求是大团结大联合，关键是坚持求同存异。",
+      "keywords": [
+        "关键是坚持求同存异",
+        "本质要求是大团结大联"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "统战工作的本质要求？",
+        "a": "是大团结大联合，关键是坚持求同存异。"
+      }
+    },
+    {
+      "id": 120,
+      "gid": 321,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "党的领导是统一战线最鲜明的特征，坚持党的领导是统一战线最根本的问题。",
+      "keywords": [
+        "最根本的问题",
+        "最鲜明的特征",
+        "根本的问题",
+        "统一战线"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的领导？",
+        "a": "是统一战线最鲜明的特征，坚持党的领导是统一战线最根本的问题。"
+      }
+    },
+    {
+      "id": 121,
+      "gid": 322,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "铸牢中华民族共同体意识，是新时代党的民族工作主线、民族地区各项工作的主线。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "铸牢中华民族共同体意识？",
+        "a": "是新时代党的民族工作主线、民族地区各项工作的主线。"
+      }
+    },
+    {
+      "id": 122,
+      "gid": 323,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "对中华民族形成起决定作用的，是对中华民族共同体的认同。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "对中华民族形成起决定作用的？",
+        "a": "是对中华民族共同体的认同。"
+      }
+    },
+    {
+      "id": 123,
+      "gid": 324,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第八章发展全过程人民民主",
+      "content": "促进中华儿女大团结，是新时代爱国统一战线的历史责任。",
+      "keywords": [
+        "统一战线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "促进中华儿女大团结？",
+        "a": "是新时代爱国统一战线的历史责任。"
+      }
+    },
+    {
+      "id": 124,
+      "gid": 325,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "全面依法治国是国家治理的一场深刻革命，是坚持和发展中国特色社会主义的本质要求和重要保障。",
+      "keywords": [
+        "全面依法治国",
+        "本质要求和重要保障",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "全面依法治国？",
+        "a": "是国家治理的一场深刻革命，是坚持和发展中国特色社会主义的本质要求和重要保障。"
+      }
+    },
+    {
+      "id": 125,
+      "gid": 326,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "法治是治国理政的基本方式，是国家治理体系和治理能力的重要依托。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "法治是治国理政的基本方式？",
+        "a": "是国家治理体系和治理能力的重要依托。"
+      }
+    },
+    {
+      "id": 126,
+      "gid": 327,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "全面推进依法治国的总目标，是建设中国特色社会主义法治体系、建设社会主义法治国家。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "全面推进依法治国的总目标？",
+        "a": "是建设中国特色社会主义法治体系、建设社会主义法治国家。"
+      }
+    },
+    {
+      "id": 127,
+      "gid": 328,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "中国特色社会主义法治道路，是全面依法治国的唯一正确道路，由我国社会主义国家性质所决定，本 质上是中国特色社会主义道路在法治领域的具体体现。",
+      "keywords": [
+        "全面依法治国",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国特色社会主义法治道路？",
+        "a": "是全面依法治国的唯一正确道路，由我国社会主义国家性质所决定，本 质上是中国特色社会主义道路在法治领域的具体体现。"
+      }
+    },
+    {
+      "id": 128,
+      "gid": 329,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "中国特色社会主义制度，是中国特色社会主义法治体系的根本制度基础，是全面推进依法治国的根本 制度保障。",
+      "keywords": [
+        "基础",
+        "根本",
+        "根本制度基础",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国特色社会主义制度？",
+        "a": "是中国特色社会主义法治体系的根本制度基础，是全面推进依法治国的根本 制度保障。"
+      }
+    },
+    {
+      "id": 129,
+      "gid": 330,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "中国特色社会主义法治理论，是中国特色社会主义法治体系的理论指导和学理支撑，是全面推进依法 治国的行动指南。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国特色社会主义法治理论？",
+        "a": "是中国特色社会主义法治体系的理论指导和学理支撑，是全面推进依法 治国的行动指南。"
+      }
+    },
+    {
+      "id": 130,
+      "gid": 331,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "党和法的关系是政治和法治关系的集中反映，是全面依法治国的一个根本问题，也是法治建设的核心 问题。",
+      "keywords": [
+        "全面依法治国",
+        "核心",
+        "根本问题",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党和法的关系？",
+        "a": "是政治和法治关系的集中反映，是全面依法治国的一个根本问题，也是法治建设的核心 问题。"
+      }
+    },
+    {
+      "id": 131,
+      "gid": 332,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "全面推进依法治国的总抓手，是建设中国特色社会主义法治体系。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "全面推进依法治国的总抓手？",
+        "a": "是建设中国特色社会主义法治体系。"
+      }
+    },
+    {
+      "id": 132,
+      "gid": 333,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "法治是一个国家文明进步的重要标志，既是实现国家现代化的基本保障，也是国家现代化的重要内容。",
+      "keywords": [
+        "标志",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "法治是一个国家文明进步的重要标志，既？",
+        "a": "是实现国家现代化的基本保障，也是国家现代化的重要内容。"
+      }
+    },
+    {
+      "id": 133,
+      "gid": 334,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "依法行政的基本要求是合法行政，要做到法定职责必须为、法无授权不可为，严格规范公正文明执法。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "依法行政的基本要求？",
+        "a": "是合法行政，要做到法定职责必须为、法无授权不可为，严格规范公正文明执法。"
+      }
+    },
+    {
+      "id": 134,
+      "gid": 335,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第九章全面依法治国",
+      "content": "法治国家是法治建设的目标，法治政府建设是全面依法治国的重点任务和主体工程，法治社会是构筑 法治国家的基础。",
+      "keywords": [
+        "全面依法治国",
+        "基础",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "法治国家？",
+        "a": "是法治建设的目标，法治政府建设是全面依法治国的重点任务和主体工程，法治社会是构筑 法治国家的基础。"
+      }
+    },
+    {
+      "id": 135,
+      "gid": 336,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "中华文明源远流长、博大精深，是中华民族独特的精神标识，是当代中国文化的根基，是维系全世界 华人的精神纽带，也是中国文化创新的宝藏。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中华文明源远流长、博大精深？",
+        "a": "是中华民族独特的精神标识，是当代中国文化的根基，是维系全世界 华人的精神纽带，也是中国文化创新的宝藏。"
+      }
+    },
+    {
+      "id": 136,
+      "gid": 337,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "中华优秀传统文化是中华文明的智慧结晶和精华所在，是中华民族的根和魂。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中华优秀传统文化？",
+        "a": "是中华文明的智慧结晶和精华所在，是中华民族的根和魂。"
+      }
+    },
+    {
+      "id": 137,
+      "gid": 338,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "中华文明的连续性从根本上决定了中华民族必然走自己的路。",
+      "keywords": [
+        "必然走自己的路",
+        "根本上决定了中华民族"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 138,
+      "gid": 339,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "坚定中国特色社会主义文化自信，是推动社会主义文化繁荣兴盛的关键。",
+      "keywords": [
+        "关键"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚定中国特色社会主义文化自信？",
+        "a": "是推动社会主义文化繁荣兴盛的关键。"
+      }
+    },
+    {
+      "id": 139,
+      "gid": 340,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "中华优秀传统文化是坚定文化自信的深厚基础，是我们区别于其他国家和民族的根本特征。",
+      "keywords": [
+        "基础",
+        "根本特征"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中华优秀传统文化？",
+        "a": "是坚定文化自信的深厚基础，是我们区别于其他国家和民族的根本特征。"
+      }
+    },
+    {
+      "id": 140,
+      "gid": 341,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "革命文化和社会主义先进文化是坚定文化自信的坚强基石，中国特色社会主义伟大实践是坚定文化自 信的现实基础。",
+      "keywords": [
+        "基础",
+        "实践"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "革命文化和社会主义先进文化？",
+        "a": "是坚定文化自信的坚强基石，中国特色社会主义伟大实践是坚定文化自 信的现实基础。"
+      }
+    },
+    {
+      "id": 141,
+      "gid": 342,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "坚持为人民服务、为社会主义服务的根本方向，是决定社会主义文化事业前途命运的关键。",
+      "keywords": [
+        "关键",
+        "根本方向"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "坚持为人民服务、为社会主义服务的根本方向？",
+        "a": "是决定社会主义文化事业前途命运的关键。"
+      }
+    },
+    {
+      "id": 142,
+      "gid": 343,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "坚持百花齐放、百家争鸣，是繁荣发展社会主义文化的重要方针。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持百花齐放、百家争鸣？",
+        "a": "是繁荣发展社会主义文化的重要方针。"
+      }
+    },
+    {
+      "id": 143,
+      "gid": 344,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "创新创造是文化的生命所在，是文化的本质特征。",
+      "keywords": [
+        "本质特征"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "创新创造？",
+        "a": "是文化的生命所在，是文化的本质特征。"
+      }
+    },
+    {
+      "id": 144,
+      "gid": 345,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "坚持正确的政治方向，是做好新闻舆论工作的第一位要求。",
+      "keywords": [
+        "第一位要求"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持正确的政治方向？",
+        "a": "是做好新闻舆论工作的第一位要求。"
+      }
+    },
+    {
+      "id": 145,
+      "gid": 346,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "党性原则，是新闻舆论工作的根本原则。",
+      "keywords": [
+        "根本原则"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "党性原则？",
+        "a": "是新闻舆论工作的根本原则。"
+      }
+    },
+    {
+      "id": 146,
+      "gid": 347,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "互联网是意识形态工作的主阵地、主战场、最前沿，管好用好互联网是新形势下做好新闻舆论工作的 关键。",
+      "keywords": [
+        "关键",
+        "最前沿"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "互联网是意识形态工作的主阵地、主战场、最前沿，管好用好互联网？",
+        "a": "是新形势下做好新闻舆论工作的 关键。"
+      }
+    },
+    {
+      "id": 147,
+      "gid": 348,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "新时代新的文化使命，是在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新时代新的文化使命？",
+        "a": "是在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明。"
+      }
+    },
+    {
+      "id": 148,
+      "gid": 349,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "要坚持以人民为中心的创作导向，把社会效益放在首位、社会效益和经济效益相统一，把激发创新活 力作为深化文化体制机制改革的中心环节，加快完善文化管理体制和生产经营机制。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 149,
+      "gid": 350,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "一个国家的文化软实力，从根本上说，取决于其核心价值观的生命力、凝聚力、感召力。",
+      "keywords": [
+        "价值",
+        "核心价值观的生命力",
+        "根本上说"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 150,
+      "gid": 351,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十章建设社会主义文化强国",
+      "content": "讲好中国故事，是提高中华文化影响力的基本途径。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "讲好中国故事？",
+        "a": "是提高中华文化影响力的基本途径。"
+      }
+    },
+    {
+      "id": 151,
+      "gid": 352,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "保障和改善民生的工作思路，是坚守底线、突出重点、完善制度、引导预期。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "保障和改善民生的工作思路？",
+        "a": "是坚守底线、突出重点、完善制度、引导预期。"
+      }
+    },
+    {
+      "id": 152,
+      "gid": 353,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "保障和改善民生的重要前提，是正确把握民生和发展的关系。",
+      "keywords": [
+        "前提"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "保障和改善民生的重要前提？",
+        "a": "是正确把握民生和发展的关系。"
+      }
+    },
+    {
+      "id": 153,
+      "gid": 354,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "保障和改善民生的重中之重，是解决人民群众最关心、最直接、最现实的利益问题。",
+      "keywords": [
+        "最关心",
+        "最现实的利益问",
+        "最直接"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "保障和改善民生的重中之重？",
+        "a": "是解决人民群众最关心、最直接、最现实的利益问题。"
+      }
+    },
+    {
+      "id": 154,
+      "gid": 355,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "保障和改善民生的重要方针，是坚持尽力而为、量力而行。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "保障和改善民生的重要方针？",
+        "a": "是坚持尽力而为、量力而行。"
+      }
+    },
+    {
+      "id": 155,
+      "gid": 356,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "保障和改善民生的重要原则，是坚持人人尽责、人人享有。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "保障和改善民生的重要原则？",
+        "a": "是坚持人人尽责、人人享有。"
+      }
+    },
+    {
+      "id": 156,
+      "gid": 357,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "解决好就业问题，是改善民生、实现发展成果由人民共享最重要最直接的方式。",
+      "keywords": [
+        "最重要最直接的"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "解决好就业问题？",
+        "a": "是改善民生、实现发展成果由人民共享最重要最直接的方式。"
+      }
+    },
+    {
+      "id": 157,
+      "gid": 358,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "收入分配是民生改善的“温度计”。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "收入分配？",
+        "a": "是民生改善的“温度计”。"
+      }
+    },
+    {
+      "id": 158,
+      "gid": 359,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "社会保障是民生保障安全网、收入分配调节器、经济运行减震器。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会保障？",
+        "a": "是民生保障安全网、收入分配调节器、经济运行减震器。"
+      }
+    },
+    {
+      "id": 159,
+      "gid": 360,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "初次分配主要包括劳动报酬和要素收入，再分配主要通过税收、社保、转移支付等调节，第三次分配 主要通过公益慈善事业等发挥作用。",
+      "keywords": [
+        "劳动"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "初次分配主要？",
+        "a": "包括劳动报酬和要素收入，再分配主要通过税收、社保、转移支付等调节，第三次分配 主要通过公益慈善事业等发挥作用。"
+      }
+    },
+    {
+      "id": 160,
+      "gid": 361,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "以人民为中心是我们党的根本执政理念，民生是人民幸福之基，决定党的事业成败和国家命运兴衰。",
+      "keywords": [
+        "根本执政理念"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "以人民为中心？",
+        "a": "是我们党的根本执政理念，民生是人民幸福之基，决定党的事业成败和国家命运兴衰。"
+      }
+    },
+    {
+      "id": 161,
+      "gid": 362,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "增进民生福祉是坚持立党为公、执政为民的本质要求，是社会主义生产的根本目的，也是发展的根本 目的和全面建设社会主义现代化国家的应有之义。",
+      "keywords": [
+        "本质要求",
+        "根本",
+        "根本目的",
+        "目的",
+        "目的和全面建设社会主"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "增进民生福祉？",
+        "a": "是坚持立党为公、执政为民的本质要求，是社会主义生产的根本目的，也是发展的根本 目的和全面建设社会主义现代化国家的应有之义。"
+      }
+    },
+    {
+      "id": 162,
+      "gid": 363,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "打赢脱贫攻坚战、消除绝对贫困，是全面建成小康社会的底线任务，是必须抓紧抓好的头等大事。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "打赢脱贫攻坚战、消除绝对贫困？",
+        "a": "是全面建成小康社会的底线任务，是必须抓紧抓好的头等大事。"
+      }
+    },
+    {
+      "id": 163,
+      "gid": 364,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "分配制度是促进共同富裕的基础性制度。",
+      "keywords": [
+        "基础性制度"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "分配制度？",
+        "a": "是促进共同富裕的基础性制度。"
+      }
+    },
+    {
+      "id": 164,
+      "gid": 365,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "就业是最基本的民生，是劳动者维持生存和发展的基础，也是劳动者共享经济发展成果的基本条件。",
+      "keywords": [
+        "劳动",
+        "基础",
+        "最基本的民生"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "就业是最基本的民生？",
+        "a": "是劳动者维持生存和发展的基础，也是劳动者共享经济发展成果的基本条件。"
+      }
+    },
+    {
+      "id": 165,
+      "gid": 366,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "就业是最大的民生工程、民心工程、根基工程，各级党委和政府要把就业当作民生头等大事来抓。",
+      "keywords": [
+        "最大的民生工程"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 166,
+      "gid": 367,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "促进高质量充分就业，要全面贯彻劳动者自主就业、市场调节就业、政府促进就业和鼓励创业的方针。",
+      "keywords": [
+        "劳动"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 167,
+      "gid": 368,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "健全和完善社会保障体系，是新时代加强社会建设的重要着力点。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "健全和完善社会保障体系？",
+        "a": "是新时代加强社会建设的重要着力点。"
+      }
+    },
+    {
+      "id": 168,
+      "gid": 369,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "人民健康是社会文明进步的基础，是民族昌盛和国家富强的重要标志，是促进人的全面发展的必然要 求，也是社会主义现代化的重要标志。",
+      "keywords": [
+        "基础",
+        "必然要",
+        "标志"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人民健康？",
+        "a": "是社会文明进步的基础，是民族昌盛和国家富强的重要标志，是促进人的全面发展的必然要 求，也是社会主义现代化的重要标志。"
+      }
+    },
+    {
+      "id": 169,
+      "gid": 370,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "加强和创新社会治理，要在党的领导下，以政府为主导、社会多元主体参与为基础、维护人民群众根 本利益为核心。",
+      "keywords": [
+        "基础",
+        "核心"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 170,
+      "gid": 371,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "社会治理要坚持共建共治共享理念，共建是社会治理的基础，共治是社会治理的关键，共享是社会治 理的目标。",
+      "keywords": [
+        "关键",
+        "基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "社会治理要坚持共建共治共享理念，共建？",
+        "a": "是社会治理的基础，共治是社会治理的关键，共享是社会治 理的目标。"
+      }
+    },
+    {
+      "id": 171,
+      "gid": 372,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "基层治理是国家治理的基石，城乡社区是社会治理最基本的单元、党和政府联系服务居民群众的“最 后一公里”，社会治理重心必须向基层下移，落实到城乡社区。",
+      "keywords": [
+        "最基本的单元"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "基层治理？",
+        "a": "是国家治理的基石，城乡社区是社会治理最基本的单元、党和政府联系服务居民群众的“最 后一公里”，社会治理重心必须向基层下移，落实到城乡社区。"
+      }
+    },
+    {
+      "id": 172,
+      "gid": 373,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十一章以保障和改善民生为重点加强社会建设",
+      "content": "市域是将风险隐患解决在基层、化解在萌芽状态的最直接、最有效的治理层级，处于推进基层治理现 代化的前线位置。",
+      "keywords": [
+        "最有效的治理层",
+        "最直接"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 173,
+      "gid": 374,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "生态环境是人类生存最为基础的条件，生态文明建设是关系中华民族永续发展的根本大计。",
+      "keywords": [
+        "基础的条件",
+        "最为基础的条件",
+        "根本大计"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "生态环境？",
+        "a": "是人类生存最为基础的条件，生态文明建设是关系中华民族永续发展的根本大计。"
+      }
+    },
+    {
+      "id": 174,
+      "gid": 375,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "生态环境变化直接影响文明的兴衰演替，人类文明的发展离不开良好生态环境这个根本基础。",
+      "keywords": [
+        "基础",
+        "根本基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 175,
+      "gid": 376,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "人与自然是生命共同体，人类对大自然的伤害最终会伤及人类自身，这是无法抗拒的规律。",
+      "keywords": [
+        "最终会伤及人类"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人与自然？",
+        "a": "是生命共同体，人类对大自然的伤害最终会伤及人类自身，这是无法抗拒的规律。"
+      }
+    },
+    {
+      "id": 176,
+      "gid": 377,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "生态环境问题归根到底是经济发展方式和生活方式问题。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "生态环境问题归根到底？",
+        "a": "是经济发展方式和生活方式问题。"
+      }
+    },
+    {
+      "id": 177,
+      "gid": 378,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "生态文明建设是重大经济问题，也是关系党的使命宗旨的重大政治问题、关系民生福祉的重大社会问 题。",
+      "keywords": [
+        "宗旨的重大政治问题"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "生态文明建设？",
+        "a": "是重大经济问题，也是关系党的使命宗旨的重大政治问题、关系民生福祉的重大社会问 题。"
+      }
+    },
+    {
+      "id": 178,
+      "gid": 379,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "良好的生态环境是最公平的公共产品，是最普惠的民生福祉。",
+      "keywords": [
+        "最公平的公共产",
+        "最普惠的民生福"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "良好的生态环境？",
+        "a": "是最公平的公共产品，是最普惠的民生福祉。"
+      }
+    },
+    {
+      "id": 179,
+      "gid": 380,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "中国经济社会发展已经进入加快绿色化、低碳化的高质量发展阶段，但我国生态环境保护结构性、根 源性、趋势性压力总体上尚未根本缓解。",
+      "keywords": [
+        "根本缓解",
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 180,
+      "gid": 381,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "推动经济社会发展绿色化、低碳化，是实现高质量发展的关键环节。",
+      "keywords": [
+        "关键环节",
+        "高质量发展"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "推动经济社会发展绿色化、低碳化？",
+        "a": "是实现高质量发展的关键环节。"
+      }
+    },
+    {
+      "id": 181,
+      "gid": 382,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "要坚持把绿色低碳发展作为解决生态环境问题的治本之策，促进经济社会发展全面绿色转型是解决资 源环境生态问题的基础之策。",
+      "keywords": [
+        "基础之策"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 182,
+      "gid": 383,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "实现碳达峰碳中和是促进经济社会发展全面绿色转型的总抓手，调整优化经济结构是推动发展方式绿 色转型的重要任务，要抓住产业结构调整这个关键，促进产业结构变“轻”、发展模式变“绿”。",
+      "keywords": [
+        "关键"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "实现碳达峰碳中和？",
+        "a": "是促进经济社会发展全面绿色转型的总抓手，调整优化经济结构是推动发展方式绿 色转型的重要任务，要抓住产业结构调整这个关键，促进产业结构变“轻”、发展模式变“绿”。"
+      }
+    },
+    {
+      "id": 183,
+      "gid": 384,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "自然保护地是生态建设的核心载体、中华民族的宝贵财富、美丽中国的重要象征，在维护国家生态安 全中居于首要地位，要构建以国家公园为主体、自然保护区为基础、各类自然公园为补充的自然保护 地体系。",
+      "keywords": [
+        "基础",
+        "核心载体",
+        "首要地位"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "自然保护地？",
+        "a": "是生态建设的核心载体、中华民族的宝贵财富、美丽中国的重要象征，在维护国家生态安 全中居于首要地位，要构建以国家公园为主体、自然保护区为基础、各类自然公园为补充的自然保护 地体系。"
+      }
+    },
+    {
+      "id": 184,
+      "gid": 385,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "必须把制度建设作为生态文明建设的重中之重。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 185,
+      "gid": 386,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十二章建设社会主义生态文明",
+      "content": "携手共建清洁美丽世界，要坚持以人为本、科学治理、多边主义和共同但有区别的责任原则。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 186,
+      "gid": 387,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "国家安全是民族复兴的根基，社会稳定是国家强盛的前提。",
+      "keywords": [
+        "前提"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "国家安全？",
+        "a": "是民族复兴的根基，社会稳定是国家强盛的前提。"
+      }
+    },
+    {
+      "id": 187,
+      "gid": 388,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "总体国家安全观以人民安全为宗旨，把人民安全放在最重要位置；以政治安全为根本，把政治安全放 在首要位置；以经济安全为基础。",
+      "keywords": [
+        "基础",
+        "宗旨",
+        "总体国家安全观",
+        "最重要位置",
+        "根本",
+        "首要位置"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 188,
+      "gid": 389,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "牢牢守住安全发展这条底线，是构建新发展格局的重要前提和保障；社会安全是人民群众安全感的晴 雨表、社会安定的风向标；维护国土安全是立国之基。",
+      "keywords": [
+        "前提和保障"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "牢牢守住安全发展这条底线？",
+        "a": "是构建新发展格局的重要前提和保障；社会安全是人民群众安全感的晴 雨表、社会安定的风向标；维护国土安全是立国之基。"
+      }
+    },
+    {
+      "id": 189,
+      "gid": 390,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "实现中华民族伟大复兴、保证人民安居乐业，国家安全是头等大事。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 190,
+      "gid": 391,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "总体国家安全观是新时代国家安全工作的基本遵循，其核心要义集中体现为“十个坚持”。",
+      "keywords": [
+        "总体国家安全观",
+        "核心要义集中体现为“"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "总体国家安全观？",
+        "a": "是新时代国家安全工作的基本遵循，其核心要义集中体现为“十个坚持”。"
+      }
+    },
+    {
+      "id": 191,
+      "gid": 392,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "坚持党对国家安全工作的绝对领导，是总体国家安全观的“根”和“魂”；要把政治安全放在首要位 置，把防范化解国家安全风险摆在突出位置。",
+      "keywords": [
+        "总体国家安全观",
+        "首要位"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持党对国家安全工作的绝对领导？",
+        "a": "是总体国家安全观的“根”和“魂”；要把政治安全放在首要位 置，把防范化解国家安全风险摆在突出位置。"
+      }
+    },
+    {
+      "id": 192,
+      "gid": 393,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "总体国家安全观的关键，是“总体”。",
+      "keywords": [
+        "关键",
+        "总体国家安全观"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 193,
+      "gid": 394,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "发展是安全的基础，安全是发展的条件；发展解决动力问题，是推动国家和民族赓续绵延的根本支撑； 安全解决保障问题，是确保国家和民族行稳致远的坚强柱石。",
+      "keywords": [
+        "动力问题",
+        "基础",
+        "根本支撑"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "发展是安全的基础，安全？",
+        "a": "是发展的条件；发展解决动力问题，是推动国家和民族赓续绵延的根本支撑； 安全解决保障问题，是确保国家和民族行稳致远的坚强柱石。"
+      }
+    },
+    {
+      "id": 194,
+      "gid": 395,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "发展具有基础性、根本性，是解决安全问题的总钥匙，发展就是最大的安全；安全是发展的条件和保 障，发展和安全一体两翼、驱动之双轮，必须同步推进，以发展促安全、以安全保发展。",
+      "keywords": [
+        "基础性",
+        "最大的安全",
+        "根本性"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "发展具有基础性、根本性？",
+        "a": "是解决安全问题的总钥匙，发展就是最大的安全；安全是发展的条件和保 障，发展和安全一体两翼、驱动之双轮，必须同步推进，以发展促安全、以安全保发展。"
+      }
+    },
+    {
+      "id": 195,
+      "gid": 396,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "政治安全是国家安全的根本，是一个国家最根本的需求，是一切国家生存和发展的基础条件。",
+      "keywords": [
+        "基础条件",
+        "最根本的需求",
+        "根本",
+        "根本的需求"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "政治安全？",
+        "a": "是国家安全的根本，是一个国家最根本的需求，是一切国家生存和发展的基础条件。"
+      }
+    },
+    {
+      "id": 196,
+      "gid": 397,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "政治安全决定和影响着经济安全、军事安全、社会安全等各个领域的安全，是最高的国家安全，处于 最高层次和统领地位。",
+      "keywords": [
+        "最高层次和统领",
+        "最高的国家安全"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 197,
+      "gid": 398,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "政治安全是维护人民安全和国家利益的根本保证，人民安全居于中心地位，国家安全归根到底是保障 人民利益，国家利益至上是实现政治安全和人民安全的要求和原则。",
+      "keywords": [
+        "根本保证"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "政治安全？",
+        "a": "是维护人民安全和国家利益的根本保证，人民安全居于中心地位，国家安全归根到底是保障 人民利益，国家利益至上是实现政治安全和人民安全的要求和原则。"
+      }
+    },
+    {
+      "id": 198,
+      "gid": 399,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "构建统筹各领域安全的新安全格局，维护重点领域国家安全是主阵地、主战场。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "构建统筹各领域安全的新安全格局，维护重点领域国家安全？",
+        "a": "是主阵地、主战场。"
+      }
+    },
+    {
+      "id": 199,
+      "gid": 400,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十三章维护和塑造国家安全",
+      "content": "健全国家安全体系、加强国家安全制度建设，是保障国家安全的治本之策，是维护和塑造国家安全的 重要支撑。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "健全国家安全体系、加强国家安全制度建设？",
+        "a": "是保障国家安全的治本之策，是维护和塑造国家安全的 重要支撑。"
+      }
+    },
+    {
+      "id": 200,
+      "gid": 401,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "党在新时代的强军目标，是建设一支听党指挥、能打胜仗、作风优良的人民军队，把人民军队建设成 为世界一流军队。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "党在新时代的强军目标？",
+        "a": "是建设一支听党指挥、能打胜仗、作风优良的人民军队，把人民军队建设成 为世界一流军队。"
+      }
+    },
+    {
+      "id": 201,
+      "gid": 402,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "听党指挥是灵魂，决定军队建设的政治方向，是人民军队建设的首要，是人民军队的命脉所在。",
+      "keywords": [
+        "首要"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "听党指挥？",
+        "a": "是灵魂，决定军队建设的政治方向，是人民军队建设的首要，是人民军队的命脉所在。"
+      }
+    },
+    {
+      "id": 202,
+      "gid": 403,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "能打胜仗是核心，能打仗、打胜仗是军队的根本价值所在。",
+      "keywords": [
+        "价值",
+        "核心",
+        "根本价值所在"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "能打胜仗？",
+        "a": "是核心，能打仗、打胜仗是军队的根本价值所在。"
+      }
+    },
+    {
+      "id": 203,
+      "gid": 404,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "作风优良是保证，是人民军队的鲜明特色和政治优势，也是人民军队战无不胜、攻无不克的重要保证。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "作风优良？",
+        "a": "是保证，是人民军队的鲜明特色和政治优势，也是人民军队战无不胜、攻无不克的重要保证。"
+      }
+    },
+    {
+      "id": 204,
+      "gid": 405,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "坚持党对人民军队的绝对领导，是马克思主义建党建军的一条基本原则，是建军之本、强军之魂。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持党对人民军队的绝对领导？",
+        "a": "是马克思主义建党建军的一条基本原则，是建军之本、强军之魂。"
+      }
+    },
+    {
+      "id": 205,
+      "gid": 406,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "军委主席负责制是坚持党对人民军队绝对领导的根本制度和根本实现形式，在党领导军队的制度体系 中处于最高层次、居于统领地位。",
+      "keywords": [
+        "最高层次",
+        "根本制度和根本实现形"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "军委主席负责制？",
+        "a": "是坚持党对人民军队绝对领导的根本制度和根本实现形式，在党领导军队的制度体系 中处于最高层次、居于统领地位。"
+      }
+    },
+    {
+      "id": 206,
+      "gid": 407,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "政治建军是人民军队的立军之本，改革是决定人民军队发展壮大、制胜未来的关键一招。",
+      "keywords": [
+        "关键一招"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "政治建军？",
+        "a": "是人民军队的立军之本，改革是决定人民军队发展壮大、制胜未来的关键一招。"
+      }
+    },
+    {
+      "id": 207,
+      "gid": 408,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "科技是核心战斗力，是军事发展中最活跃、最具革命性的因素。",
+      "keywords": [
+        "最具革命性的因",
+        "最活跃",
+        "核心战斗力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "科技是核心战斗力？",
+        "a": "是军事发展中最活跃、最具革命性的因素。"
+      }
+    },
+    {
+      "id": 208,
+      "gid": 409,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "人才是推动人民军队高质量发展、赢得军事竞争和未来战争主动的关键因素，坚持政治标准是人民军 队人才第一位的标准，要把能打仗、打胜仗作为人才工作出发点和落脚点。",
+      "keywords": [
+        "关键因素",
+        "出发点和落脚点",
+        "第一位的标准",
+        "落脚点",
+        "高质量发展"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 209,
+      "gid": 410,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十四章建设巩固国防和强大人民军队",
+      "content": "军队要牢固树立战斗力这个唯一的根本的标准，军政军民团结是实现富国和强军相统一的重要政治保 障。",
+      "keywords": [
+        "根本的标准"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "军队要牢固树立战斗力这个唯一的根本的标准，军政军民团结？",
+        "a": "是实现富国和强军相统一的重要政治保 障。"
+      }
+    },
+    {
+      "id": 210,
+      "gid": 411,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "“一国两制”是党领导人民实现祖国和平统一的一项重要制度，是国家的一项基本国策，是香港、澳 门回归后保持长期繁荣稳定的最佳制度安排。",
+      "keywords": [
+        "一国两制",
+        "最佳制度安排"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“一国两制”？",
+        "a": "是党领导人民实现祖国和平统一的一项重要制度，是国家的一项基本国策，是香港、澳 门回归后保持长期繁荣稳定的最佳制度安排。"
+      }
+    },
+    {
+      "id": 211,
+      "gid": 412,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "“一国两制”是中国特色社会主义制度创新的重要成果，是前无古人的伟大创举，为国际社会解决类 似问题提供了新思路新方案。",
+      "keywords": [
+        "一国两制"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "“一国两制”？",
+        "a": "是中国特色社会主义制度创新的重要成果，是前无古人的伟大创举，为国际社会解决类 似问题提供了新思路新方案。"
+      }
+    },
+    {
+      "id": 212,
+      "gid": 413,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "“一国两制”的根本宗旨，是维护国家主权、安全、发展利益，保持香港、澳门长期繁荣稳定。",
+      "keywords": [
+        "一国两制",
+        "宗旨",
+        "根本宗旨"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "“一国两制”的根本宗旨？",
+        "a": "是维护国家主权、安全、发展利益，保持香港、澳门长期繁荣稳定。"
+      }
+    },
+    {
+      "id": 213,
+      "gid": 414,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "“一国”是实行“两制”的前提和基础，“两制”从属和派生于“一国”，并统一于“一国”之内； 维护国家主权、安全、发展利益，是“一国两制”方针的最高原则。",
+      "keywords": [
+        "一国两制",
+        "前提和基础",
+        "基础",
+        "最高原则"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“一国”？",
+        "a": "是实行“两制”的前提和基础，“两制”从属和派生于“一国”，并统一于“一国”之内； 维护国家主权、安全、发展利益，是“一国两制”方针的最高原则。"
+      }
+    },
+    {
+      "id": 214,
+      "gid": 415,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "高度自治不是完全自治或分权，而是一定的地方事务管理权。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "高度自治不？",
+        "a": "是完全自治或分权，而是一定的地方事务管理权。"
+      }
+    },
+    {
+      "id": 215,
+      "gid": 416,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "“爱国者治港”“爱国者治澳”原则是事关国家主权、安全、发展利益和港澳长期繁荣稳定的根本原 则，是保证港澳长治久安的必然要求，任何时候都不能动摇。",
+      "keywords": [
+        "必然要求",
+        "根本原"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“爱国者治港”“爱国者治澳”原则？",
+        "a": "是事关国家主权、安全、发展利益和港澳长期繁荣稳定的根本原 则，是保证港澳长治久安的必然要求，任何时候都不能动摇。"
+      }
+    },
+    {
+      "id": 216,
+      "gid": 417,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "坚持依法治港治澳，宪法和基本法共同构成特别行政区的宪制基础，二者共同构成、共同实施，是“一 国两制”下特别行政区制度的本质属性和基本特征。",
+      "keywords": [
+        "基础",
+        "宪法",
+        "本质属性和基本特征",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 217,
+      "gid": 418,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "“一国两制”的提出首先是为了实现和维护国家统一，对香港、澳门来说，“一国两制”是最大的优 势，国家改革开放是最大的舞台，共建“一带一路”、粤港澳大湾区建设等国家战略实施是新的重大 机遇。",
+      "keywords": [
+        "一国两制",
+        "改革开放",
+        "最大的优",
+        "最大的舞台"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“一国两制”的提出首先？",
+        "a": "是为了实现和维护国家统一，对香港、澳门来说，“一国两制”是最大的优 势，国家改革开放是最大的舞台，共建“一带一路”、粤港澳大湾区建设等国家战略实施是新的重大 机遇。"
+      }
+    },
+    {
+      "id": 218,
+      "gid": 419,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "解决台湾问题、实现祖国完全统一，是党矢志不渝的历史任务、全体中华儿女的共同愿望，也是实现 中华民族伟大复兴的必然要求。",
+      "keywords": [
+        "必然要求"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "解决台湾问题、实现祖国完全统一？",
+        "a": "是党矢志不渝的历史任务、全体中华儿女的共同愿望，也是实现 中华民族伟大复兴的必然要求。"
+      }
+    },
+    {
+      "id": 219,
+      "gid": 420,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "确保国家主权和领土完整是国家核心利益，是一条不可逾越的红线；为两岸同胞谋福祉，是我们发展 两岸关系的出发点和落脚点。",
+      "keywords": [
+        "出发点和落脚点",
+        "核心利益",
+        "落脚点"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "确保国家主权和领土完整？",
+        "a": "是国家核心利益，是一条不可逾越的红线；为两岸同胞谋福祉，是我们发展 两岸关系的出发点和落脚点。"
+      }
+    },
+    {
+      "id": 220,
+      "gid": 421,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "两岸关系和平发展的关键，是坚持体现一个中国原则的“九二共识”；两岸关系和平发展的核心，是 对两岸同属一个国家、一个民族的基本事实有共同认知。",
+      "keywords": [
+        "关键",
+        "核心"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "两岸关系和平发展的关键？",
+        "a": "是坚持体现一个中国原则的“九二共识”；两岸关系和平发展的核心，是 对两岸同属一个国家、一个民族的基本事实有共同认知。"
+      }
+    },
+    {
+      "id": 221,
+      "gid": 422,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "决定两岸关系走向、实现祖国完全统一的关键因素，是祖国大陆的发展进步。",
+      "keywords": [
+        "关键因素"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "决定两岸关系走向、实现祖国完全统一的关键因素？",
+        "a": "是祖国大陆的发展进步。"
+      }
+    },
+    {
+      "id": 222,
+      "gid": 423,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "推进祖国统一，坚持党中央对对台工作的集中统一领导是根本保证，坚持在中华民族伟大复兴进程中 推进祖国统一是历史方位，坚持一个中国原则和“九二共识”是政治基础。",
+      "keywords": [
+        "基础",
+        "根本保证"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "推进祖国统一，坚持党中央对对台工作的集中统一领导？",
+        "a": "是根本保证，坚持在中华民族伟大复兴进程中 推进祖国统一是历史方位，坚持一个中国原则和“九二共识”是政治基础。"
+      }
+    },
+    {
+      "id": 223,
+      "gid": 424,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十五章坚持一国两制和推进祖国完全统一",
+      "content": "推进祖国统一，坚持两岸关系和平发展、融合发展是实践途径，坚持团结台湾同胞、争取台湾民心是 根本动力，坚持决不承诺放弃使用武力是战略支撑。",
+      "keywords": [
+        "动力",
+        "实践",
+        "根本动力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "推进祖国统一，坚持两岸关系和平发展、融合发展？",
+        "a": "是实践途径，坚持团结台湾同胞、争取台湾民心是 根本动力，坚持决不承诺放弃使用武力是战略支撑。"
+      }
+    },
+    {
+      "id": 224,
+      "gid": 425,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "推动构建人类命运共同体，是新时代对外工作的总目标，也是中国特色大国外交的总目标。",
+      "keywords": [
+        "人类命运共同体"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "推动构建人类命运共同体？",
+        "a": "是新时代对外工作的总目标，也是中国特色大国外交的总目标。"
+      }
+    },
+    {
+      "id": 225,
+      "gid": 426,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "维护国家主权、安全、发展利益，是我国对外工作的出发点和落脚点；坚持走和平发展道路，是新时 代中国外交的基本原则。",
+      "keywords": [
+        "出发点和落脚点",
+        "落脚点"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "维护国家主权、安全、发展利益？",
+        "a": "是我国对外工作的出发点和落脚点；坚持走和平发展道路，是新时 代中国外交的基本原则。"
+      }
+    },
+    {
+      "id": 226,
+      "gid": 427,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "中国特色大国外交以服务民族复兴、促进人类进步为主线，以维护世界和平、促进共同发展为宗旨。",
+      "keywords": [
+        "宗旨"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 227,
+      "gid": 428,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "推动构建新型国际关系，要秉持相互尊重、公平正义、合作共赢原则，走出一条对话而不对抗、结伴 而不结盟的国与国交往新路。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 228,
+      "gid": 429,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "坚持亲诚惠容和与邻为善、以邻为伴的周边外交方针，深化同周边国家友好互信和利益融合；周边是 我国安身立命之所、发展繁荣之基，要始终将周边置于外交全局的首要位置。",
+      "keywords": [
+        "首要位置"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 229,
+      "gid": 430,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "构建新型政党关系，要秉持求同存异、相互尊重、互学互鉴理念。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 230,
+      "gid": 431,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "和平共处五项原则的出发点，是维护弱小国家在强权政治环境中的利益和诉求；其精髓，是所有国家 一律主权平等。",
+      "keywords": [
+        "出发点"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "和平共处五项原则的出发点？",
+        "a": "是维护弱小国家在强权政治环境中的利益和诉求；其精髓，是所有国家 一律主权平等。"
+      }
+    },
+    {
+      "id": 231,
+      "gid": 432,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "发展是人类社会的永恒主题，各国人民热切期盼通过发展实现对美好生活的向往；安全是发展的前提， 是人类最基本最普遍的愿望、各国人民根本利益所在。",
+      "keywords": [
+        "前提",
+        "最基本最普遍的",
+        "根本利益所在"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 232,
+      "gid": 433,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "文明多样性是世界的基本特征，也是人类进步的源泉；推动构建人类命运共同体的重要依托，是全球 发展、安全、文明三大倡议。",
+      "keywords": [
+        "人类命运共同体"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "文明多样性？",
+        "a": "是世界的基本特征，也是人类进步的源泉；推动构建人类命运共同体的重要依托，是全球 发展、安全、文明三大倡议。"
+      }
+    },
+    {
+      "id": 233,
+      "gid": 434,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "“一带一路”为世界经济增长提供动力、为国际经济合作搭建平台、为全球共同发展开辟空间，成为 广受欢迎的国际公共产品，是构建人类命运共同体的重大实践。",
+      "keywords": [
+        "人类命运共同体",
+        "动力",
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 234,
+      "gid": 435,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十六章中国特色大国外交和推动构建人类命运共同体",
+      "content": "共建“一带一路”，要秉持共商共建共享原则，坚持开放、绿色、廉洁理念，以高标准、可持续、惠 民生为目标。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 235,
+      "gid": 436,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "全面从严治党是党永葆生机活力、走好新的赶考之路的必由之路，是新时代党的建设的鲜明主题；党 要管党、从严治党，是党的建设的一贯要求和根本方针。",
+      "keywords": [
+        "党的建设",
+        "全面从严治党",
+        "根本方针"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "全面从严治党？",
+        "a": "是党永葆生机活力、走好新的赶考之路的必由之路，是新时代党的建设的鲜明主题；党 要管党、从严治党，是党的建设的一贯要求和根本方针。"
+      }
+    },
+    {
+      "id": 236,
+      "gid": 437,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "全面从严治党，核心是加强党的领导，基础在全面，关键在严，要害在治。",
+      "keywords": [
+        "全面从严治党",
+        "关键在严",
+        "基础在全面",
+        "核心是加强党的领导"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "全面从严治党，核心？",
+        "a": "是加强党的领导，基础在全面，关键在严，要害在治。"
+      }
+    },
+    {
+      "id": 237,
+      "gid": 438,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "新时代党的建设，以加强党的长期执政能力建设、先进性和纯洁性建设为主线，以党的政治建设为统 领，以坚定理想信念宗旨为根基，以调动全党积极性、主动性、创造性为着力点。",
+      "keywords": [
+        "党的建设",
+        "宗旨为根基",
+        "理想信念"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 238,
+      "gid": 439,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "党的政治建设是党的根本性建设，要以政治建设为统领推进党的建设，将政治建设摆在首位；保证全 党服从中央、维护党中央权威和集中统一领导，是党的政治建设的首要任务。",
+      "keywords": [
+        "党的建设",
+        "根本性建设",
+        "首要任务"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的政治建设？",
+        "a": "是党的根本性建设，要以政治建设为统领推进党的建设，将政治建设摆在首位；保证全 党服从中央、维护党中央权威和集中统一领导，是党的政治建设的首要任务。"
+      }
+    },
+    {
+      "id": 239,
+      "gid": 440,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "作风问题的核心，是党同人民群众的关系问题；加强纪律建设，是全面从严治党的治本之策。",
+      "keywords": [
+        "全面从严治党",
+        "核心"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "作风问题的核心？",
+        "a": "是党同人民群众的关系问题；加强纪律建设，是全面从严治党的治本之策。"
+      }
+    },
+    {
+      "id": 240,
+      "gid": 441,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "腐败是危害党的生命力和战斗力的最大毒瘤，是党长期执政面临的最大威胁；反腐败是最彻底的自我 革命，是全面从严治党的“必答题”。",
+      "keywords": [
+        "全面从严治党",
+        "最大威胁",
+        "最大毒瘤",
+        "最彻底的自我"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "腐败是危害党的生命力和战斗力的最大毒瘤？",
+        "a": "是党长期执政面临的最大威胁；反腐败是最彻底的自我 革命，是全面从严治党的“必答题”。"
+      }
+    },
+    {
+      "id": 241,
+      "gid": 442,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "标本兼治是新时代推进反腐败斗争的鲜明特征，反腐倡廉的核心是制度制约和监督权力。",
+      "keywords": [
+        "核心是制度制约和监督"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "标本兼治？",
+        "a": "是新时代推进反腐败斗争的鲜明特征，反腐倡廉的核心是制度制约和监督权力。"
+      }
+    },
+    {
+      "id": 242,
+      "gid": 443,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "勇于自我革命，是中国共产党区别于其他政党的显著标志，是我们党最大的优势、最鲜明的品格，也 是跳出历史周期率的第二个答案。",
+      "keywords": [
+        "最大的优势",
+        "最鲜明的品格",
+        "标志",
+        "自我革命"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "勇于自我革命？",
+        "a": "是中国共产党区别于其他政党的显著标志，是我们党最大的优势、最鲜明的品格，也 是跳出历史周期率的第二个答案。"
+      }
+    },
+    {
+      "id": 243,
+      "gid": 444,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "新时代深入推进党的自我革命实践，要以坚持党中央集中统一领导为根本保证，以引领伟大社会革命 为根本目的，以习近平新时代中国特色社会主义思想为根本遵循。",
+      "keywords": [
+        "实践",
+        "根本保证",
+        "根本目的",
+        "根本遵循",
+        "目的",
+        "自我革命"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 244,
+      "gid": 445,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "新时代深入推进党的自我革命，要以跳出历史周期率为战略目标，以解决大党独有难题为主攻方向， 以健全全面从严治党体系为有效途径。",
+      "keywords": [
+        "全面从严治党",
+        "自我革命"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 245,
+      "gid": 446,
+      "subject": "新思想",
+      "subject_full": "习近平新时代中国特色社会主义思想概论",
+      "chapter": "第十七章全面从严治党",
+      "content": "新时代深入推进党的自我革命，要以锻造坚强组织、建设过硬队伍为重要着力点，以正风肃纪反腐为 重要抓手，以自我监督和人民监督相结合为强大动力。",
+      "keywords": [
+        "动力",
+        "自我革命"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 1,
+      "gid": 447,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "鸦片战争使中国由独立的封建社会逐步变为半殖民地半封建社会，中国人民开始了反帝反封建的资产 阶级民主革命。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 2,
+      "gid": 448,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "鸦片战争使近代中国社会的性质、主要矛盾、革命任务、阶级关系开始发生变化，成为中国近代史的 起点。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 3,
+      "gid": 449,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "《南京条约》是中国近代史上第一个不平等条约，随后清政府又签订了《虎门条约》《望厦条约》和 《黄埔条约》，通过这些条约，西方列强在中国攫取了大量侵略特权。",
+      "keywords": [
+        "第一个不平等条约"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "《南京条约》？",
+        "a": "是中国近代史上第一个不平等条约，随后清政府又签订了《虎门条约》《望厦条约》和 《黄埔条约》，通过这些条约，西方列强在中国攫取了大量侵略特权。"
+      }
+    },
+    {
+      "id": 4,
+      "gid": 450,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "甲午战争中北洋海军全军覆没，标志着洋务运动的失败，中国民族危机严重加深，进一步沦为半殖民 地半封建社会。",
+      "keywords": [
+        "标志着洋务运动的失败"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 5,
+      "gid": 451,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "《马关条约》将台湾和澎湖列岛割让给日本，进一步破坏了中国的领土主权。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 6,
+      "gid": 452,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "以抢租港湾和划分势力范围为主要标志和起点，帝国主义列强掀起了瓜分中国的狂潮。",
+      "keywords": [
+        "标志和起点"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 7,
+      "gid": 453,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "鸦片战争后，中国人民的民族意识开始觉醒；甲午战争后，中华民族的民族意识开始普遍觉醒。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 8,
+      "gid": 454,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "甲午战争后，义和团由秘密的反清组织转变为公开的反抗帝国主义侵略的组织。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 9,
+      "gid": 455,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "《辛丑条约》签订后，中国完全沦为半殖民地半封建社会，清政府完全沦为“洋人的朝廷”，近代中 国民族危机严重加剧。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 10,
+      "gid": 456,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "五四运动促进了中华民族的第一次全面觉醒。",
+      "keywords": [
+        "第一次全面觉醒"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 11,
+      "gid": 457,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "林则徐是近代中国睁眼看世界的第一人。",
+      "keywords": [
+        "第一人"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 12,
+      "gid": 458,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "魏源开创了向西方学习的新风。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 13,
+      "gid": 459,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "近代中国反侵略战争屡遭失败的根本原因是社会制度的腐败。",
+      "keywords": [
+        "根本原因是社会制度的"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "近代中国反侵略战争屡遭失败的根本原因？",
+        "a": "是社会制度的腐败。"
+      }
+    },
+    {
+      "id": 14,
+      "gid": 460,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "帝国主义列强瓜分中国图谋破产的根本原因，是中华民族进行的不屈不挠的反侵略斗争。",
+      "keywords": [
+        "根本原因"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "帝国主义列强瓜分中国图谋破产的根本原因？",
+        "a": "是中华民族进行的不屈不挠的反侵略斗争。"
+      }
+    },
+    {
+      "id": 15,
+      "gid": 461,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "帝国主义侵略中国的最终目的是瓜分中国、灭亡中国。",
+      "keywords": [
+        "最终目的是瓜分",
+        "目的是瓜分中国"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "帝国主义侵略中国的最终目的？",
+        "a": "是瓜分中国、灭亡中国。"
+      }
+    },
+    {
+      "id": 16,
+      "gid": 462,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "近代中国社会的主要矛盾是帝国主义和中华民族的矛盾、封建主义和人民大众的矛盾，其中最主要的 矛盾是帝国主义和中华民族的矛盾。",
+      "keywords": [
+        "最主要的",
+        "矛盾"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "近代中国社会的主要矛盾？",
+        "a": "是帝国主义和中华民族的矛盾、封建主义和人民大众的矛盾，其中最主要的 矛盾是帝国主义和中华民族的矛盾。"
+      }
+    },
+    {
+      "id": 17,
+      "gid": 463,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "近代中国的两大历史任务是争取民族独立和人民解放、实现国家富强和人民幸福。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "近代中国的两大历史任务？",
+        "a": "是争取民族独立和人民解放、实现国家富强和人民幸福。"
+      }
+    },
+    {
+      "id": 18,
+      "gid": 464,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "资本帝国主义对中国的侵略，首先和主要是军事侵略。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 19,
+      "gid": 465,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第一章进入近代后中华民族的磨难与抗争",
+      "content": "三元里人民的抗英斗争是中国近代史上第一次大规模的反侵略武装斗争。",
+      "keywords": [
+        "武装斗争",
+        "第一次大规模的反侵略",
+        "第一次大规模的反侵略武"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "三元里人民的抗英斗争？",
+        "a": "是中国近代史上第一次大规模的反侵略武装斗争。"
+      }
+    },
+    {
+      "id": 20,
+      "gid": 466,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "太平天国运动爆发的原因是鸦片战争以来西方资本主义和清政府对人民的残酷压迫和剥削。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "太平天国运动爆发的原因？",
+        "a": "是鸦片战争以来西方资本主义和清政府对人民的残酷压迫和剥削。"
+      }
+    },
+    {
+      "id": 21,
+      "gid": 467,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "太平天国运动失败的原因是农民阶级的局限性，领导集团的腐败、军事战略的错误，以及未能正确对 待儒学、缺乏科学思想指导和对西方侵略者缺乏理性认识，其中，小农阶级的局限性是根本原因。",
+      "keywords": [
+        "根本原因",
+        "认识"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "太平天国运动失败的原因？",
+        "a": "是农民阶级的局限性，领导集团的腐败、军事战略的错误，以及未能正确对 待儒学、缺乏科学思想指导和对西方侵略者缺乏理性认识，其中，小农阶级的局限性是根本原因。"
+      }
+    },
+    {
+      "id": 22,
+      "gid": 468,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "《天朝田亩制度》是太平天国的革命纲领，也是以解决土地问题为中心的社会改革方案，反映了农民 平均分配土地的愿望，根本否定了封建地主土地私有制。",
+      "keywords": [
+        "根本否定了封建地主土"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "《天朝田亩制度》？",
+        "a": "是太平天国的革命纲领，也是以解决土地问题为中心的社会改革方案，反映了农民 平均分配土地的愿望，根本否定了封建地主土地私有制。"
+      }
+    },
+    {
+      "id": 23,
+      "gid": 469,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "《天朝田亩制度》没有超出农民小生产者的狭隘眼界，具有空想性质，没有付诸实施。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 24,
+      "gid": 470,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "《资政新篇》是中国近代历史上第一个比较系统的、比较完整的发展资本主义的方案、蓝图、纲领， 但没有付诸实施。",
+      "keywords": [
+        "第一个比较系统的",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "《资政新篇》？",
+        "a": "是中国近代历史上第一个比较系统的、比较完整的发展资本主义的方案、蓝图、纲领， 但没有付诸实施。"
+      }
+    },
+    {
+      "id": 25,
+      "gid": 471,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "太平天国运动沉重打击了封建统治阶级和外国侵略势力，冲击了孔子和儒家经典的正统权威。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 26,
+      "gid": 472,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "太平天国运动是中国旧式农民战争的最高峰，并具有新的历史特点，既提出了《天朝田亩制度》这一 革命纲领，又提出了发展资本主义的方案。",
+      "keywords": [
+        "最高峰",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "太平天国运动？",
+        "a": "是中国旧式农民战争的最高峰，并具有新的历史特点，既提出了《天朝田亩制度》这一 革命纲领，又提出了发展资本主义的方案。"
+      }
+    },
+    {
+      "id": 27,
+      "gid": 473,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "农民具有伟大的革命潜力，但农民阶级不能担负领导中国革命的重任。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 28,
+      "gid": 474,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "洋务运动根本和主要目的是挽救清政府的统治，首先是为了镇压农民起义。",
+      "keywords": [
+        "根本和主要目的是挽救",
+        "目的是挽救清政府的统"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "洋务运动根本和主要目的？",
+        "a": "是挽救清政府的统治，首先是为了镇压农民起义。"
+      }
+    },
+    {
+      "id": 29,
+      "gid": 475,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "洋务运动失败的原因是其封建性、对外国的依赖性和管理的腐朽性。（“缝衣服”）",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "洋务运动失败的原因？",
+        "a": "是其封建性、对外国的依赖性和管理的腐朽性。（“缝衣服”）"
+      }
+    },
+    {
+      "id": 30,
+      "gid": 476,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "甲午战争中北洋海军全军覆没，标志着以“自强”“求富”为目标的洋务运动失败。",
+      "keywords": [
+        "标志着以“自强”“求"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 31,
+      "gid": 477,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "洋务运动以中体西用为指导思想，学习西方的器物和技术，以维持封建制度。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "洋务运动以中体西用为？",
+        "a": "指导思想，学习西方的器物和技术，以维持封建制度。"
+      }
+    },
+    {
+      "id": 32,
+      "gid": 478,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "洋务派先兴办近代军事工业，后兴办民用企业，同时建立新式海陆军、创办新式学堂和派遣留学生。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 33,
+      "gid": 479,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "洋务运动是中国近代化的起点，客观上促进中国早期工业和民族资本主义发展，成为中国近代教育的 开端，并促进了社会风气的变化。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "洋务运动？",
+        "a": "是中国近代化的起点，客观上促进中国早期工业和民族资本主义发展，成为中国近代教育的 开端，并促进了社会风气的变化。"
+      }
+    },
+    {
+      "id": 34,
+      "gid": 480,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "洋务运动是地主阶级的自救运动，只学习西方器物技术而不改变封建制度，不能使中国走向富强。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "洋务运动？",
+        "a": "是地主阶级的自救运动，只学习西方器物技术而不改变封建制度，不能使中国走向富强。"
+      }
+    },
+    {
+      "id": 35,
+      "gid": 481,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "甲午战争造成的新民族危机，激发新的民族觉醒，民族资本主义有了初步发展，维新派将学习西方推 进到制度层面。",
+      "keywords": [
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 36,
+      "gid": 482,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "戊戌维新运动失败的原因是维新派自身的局限和以慈禧太后为首的守旧势力的反对。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "戊戌维新运动失败的原因？",
+        "a": "是维新派自身的局限和以慈禧太后为首的守旧势力的反对。"
+      }
+    },
+    {
+      "id": 37,
+      "gid": 483,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "维新派不敢在政治、经济、思想上根本否定封建制度，政治上不敢否定君主制度，经济上没有触及封 建土地所有制，思想上借孔子托古改制，同时对帝国主义抱有幻想并惧怕人民群众。",
+      "keywords": [
+        "根本否定封建制度"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 38,
+      "gid": 484,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "戊戌维新运动是资产阶级改良运动，比较温和、不彻底，维新派提出的开国会、定宪法等主张没有被 采纳，改革没有触及封建制度的根本，许多措施没有实施。",
+      "keywords": [
+        "宪法",
+        "根本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "戊戌维新运动？",
+        "a": "是资产阶级改良运动，比较温和、不彻底，维新派提出的开国会、定宪法等主张没有被 采纳，改革没有触及封建制度的根本，许多措施没有实施。"
+      }
+    },
+    {
+      "id": 39,
+      "gid": 485,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "维新派与守旧派论战的实质，是资产阶级思想与封建主义思想在中国的第一次正面交锋。",
+      "keywords": [
+        "第一次正面交锋"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "维新派与守旧派论战的实质？",
+        "a": "是资产阶级思想与封建主义思想在中国的第一次正面交锋。"
+      }
+    },
+    {
+      "id": 40,
+      "gid": 486,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "戊戌维新运动是一次爱国救亡运动，是一场资产阶级性质的政治改良运动，也是一场思想启蒙运动。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "戊戌维新运动？",
+        "a": "是一次爱国救亡运动，是一场资产阶级性质的政治改良运动，也是一场思想启蒙运动。"
+      }
+    },
+    {
+      "id": 41,
+      "gid": 487,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "戊戌维新运动使中国资产阶级第一次登上政治舞台。",
+      "keywords": [
+        "第一次登上政治舞台"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 42,
+      "gid": 488,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第二章不同社会力量对国家出路的早期探索",
+      "content": "戊戌维新运动的失败说明，在半殖民地半封建中国，企图通过统治者进行自上而下的改良的道路根本 行不通。",
+      "keywords": [
+        "根本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 43,
+      "gid": 489,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "辛亥革命失败的根本原因，是资产阶级共和国方案在半殖民地半封建中国行不通。",
+      "keywords": [
+        "根本原因"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "辛亥革命失败的根本原因？",
+        "a": "是资产阶级共和国方案在半殖民地半封建中国行不通。"
+      }
+    },
+    {
+      "id": 44,
+      "gid": 490,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "辛亥革命失败的主观原因，是资产阶级革命派存在许多弱点和错误，其根源是中国民族资产阶级的软 弱性和妥协性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "辛亥革命失败的主观原因？",
+        "a": "是资产阶级革命派存在许多弱点和错误，其根源是中国民族资产阶级的软 弱性和妥协性。"
+      }
+    },
+    {
+      "id": 45,
+      "gid": 491,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "辛亥革命推翻了清王朝这一封建势力的政治代表和帝国主义在中国的代理人，沉重打击了中外反动势 力，结束了中国延续两千多年的封建君主专制制度，建立了中国历史上第一个资产阶级共和政府，使 民主共和的观念开始深入人心。",
+      "keywords": [
+        "第一个资产阶级共和政"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 46,
+      "gid": 492,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "辛亥革命拉开了中国完全意义上的近代民族民主革命的序幕，也拉开了中华民族思想解放和社会变革 的序幕；是中华民族为救亡图存、振兴中华而奋起革命的一个里程碑，也是中华民族伟大复兴征程上 的一个里程碑。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 47,
+      "gid": 493,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "辛亥革命打开了中国进步的闸门，为中国共产党的成立准备了客观社会条件，中国共产党成为中华民 族走向复兴的灯塔。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 48,
+      "gid": 494,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "《辛丑条约》签订后，清政府彻底放弃了抵抗外国侵略的要求，沦为洋人的朝廷。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 49,
+      "gid": 495,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "中国同盟会是中国近代史上第一个领导资产阶级革命的全国性政党，其成立标志着中国资产阶级民主 革命进入新的阶段。",
+      "keywords": [
+        "标志着中国资产阶级民",
+        "第一个领导资产阶级革"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "中国同盟会？",
+        "a": "是中国近代史上第一个领导资产阶级革命的全国性政党，其成立标志着中国资产阶级民主 革命进入新的阶段。"
+      }
+    },
+    {
+      "id": 50,
+      "gid": 496,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "三民主义初步描绘了中国还不曾有过的资产阶级共和国方案，是一个比较完整而明确的资产阶级民主 革命纲领。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "三民主义初步描绘了中国还不曾有过的资产阶级共和国方案？",
+        "a": "是一个比较完整而明确的资产阶级民主 革命纲领。"
+      }
+    },
+    {
+      "id": 51,
+      "gid": 497,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "革命派与改良派的论战，划清了革命与改良的界限，传播了民主革命思想，也暴露了革命派在思想理 论方面的弱点。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 52,
+      "gid": 498,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "武昌起义掀起了辛亥革命高潮，打开了清王朝统治的缺口。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 53,
+      "gid": 499,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "《中华民国临时约法》是中国历史上第一部具有资产阶级共和国宪法性质的法典，确认了废除君主专 制制度和建立资产阶级共和国的成果。",
+      "keywords": [
+        "宪法",
+        "第一部具有资产阶级共"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "《中华民国临时约法》？",
+        "a": "是中国历史上第一部具有资产阶级共和国宪法性质的法典，确认了废除君主专 制制度和建立资产阶级共和国的成果。"
+      }
+    },
+    {
+      "id": 54,
+      "gid": 500,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "辛亥革命没有找到解决中国前途命运问题的正确道路和领导力量，因而没有改变中国的社会性质和人 民的悲惨境遇，没有完成反帝反封建的历史任务，这些因素制约了革命的成功。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 55,
+      "gid": 501,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "护法运动失败后，孙中山认识到南北军阀是一丘之貉，其失败标志着旧民主主义革命的终结。",
+      "keywords": [
+        "旧民主主义",
+        "标志着旧民主主义革命",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "护法运动失败后，孙中山认识到南北军阀？",
+        "a": "是一丘之貉，其失败标志着旧民主主义革命的终结。"
+      }
+    },
+    {
+      "id": 56,
+      "gid": 502,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第三章辛亥革命与君主专制制度的终结",
+      "content": "资产阶级革命派的弱点包括没有提出彻底的反帝反封建革命纲领，不能充分发动和依靠人民群众，不 能建立坚强的革命政党。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "资产阶级革命派的弱点？",
+        "a": "包括没有提出彻底的反帝反封建革命纲领，不能充分发动和依靠人民群众，不 能建立坚强的革命政党。"
+      }
+    },
+    {
+      "id": 57,
+      "gid": 503,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "辛亥革命失败后，先进分子反思国民性，新文化运动兴起，最初主要学习西方资本主义的思想文化。",
+      "keywords": [
+        "最初主要学习西",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 58,
+      "gid": 504,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "第一次世界大战使先进分子对资本主义失望怀疑，十月革命给中国送来了马克思主义。",
+      "keywords": [
+        "第一次世界大战使先进",
+        "第一次世界大战使先进分",
+        "资本"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 59,
+      "gid": 505,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "巴黎和会上中国外交失败，直接引发了五四运动。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 60,
+      "gid": 506,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "马克思主义同中国工人运动相结合，推动了中国共产党的成立，随后国共合作推动大革命，大革命失 败后中国革命继续探索新的道路。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 61,
+      "gid": 507,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "中国共产党以马克思列宁主义为理论基础，从一开始就把为中国人民谋幸福、为中华民族谋复兴作为 初心使命。",
+      "keywords": [
+        "基础"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 62,
+      "gid": 508,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "中国共产党从一开始就重视同其他党派合作，一经成立就把实现社会主义和共产主义确定为自己的奋 斗目标。中国共产党一经成立，中国革命的面貌就焕然一新。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 63,
+      "gid": 509,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "中国共产党在成立之初就提出民主革命纲领，并同孙中山领导的国民党携手合作。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 64,
+      "gid": 510,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "新文化运动倡导民主和科学，是中国历史上一次前所未有的启蒙运动和空前深刻的思想启蒙和思想解 放运动，使中国的知识分子尤其是广大青年受到一次西方民主和科学思想的洗礼。冲决了禁锢人们思 想的闸门，为外国各种思想流派传入中国敞开了大门，为马克思主义在中国的广泛传播准备了思想的 和文化的条件。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新文化运动倡导民主和科学？",
+        "a": "是中国历史上一次前所未有的启蒙运动和空前深刻的思想启蒙和思想解 放运动，使中国的知识分子尤其是广大青年受到一次西方民主和科学思想的洗礼。冲决了禁锢人们思 想的闸门，为外国各种思想流派传入中国敞开了大门，为马克思主义在中国的广泛传播准备了思想的 和文化的条件。"
+      }
+    },
+    {
+      "id": 65,
+      "gid": 511,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "李大钊在中国率先举起马克思主义的旗帜，五四运动以前马克思主义主要在个别人物中传播，中国先 进分子经过反复比较才选择了马克思主义。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 66,
+      "gid": 512,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "五四运动是一场以先进青年知识分子为先锋、广大人民群众参加的彻底反帝反封建的伟大爱国革命运 动，是一场中国人民为拯救民族危亡、捍卫民族尊严、凝聚民族力量而掀起的伟大社会革命运动，也 是一场传播新思想新文化新知识的伟大思想启蒙运动和新文化运动。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "五四运动？",
+        "a": "是一场以先进青年知识分子为先锋、广大人民群众参加的彻底反帝反封建的伟大爱国革命运 动，是一场中国人民为拯救民族危亡、捍卫民族尊严、凝聚民族力量而掀起的伟大社会革命运动，也 是一场传播新思想新文化新知识的伟大思想启蒙运动和新文化运动。"
+      }
+    },
+    {
+      "id": 67,
+      "gid": 513,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "五四运动是中国新民主主义革命的开端，是旧民主主义革命走向新民主主义革命的转折点，实现了中 国人民和中华民族自鸦片战争以来的第一次全面觉醒。",
+      "keywords": [
+        "新民主主义",
+        "旧民主主义",
+        "第一次全面觉醒"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "五四运动？",
+        "a": "是中国新民主主义革命的开端，是旧民主主义革命走向新民主主义革命的转折点，实现了中 国人民和中华民族自鸦片战争以来的第一次全面觉醒。"
+      }
+    },
+    {
+      "id": 68,
+      "gid": 514,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "。中共二大第一次提出了反帝反封建的民主革命纲领，提出要组成“民主主义的联合战线”，因此党 的二大次明确提出了党的统一战线政策。党的二大开始采取民族资产阶级、小资产阶级的政党和政治 派别没有采取过、也不可能采取的革命方法，即群众路线的方法。",
+      "keywords": [
+        "第一次提出了反帝反封",
+        "第一次提出了反帝反封建",
+        "统一战线",
+        "群众路线"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 69,
+      "gid": 515,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "党的三大决定共产党员以个人身份加入国民党，以实现国共合作。明确规定共产党员加入国民党时， 党必须在政治上、思想上、组织上保持自己独立性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 70,
+      "gid": 516,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "新三民主义同中国共产党的民主革命纲领基本一致，成为国共合作的政治基础。",
+      "keywords": [
+        "基础"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 71,
+      "gid": 517,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "1924 年国民党一大确立联俄、联共、扶助农工三大政策，标志着第一次国共合作正式形成。",
+      "keywords": [
+        "标志着第一次国共合作",
+        "第一次国共合作正式形",
+        "第一次国共合作正式形成"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 72,
+      "gid": 518,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "1925 年5 月，以五卅运动为起点，掀起了全国范围的大革命高潮。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 73,
+      "gid": 519,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "中国共产党提出反对帝国主义和反对军阀的口号，为大革命指明了斗争方向。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国共产党提出反对帝国主义和反对军阀的口号，为大革命？",
+        "a": "指明了斗争方向。"
+      }
+    },
+    {
+      "id": 74,
+      "gid": 520,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "中国共产党是国共合作倡导者和统一战线组织者，也是人民群众主要发动者和组织者。",
+      "keywords": [
+        "统一战线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国共产党？",
+        "a": "是国共合作倡导者和统一战线组织者，也是人民群众主要发动者和组织者。"
+      }
+    },
+    {
+      "id": 75,
+      "gid": 521,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "中国共产党推动国民革命军的建立，在军队中开展政治工作，发挥先锋模范作用，增强军队的凝聚力 和战斗力，并组织工农武装配合正规军作战。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 76,
+      "gid": 522,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "李大钊的《法俄革命之比较观》是中国先进分子最早正确阐明十月革命性质的文章。",
+      "keywords": [
+        "最早正确阐明十"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "李大钊的《法俄革命之比较观》？",
+        "a": "是中国先进分子最早正确阐明十月革命性质的文章。"
+      }
+    },
+    {
+      "id": 77,
+      "gid": 523,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "李大钊的《庶民的胜利》和《Bolshevism 的胜利》歌颂了十月革命和布尔什维主义的胜利。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 78,
+      "gid": 524,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "李大钊的《我的马克思主义观》标志着马克思主义在中国得到比较系统的传播。",
+      "keywords": [
+        "标志着马克思主义在中"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 79,
+      "gid": 525,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第四章中国共产党成立和中国革命新局面",
+      "content": "中国工人阶级在五四运动中开始以独立的姿态登上政治舞台。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 80,
+      "gid": 526,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "八七会议确定了土地革命和武装起义的方针，批判纠正了陈独秀的右倾机会主义错误，提出“须知政 权是由枪杆子中取得的”的论断，整顿党内错误并开始寻找新的革命道路，是由大革命失败到土地革 命战争兴起的转折点。",
+      "keywords": [
+        "土地革命"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 81,
+      "gid": 527,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "古田会议确立了思想建党、政治建军原则，其中心思想是用无产阶级思想进行军队和党的建设。阐述 了加强党的思想建设的极端重要性，分析了各种非无产阶级思想的表现、来源及纠正方法。明确规定 了红军是一个执行革命政治任务的武装集团，提出红军必须担负打仗、筹款和做群众工作的任务，必 须加强政治工作。",
+      "keywords": [
+        "党的建设"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "古田会议确立了思想建党、政治建军原则，其中心思想？",
+        "a": "是用无产阶级思想进行军队和党的建设。阐述 了加强党的思想建设的极端重要性，分析了各种非无产阶级思想的表现、来源及纠正方法。明确规定 了红军是一个执行革命政治任务的武装集团，提出红军必须担负打仗、筹款和做群众工作的任务，必 须加强政治工作。"
+      }
+    },
+    {
+      "id": 82,
+      "gid": 528,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "遵义会议集中解决了当时具有决定意义的军事和组织问题，结束了王明“左”倾教条主义在中央的统 治。遵义会议是党的历史上生死攸关的转折点，挽救了党、挽救了红军、挽救了中国革命。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 83,
+      "gid": 529,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "遵义会议确立了毛泽东在红军和党中央的领导地位，开始确立了以毛泽东为主要代表的马克思主义正 确路线在党中央的领导地位，开始形成以毛泽东为核心的党的第一代中央领导集体。",
+      "keywords": [
+        "核心的党的第一代中央",
+        "第一代中央领导集体"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 84,
+      "gid": 530,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "遵义会议的鲜明特点是坚持真理、修正错误。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "遵义会议的鲜明特点？",
+        "a": "是坚持真理、修正错误。"
+      }
+    },
+    {
+      "id": 85,
+      "gid": 531,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "遵义会议开启了党独立自主解决中国革命实际问题的新阶段，党在同共产国际中断联系的情况下独立 作出决定，标志着党在政治上开始走向成熟。",
+      "keywords": [
+        "标志着党在政治上开始",
+        "独立自主"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 86,
+      "gid": 532,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "三湾改编是建设新型人民军队的重要开端。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "三湾改编？",
+        "a": "是建设新型人民军队的重要开端。"
+      }
+    },
+    {
+      "id": 87,
+      "gid": 533,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "南昌起义打响了武装反抗国民党反动统治的第一枪，是党独立领导革命战争、创建人民军队和武装夺 取政权的开端。",
+      "keywords": [
+        "第一枪"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "南昌起义打响了武装反抗国民党反动统治的第一枪？",
+        "a": "是党独立领导革命战争、创建人民军队和武装夺 取政权的开端。"
+      }
+    },
+    {
+      "id": 88,
+      "gid": 534,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "秋收起义公开打出了工农革命军的旗帜。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 89,
+      "gid": 535,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "从进攻大城市转向农村，是中国人民革命史具有决定意义的新起点。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "从进攻大城市转向农村？",
+        "a": "是中国人民革命史具有决定意义的新起点。"
+      }
+    },
+    {
+      "id": 90,
+      "gid": 536,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "《反对本本主义》中首次明确提出独立自主思想，并初步界定了中国共产党思想路线的基本含义。",
+      "keywords": [
+        "独立自主",
+        "首次明确提出独立自主"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 91,
+      "gid": 537,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "《实践论》和《矛盾论》科学阐明了党的马克思主义思想路线。",
+      "keywords": [
+        "实践",
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 92,
+      "gid": 538,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第五章中国革命的新道路",
+      "content": "中华苏维埃共和国是中国历史上第一个全国性的工农民主政权。",
+      "keywords": [
+        "第一个全国性的工农民"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中华苏维埃共和国？",
+        "a": "是中国历史上第一个全国性的工农民主政权。"
+      }
+    },
+    {
+      "id": 93,
+      "gid": 539,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "瓦窑堡会议阐明建立抗日民族统一战线的可能性，批判了“左”倾关门主义，强调共产党在统一战线 中的领导作用。指出关门主义的错误在于不相信许多中间阶层有参加抗日的可能。规定了建立广泛的 抗日民族统一战线的具体政策，决定以“人民共和国”的口号代替“工农共和国”。",
+      "keywords": [
+        "统一战线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 94,
+      "gid": 540,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "洛川会议制定了抗日救国十大纲领，强调要打倒日本帝国主义，关键在于使已经发动的抗战成为全面 的全民族抗战。规定必须实行全国军事总动员、全国人民总动员，必须改革政治机构，给人民以充分 的抗日民主权利，并适当改善工农大众生活。规定必须坚持统一战线中无产阶级的领导权，在敌人后 方放手发动独立自主的山地游击战争，在国民党统治区放手发动抗日群众运动。",
+      "keywords": [
+        "关键在于使已经发动的",
+        "独立自主",
+        "统一战线"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "洛川会议制定了抗日救国十大纲领，强调要打倒日本帝国主义，关键？",
+        "a": "在于使已经发动的抗战成为全面 的全民族抗战。规定必须实行全国军事总动员、全国人民总动员，必须改革政治机构，给人民以充分 的抗日民主权利，并适当改善工农大众生活。规定必须坚持统一战线中无产阶级的领导权，在敌人后 方放手发动独立自主的山地游击战争，在国民党统治区放手发动抗日群众运动。"
+      }
+    },
+    {
+      "id": 95,
+      "gid": 541,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "党的六届七中全会原则通过了《关于若干历史问题的决议》，首次以党的正式文件总结党的重大历史 问题并作出结论，这也是延安整风运动的重大成果。会议肯定了确立毛泽东在全党的领导地位的重大 意义，使全党尤其是党的高级干部对中国民主革命基本问题的认识达到在马克思列宁主义基础上的一 致。",
+      "keywords": [
+        "基础上的一",
+        "认识",
+        "首次以党的正式文件总"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 96,
+      "gid": 542,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "《决议》清算了党内历次机会主义路线，特别是王明“左”倾错误的表现和严重危害。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "《决议》清算了党内历次机会主义路线，特别？",
+        "a": "是王明“左”倾错误的表现和严重危害。"
+      }
+    },
+    {
+      "id": 97,
+      "gid": 543,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "党的六届七中全会标志着整风运动的胜利结束，为党的七大的胜利召开在思想上作了充分准备。",
+      "keywords": [
+        "标志着整风运动的胜利"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 98,
+      "gid": 544,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "党的七大上，毛泽东作题为《论联合政府》的书面报告和《愚公移山》闭幕词。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 99,
+      "gid": 545,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "党的七大确定的政治路线是，放手发动群众、壮大人民力量，在党的领导下，打败日本侵略者，解放 全国人民，建立新民主主义中国。制定了新民主主义国家的政治、经济、文化纲领，并提出实现中国 工业化的要求。",
+      "keywords": [
+        "新民主主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "党的七大确定的政治路线？",
+        "a": "是，放手发动群众、壮大人民力量，在党的领导下，打败日本侵略者，解放 全国人民，建立新民主主义中国。制定了新民主主义国家的政治、经济、文化纲领，并提出实现中国 工业化的要求。"
+      }
+    },
+    {
+      "id": 100,
+      "gid": 546,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "党的七大概括了理论和实践相结合的作风，和人民群众紧密地联系在一起的作风、自我批评的作风。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 101,
+      "gid": 547,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "把毛泽东思想确立为党的指导思想并写入党章，是党的七大的历史性贡献。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "把毛泽东思想确立为党的？",
+        "a": "指导思想并写入党章，是党的七大的历史性贡献。"
+      }
+    },
+    {
+      "id": 102,
+      "gid": 548,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第六章中华民族的抗日战争",
+      "content": "党的七大标志着党在政治上思想上组织上走向成熟，为建立新中国制定了正确路线，形成了以毛泽东 为核心的领导集体，并确立了毛泽东思想的指导地位。",
+      "keywords": [
+        "标志着党在政治上思想",
+        "核心的领导集体"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 103,
+      "gid": 549,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "重庆谈判确认了和平建国的基本方针，同意“长期合作、避免内战”。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 104,
+      "gid": 550,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "重庆政治协商会议的召开，有利于打破蒋介石的独裁统治和实行民主政治，有利于和平建国，因而在 相当程度上有利于人民。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 105,
+      "gid": 551,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "各民主党派和无党派民主人士发表《对时局的意见》，公开自愿接受中国共产党的领导，决心走人民 革命的道路，拥护建立人民民主的新中国。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 106,
+      "gid": 552,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "人民解放军三路大军挺进中原，揭开了人民解放战争战略进攻序幕。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 107,
+      "gid": 553,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "1948 年秋起，人民解放军进行战略决战，辽沈、淮海、平津三大战役使国民党赖以维持统治的主要军 事力量基本上被摧毁。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 108,
+      "gid": 554,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "党的七届二中全会在夺取全国胜利和党即将成为执政党的前夕召开，强调党的工作重心转移和“两个 务必”。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 109,
+      "gid": 555,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "中央机关、人民解放军总部进驻北平香山，标志着中国革命重心从农村转向城市。",
+      "keywords": [
+        "标志着中国革命重心从"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 110,
+      "gid": 556,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "《论人民民主专政》为新中国的建立提供了理论和政策基础，它同七届二中全会决议一起，共同构成 建立新中国的两块基石，共同构成《共同纲领》的基础。",
+      "keywords": [
+        "基础"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 111,
+      "gid": 557,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "完成创建新中国任务由中国人民政治协商会议第一届全体会议承担。",
+      "keywords": [
+        "第一届全体会议承担"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 112,
+      "gid": 558,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "1949 年9 月21 日至30 日，中国人民政治协商会议第一届全体会议召开。这标志着100 多年来中国 人民争取民族独立和人民解放运动取得了历史性的伟大胜科，标志着爱国统一战线和全国人民大团结 在组织上完全形成，标志着中国共产党领导的多党合作和政治协商制度正式确立。会议通过的《共同 纲领》在一个时期内起着新中国临时宪法的作用。",
+      "keywords": [
+        "宪法",
+        "标志着100",
+        "标志着中国共产党领导",
+        "标志着爱国统一战线和",
+        "第一届全体会议召开",
+        "统一战线"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 113,
+      "gid": 559,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "人民解放军的战争所具有的爱国的正义的革命的性质，必然要获得全国人民的拥护。这就是战胜蒋介 石的政治基础。",
+      "keywords": [
+        "基础",
+        "必然要获得全国人民的"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 114,
+      "gid": 560,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "人民解放军占领南京，宣告延续22 年的国民党反动统治覆灭。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 115,
+      "gid": 561,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "《关于土地问题的指示》，即“五四指示”，将抗战时期的减租减息政策改为实行“耕者有其田”政 策，标志着解放区在农民土地问题上，开始由抗战时期的削弱封建剥削向变革封建土地关系、废除封 建剥削制度过渡。",
+      "keywords": [
+        "标志着解放区在农民土"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "《关于土地问题的？",
+        "a": "指示》，即“五四指示”，将抗战时期的减租减息政策改为实行“耕者有其田”政 策，标志着解放区在农民土地问题上，开始由抗战时期的削弱封建剥削向变革封建土地关系、废除封 建剥削制度过渡。"
+      }
+    },
+    {
+      "id": 116,
+      "gid": 562,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "各民主党派希望国家富强、反对卖国、主张民主、反对独裁，这些主张同中国共产党的新民主主义革 命政纲基本一致。",
+      "keywords": [
+        "新民主主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 117,
+      "gid": 563,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第七章为建立新中国而奋斗",
+      "content": "中间路线的实质是资产阶级共和国方案，是旧民主主义的道路。",
+      "keywords": [
+        "旧民主主义"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中间路线的实质？",
+        "a": "是资产阶级共和国方案，是旧民主主义的道路。"
+      }
+    },
+    {
+      "id": 118,
+      "gid": 564,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "中华人民共和国的成立，彻底结束了旧中国半殖民地半封建社会的历史，彻底结束了极少数剥削者统 治广大劳动人民的历史，彻底结束了旧中国一盘散沙的局面，彻底废除了列强强加给中国的不平等条 约和帝国主义在中国的一切特权。实现了中国从几千年封建专制政治向人民民主的伟大飞跃，实现了 中国高度统一和各民族空前团结。中国人民从此站立起来了，中国人民把命运牢牢掌握在自己手中， 成为国家、社会和自己命运的主人。中华民族发展进步从此开启了新纪元。",
+      "keywords": [
+        "劳动"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 119,
+      "gid": 565,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "依据《中华人民共和国土地改革法》开展的新解放区土地改革，是我国历史上规模最大、历次土地改 革中最好的一次。",
+      "keywords": [
+        "最大",
+        "最好的一次"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "依据《中华人民共和国土地改革法》开展的新解放区土地改革？",
+        "a": "是我国历史上规模最大、历次土地改 革中最好的一次。"
+      }
+    },
+    {
+      "id": 120,
+      "gid": 566,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "抗美援朝战争的胜利，打破了美国军队不可战胜的神话，打出了中国人民的精气神和新中国的国威， 维护了国家安全，提高了中国的大国地位，使世界对中国刮目相看。使新中国在错综复杂的国内国际 环境中站稳了脚跟，是新中国屹立于世界东方的宣言书，也是中华民族走向复兴的重要里程碑。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 121,
+      "gid": 567,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "新中国成立后的最初三年，在着重完成民主革命遗留任务的同时，社会主义革命的任务实际上也已经 开始实行了，主要包括：没收官僚资本，确立社会主义国营经济的领导地位；开始将资本主义纳入国 家资本主义轨道；引导个体农民在土地改革后逐步走上互助合作的道路。",
+      "keywords": [
+        "最初三年",
+        "资本"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 122,
+      "gid": 568,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "真理标准问题讨论，是继五四运动和延安整风运动之后又一次深刻的马克思主义思想解放运动。其实 质在于要不要坚持马列主义、毛泽东思想。讨论明确地解决了思想路线问题，继而影响了党的政治路 线的指定和贯彻，成为正本清源、拨乱反正和改革开放的思想先导，为党重新确立实事求是思想路线， 纠正长期以来“左”倾错误，实现历史性的转折作了思想理论准备。",
+      "keywords": [
+        "实事求是",
+        "改革开放"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "真理标准问题讨论？",
+        "a": "是继五四运动和延安整风运动之后又一次深刻的马克思主义思想解放运动。其实 质在于要不要坚持马列主义、毛泽东思想。讨论明确地解决了思想路线问题，继而影响了党的政治路 线的指定和贯彻，成为正本清源、拨乱反正和改革开放的思想先导，为党重新确立实事求是思想路线， 纠正长期以来“左”倾错误，实现历史性的转折作了思想理论准备。"
+      }
+    },
+    {
+      "id": 123,
+      "gid": 569,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "坚持四项基本原则是实现四个现代化的根本前提。",
+      "keywords": [
+        "前提",
+        "根本前提"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "坚持四项基本原则？",
+        "a": "是实现四个现代化的根本前提。"
+      }
+    },
+    {
+      "id": 124,
+      "gid": 570,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "1981 年《关于建国以来党的若干历史问题的决议》，对十一届三中全会以来逐步确立的适合中国情况 的建设社会主义现代化强国的道路，从十个方面作了概括，初步回答了在中国建设什么样的社会主义 和怎样建设社会主义的问题。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 125,
+      "gid": 571,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "新征程上党的中心任务是团结带领全国各族人民全面建成社会主义现代化强国、实现第二个百年奋斗 目标，以中国式现代化全面推进中华民族伟大复兴。",
+      "keywords": [
+        "中国式现代化"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新征程上党的中心任务？",
+        "a": "是团结带领全国各族人民全面建成社会主义现代化强国、实现第二个百年奋斗 目标，以中国式现代化全面推进中华民族伟大复兴。"
+      }
+    },
+    {
+      "id": 126,
+      "gid": 572,
+      "subject": "史纲",
+      "subject_full": "中国近现代史纲要",
+      "chapter": "第九章中国特色社会主义的开创与接续发展",
+      "content": "《解放思想，实事求是，团结一致向前看》是解放思想、开辟新时期新道路的宣言书，邓小平南方谈 话是把改革开放和现代化建设推进到新阶段的又一个宣言书。",
+      "keywords": [
+        "实事求是",
+        "改革开放",
+        "解放思想"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "《解放思想，实事求？",
+        "a": "是，团结一致向前看》是解放思想、开辟新时期新道路的宣言书，邓小平南方谈 话是把改革开放和现代化建设推进到新阶段的又一个宣言书。"
+      }
+    },
+    {
+      "id": 1,
+      "gid": 573,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "人生的自我价值是个体生存和发展的必要条件，人生的社会价值是社会存在和发展的重要条件。",
+      "keywords": [
+        "价值"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "人生的自我价值？",
+        "a": "是个体生存和发展的必要条件，人生的社会价值是社会存在和发展的重要条件。"
+      }
+    },
+    {
+      "id": 2,
+      "gid": 574,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "社会实践是实现人生价值的必由之路。",
+      "keywords": [
+        "价值",
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会实践？",
+        "a": "是实现人生价值的必由之路。"
+      }
+    },
+    {
+      "id": 3,
+      "gid": 575,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "法律和道德都具有规范社会行为、调节社会关系、维护社会秩序的作用，都是调节人们思想行为、协 调人际关系、维护社会秩序的重要手段，都是上层建筑的重要组成部分，共同服务于一定的经济基础。",
+      "keywords": [
+        "上层建筑",
+        "基础",
+        "经济基础",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 4,
+      "gid": 576,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "思想道德建设为法治建设提供思想指引和价值基础，法治建设为思想道德建设提供制度支撑和法律保 障，并为思想道德建设提供国家强制力保障。",
+      "keywords": [
+        "价值",
+        "基础",
+        "法治",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "思想道德建设为法治建设提供思想？",
+        "a": "指引和价值基础，法治建设为思想道德建设提供制度支撑和法律保 障，并为思想道德建设提供国家强制力保障。"
+      }
+    },
+    {
+      "id": 5,
+      "gid": 577,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "个人与社会的关系问题是认识和处理人生问题的重要着眼点和出发点。",
+      "keywords": [
+        "出发点",
+        "认识"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "个人与社会的关系问题？",
+        "a": "是认识和处理人生问题的重要着眼点和出发点。"
+      }
+    },
+    {
+      "id": 6,
+      "gid": 578,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "个人与社会的关系，最根本的是个人利益与社会利益的关系。",
+      "keywords": [
+        "最根本的是个人",
+        "根本的是个人利益与社"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "个人与社会的关系，最根本的？",
+        "a": "是个人利益与社会利益的关系。"
+      }
+    },
+    {
+      "id": 7,
+      "gid": 579,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "在社会主义社会中，个人利益与社会利益在根本上是一致的。社会利益是所有人利益的有机统一，体 现社会成员个人的根本利益和长远利益，是个人利益得以实现的前提和基础，也保障个人利益的实现。",
+      "keywords": [
+        "前提和基础",
+        "基础",
+        "根本上是一致的",
+        "根本利益和长远利益"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "在社会主义社会中，个人利益与社会利益在根本上？",
+        "a": "是一致的。社会利益是所有人利益的有机统一，体 现社会成员个人的根本利益和长远利益，是个人利益得以实现的前提和基础，也保障个人利益的实现。"
+      }
+    },
+    {
+      "id": 8,
+      "gid": 580,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "人生目的是人生观的核心，决定人生道路、人生态度和人生价值选择。",
+      "keywords": [
+        "价值",
+        "核心",
+        "目的是人生观的核心"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "人生目的？",
+        "a": "是人生观的核心，决定人生道路、人生态度和人生价值选择。"
+      }
+    },
+    {
+      "id": 9,
+      "gid": 581,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "积极进取的人生态度是认真、务实、乐观、进取。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "积极进取的人生态度？",
+        "a": "是认真、务实、乐观、进取。"
+      }
+    },
+    {
+      "id": 10,
+      "gid": 582,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "人生自我价值的实现，是个体为社会创造更大价值的前提；人生社会价值的实现，是个体自我完善、 全面发展的保障；人生的社会价值是实现人生自我价值的基础，没有社会价值，人生的自我价值就无 法存在。",
+      "keywords": [
+        "价值",
+        "前提",
+        "基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "人生自我价值的实现？",
+        "a": "是个体为社会创造更大价值的前提；人生社会价值的实现，是个体自我完善、 全面发展的保障；人生的社会价值是实现人生自我价值的基础，没有社会价值，人生的自我价值就无 法存在。"
+      }
+    },
+    {
+      "id": 11,
+      "gid": 583,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "评价人生价值的根本尺度，是看一个人的实践活动是否符合社会发展的客观规律，是否促进了历史的 进步。",
+      "keywords": [
+        "价值",
+        "实践",
+        "根本尺度"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "评价人生价值的根本尺度？",
+        "a": "是看一个人的实践活动是否符合社会发展的客观规律，是否促进了历史的 进步。"
+      }
+    },
+    {
+      "id": 12,
+      "gid": 584,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第一章领悟人生真谛把握人生方向",
+      "content": "拜金主义、享乐主义、极端个人主义等错误人生观，没有正确把握个人与社会的辩证关系，忽视或否 认社会性是人的存在和活动的本质属性，对人的需要的理解极端、狭隘和片面，其出发点和落脚点都 是一己私利。",
+      "keywords": [
+        "出发点和落脚点",
+        "本质属性",
+        "落脚点都"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 13,
+      "gid": 585,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "个人理想以社会理想为指引，社会理想是最根本、最重要的，个人理想从属于社会理想；社会理想是 个人理想的汇聚和升华，建立在广大社会成员个人理想的基础之上。",
+      "keywords": [
+        "基础之上",
+        "最根本",
+        "最重要的",
+        "根本"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "个人理想以社会理想为？",
+        "a": "指引，社会理想是最根本、最重要的，个人理想从属于社会理想；社会理想是 个人理想的汇聚和升华，建立在广大社会成员个人理想的基础之上。"
+      }
+    },
+    {
+      "id": 14,
+      "gid": 586,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "理想信念是人的精神世界的核心，是人精神上的钙，是人在精神生活领域安身立命的根本。",
+      "keywords": [
+        "核心",
+        "根本",
+        "理想信念"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "理想信念？",
+        "a": "是人的精神世界的核心，是人精神上的钙，是人在精神生活领域安身立命的根本。"
+      }
+    },
+    {
+      "id": 15,
+      "gid": 587,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "理想信念昭示奋斗目标、催生前进动力、提供精神支柱、提高精神境界，是衡量一个人精神境界高下 的重要标尺。",
+      "keywords": [
+        "动力",
+        "理想信念"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 16,
+      "gid": 588,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "理想具有超越性、实践性、时代性。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 17,
+      "gid": 589,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "信念是人类特有的精神现象，是认知、情感和意志的有机统一体。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "信念是人类特有的精神现象？",
+        "a": "是认知、情感和意志的有机统一体。"
+      }
+    },
+    {
+      "id": 18,
+      "gid": 590,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "信念具有执着性、支撑性、多样性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 19,
+      "gid": 591,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "信仰是最高层次的信念，具有最大的统摄力，信仰有盲目和科学之分。",
+      "keywords": [
+        "最大的统摄力",
+        "最高层次的信念"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 20,
+      "gid": 592,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "理想和现实存在着对立的一面，二者的矛盾与冲突属于“应然”和“实然”的矛盾。",
+      "keywords": [
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 21,
+      "gid": 593,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "理想与现实又是统一的，理想受现实的规定和制约，是在认识现实的基础上发展起来的。一方面，现 实中包含着理想的因素，孕育着理想的发展；另一方面，理想中也包含着现实，既包含现实中必然发 展的因素，又包含理想转化为现实的条件，在一定条件下，理想可以转化为未来的现实。",
+      "keywords": [
+        "基础上发展起来的",
+        "必然发",
+        "认识"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "理想与现实又？",
+        "a": "是统一的，理想受现实的规定和制约，是在认识现实的基础上发展起来的。一方面，现 实中包含着理想的因素，孕育着理想的发展；另一方面，理想中也包含着现实，既包含现实中必然发 展的因素，又包含理想转化为现实的条件，在一定条件下，理想可以转化为未来的现实。"
+      }
+    },
+    {
+      "id": 22,
+      "gid": 594,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "实现理想具有长期性、艰巨性和曲折性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 23,
+      "gid": 595,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "艰苦奋斗是实现理想的重要条件，实践是通往理想彼岸的桥梁。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "艰苦奋斗？",
+        "a": "是实现理想的重要条件，实践是通往理想彼岸的桥梁。"
+      }
+    },
+    {
+      "id": 24,
+      "gid": 596,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第二章追求远大理想坚定崇高信念",
+      "content": "当社会理想同个人理想存在矛盾冲突时，有志气、有抱负的人可以作出最大的自我牺牲，使个人理想 服从于全社会的共同理想。",
+      "keywords": [
+        "最大的自我牺牲",
+        "矛盾"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 25,
+      "gid": 597,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱国主义的本质是坚持爱国和爱党、爱社会主义高度统一。",
+      "keywords": [
+        "本质是坚持爱国和爱党"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "爱国主义的本质？",
+        "a": "是坚持爱国和爱党、爱社会主义高度统一。"
+      }
+    },
+    {
+      "id": 26,
+      "gid": 598,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "时代精神的核心是改革创新，民族精神的核心是爱国主义。",
+      "keywords": [
+        "核心是改革创新",
+        "核心是爱国主义"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "时代精神的核心？",
+        "a": "是改革创新，民族精神的核心是爱国主义。"
+      }
+    },
+    {
+      "id": 27,
+      "gid": 599,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "弘扬新时代爱国主义的着力点是坚持维护祖国统一和民族团结。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "弘扬新时代爱国主义的着力点？",
+        "a": "是坚持维护祖国统一和民族团结。"
+      }
+    },
+    {
+      "id": 28,
+      "gid": 600,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱国主义体现了人们对自己祖国的深厚感情，揭示个人对祖国的依存关系。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 29,
+      "gid": 601,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱国主义是人们对自己家园以及民族和文化的归属感、认同感、尊严感与荣誉感的统一。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "爱国主义？",
+        "a": "是人们对自己家园以及民族和文化的归属感、认同感、尊严感与荣誉感的统一。"
+      }
+    },
+    {
+      "id": 30,
+      "gid": 602,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱国主义是调节个人与祖国之间关系的道德要求、政治原则和法律规范。",
+      "keywords": [
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "爱国主义？",
+        "a": "是调节个人与祖国之间关系的道德要求、政治原则和法律规范。"
+      }
+    },
+    {
+      "id": 31,
+      "gid": 603,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱国主义是中华民族的民族心、民族魂，是中华民族最重要的精神财富，是中国人民和中华民族维护 民族独立和民族尊严的强大精神动力。",
+      "keywords": [
+        "动力",
+        "最重要的精神财"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "爱国主义？",
+        "a": "是中华民族的民族心、民族魂，是中华民族最重要的精神财富，是中国人民和中华民族维护 民族独立和民族尊严的强大精神动力。"
+      }
+    },
+    {
+      "id": 32,
+      "gid": 604,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱国主义的基本内涵是爱祖国的大好河山、爱自己的骨肉同胞、爱自己的国家和爱祖国的灿烂文化。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "爱国主义的基本内涵？",
+        "a": "是爱祖国的大好河山、爱自己的骨肉同胞、爱自己的国家和爱祖国的灿烂文化。"
+      }
+    },
+    {
+      "id": 33,
+      "gid": 605,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱自己的骨肉同胞是检验一个人对祖国忠诚程度的试金石。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "爱自己的骨肉同胞？",
+        "a": "是检验一个人对祖国忠诚程度的试金石。"
+      }
+    },
+    {
+      "id": 34,
+      "gid": 606,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱祖国的灿烂文化体现为文化传统、民族心理、精神基因。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 35,
+      "gid": 607,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "爱国主义是历史的、具体的、现实的。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "爱国主义？",
+        "a": "是历史的、具体的、现实的。"
+      }
+    },
+    {
+      "id": 36,
+      "gid": 608,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "在现阶段，爱国主义主要表现为在中国共产党领导下，献身于建设新时代中国特色社会主义伟大事业， 献身于实现中华民族伟大复兴中国梦的实践，献身于促进祖国统一大业。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 37,
+      "gid": 609,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "一切民族精神都曾经是一定历史阶段中带动潮流、引领风尚、推动社会发展的时代精神。同时，一切 时代精神都将随着历史的变迁逐步融入民族精神的长河之中，不断丰富和发展民族精神的时代内涵。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "一切民族精神都曾经？",
+        "a": "是一定历史阶段中带动潮流、引领风尚、推动社会发展的时代精神。同时，一切 时代精神都将随着历史的变迁逐步融入民族精神的长河之中，不断丰富和发展民族精神的时代内涵。"
+      }
+    },
+    {
+      "id": 38,
+      "gid": 610,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "中国精神作为兴国强国之魂，是凝聚兴国强国的磅礴伟力，是实现中华民族伟大复兴不可或缺的精神 支撑。中国精神是凝聚中国力量的精神纽带，是激发创新创造的精神动力，是推进复兴伟业的精神支 柱。",
+      "keywords": [
+        "中国精神",
+        "动力"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国精神作为兴国强国之魂？",
+        "a": "是凝聚兴国强国的磅礴伟力，是实现中华民族伟大复兴不可或缺的精神 支撑。中国精神是凝聚中国力量的精神纽带，是激发创新创造的精神动力，是推进复兴伟业的精神支 柱。"
+      }
+    },
+    {
+      "id": 39,
+      "gid": 611,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "新时代爱国主义教育的鲜明主题是全面建成社会主义现代化强国、实现中华民族伟大复兴。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "新时代爱国主义教育的鲜明主题？",
+        "a": "是全面建成社会主义现代化强国、实现中华民族伟大复兴。"
+      }
+    },
+    {
+      "id": 40,
+      "gid": 612,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "创新创造是中华民族最深沉的民族禀赋。",
+      "keywords": [
+        "最深沉的民族禀"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "创新创造？",
+        "a": "是中华民族最深沉的民族禀赋。"
+      }
+    },
+    {
+      "id": 41,
+      "gid": 613,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "拥护国家基本制度，遵守宪法法律，维护国家安全和统一，捍卫国家利益，为国家繁荣发展贡献力量， 是爱国主义的基本要求。",
+      "keywords": [
+        "宪法"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 42,
+      "gid": 614,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第三章继承优良传统弘扬中国精神",
+      "content": "中华优秀传统文化是中华民族的精神命脉，是中华民族得以延续的文化基因，也是我们在世界文化激 荡中站稳脚跟的根基。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中华优秀传统文化？",
+        "a": "是中华民族的精神命脉，是中华民族得以延续的文化基因，也是我们在世界文化激 荡中站稳脚跟的根基。"
+      }
+    },
+    {
+      "id": 43,
+      "gid": 615,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "社会主义核心价值观在国家层面的内容是富强、民主、文明、和谐，在社会层面的内容是自由、平等、 公正、法治，在公民层面的内容是爱国、敬业、诚信、友善。",
+      "keywords": [
+        "价值",
+        "核心价值观在国家层面",
+        "法治",
+        "社会主义核心价值观"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "社会主义核心价值观在国家层面的内容？",
+        "a": "是富强、民主、文明、和谐，在社会层面的内容是自由、平等、 公正、法治，在公民层面的内容是爱国、敬业、诚信、友善。"
+      }
+    },
+    {
+      "id": 44,
+      "gid": 616,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "社会主义核心价值观回答了要建设什么样的国家、建设什么样的社会和培育什么样的公民的问题。",
+      "keywords": [
+        "价值",
+        "核心价值观回答了要建",
+        "社会主义核心价值观"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 45,
+      "gid": 617,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "富强是促进社会进步、人的自由全面发展的物质基础，体现马克思主义唯物史观生产力标准的根本要 求。",
+      "keywords": [
+        "基础",
+        "根本要",
+        "生产力"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 46,
+      "gid": 618,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "民主指社会主义民主，是人民当家作主，不是由别人或少数人作主；社会主义核心价值观倡导的民主 是最广泛的民主。",
+      "keywords": [
+        "价值",
+        "最广泛的民主",
+        "核心价值观倡导的民主",
+        "社会主义核心价值观"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "民主指社会主义民主？",
+        "a": "是人民当家作主，不是由别人或少数人作主；社会主义核心价值观倡导的民主 是最广泛的民主。"
+      }
+    },
+    {
+      "id": 47,
+      "gid": 619,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "文明是社会进步的重要标志，也是社会主义现代化国家的重要特征。",
+      "keywords": [
+        "标志"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "文明是社会进步的重要标志，也？",
+        "a": "是社会主义现代化国家的重要特征。"
+      }
+    },
+    {
+      "id": 48,
+      "gid": 620,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "和谐是中华文明的核心价值理念。",
+      "keywords": [
+        "价值",
+        "核心价值理念"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 49,
+      "gid": 621,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "自由是社会活力之源和社会主义的价值理想。",
+      "keywords": [
+        "价值"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 50,
+      "gid": 622,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "平等是人类追求的美好状态。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 51,
+      "gid": 623,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "公正是人类社会进步的标尺，是社会主义制度的本质要求。",
+      "keywords": [
+        "本质要求"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "公正是人类社会进步的标尺？",
+        "a": "是社会主义制度的本质要求。"
+      }
+    },
+    {
+      "id": 52,
+      "gid": 624,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "法治是人类政治文明的重要成果和现代社会的主要特征。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 53,
+      "gid": 625,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "爱国是最深沉、最持久的情感，是每个公民应遵循的最基本的价值观念和道德准则，也是中华民族的 优良传统。",
+      "keywords": [
+        "价值",
+        "最基本的价值观",
+        "最持久的情感",
+        "最深沉",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "爱国是最深沉、最持久的情感？",
+        "a": "是每个公民应遵循的最基本的价值观念和道德准则，也是中华民族的 优良传统。"
+      }
+    },
+    {
+      "id": 54,
+      "gid": 626,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "敬业是对待生产劳动和人类生存的一种根本价值态度。",
+      "keywords": [
+        "价值",
+        "劳动",
+        "根本价值态度"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 55,
+      "gid": 627,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "诚信是个人立身处世的基本价值规范，是社会存续发展的重要价值基石。",
+      "keywords": [
+        "价值"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "诚信是个人立身处世的基本价值规范？",
+        "a": "是社会存续发展的重要价值基石。"
+      }
+    },
+    {
+      "id": 56,
+      "gid": 628,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "友善是维系良好人际关系和社会关系的基本准则。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 57,
+      "gid": 629,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "核心价值观是一个民族赖以维系的精神纽带，是一个国家共同的思想道德基础和重要稳定器。",
+      "keywords": [
+        "价值",
+        "基础和重要稳定器",
+        "核心价值观是一个民族",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "核心价值观？",
+        "a": "是一个民族赖以维系的精神纽带，是一个国家共同的思想道德基础和重要稳定器。"
+      }
+    },
+    {
+      "id": 58,
+      "gid": 630,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "社会主义核心价值观是坚持和发展中国特色社会主义的价值遵循，是提高国家文化软实力的迫切要求， 是推进社会团结奋进的最大公约数。",
+      "keywords": [
+        "价值",
+        "最大公约数",
+        "核心价值观是坚持和发",
+        "社会主义核心价值观"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "社会主义核心价值观？",
+        "a": "是坚持和发展中国特色社会主义的价值遵循，是提高国家文化软实力的迫切要求， 是推进社会团结奋进的最大公约数。"
+      }
+    },
+    {
+      "id": 59,
+      "gid": 631,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "社会主义核心价值观历史底蕴的集中体现是中华优秀传统文化。",
+      "keywords": [
+        "价值",
+        "核心价值观历史底蕴的",
+        "社会主义核心价值观"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会主义核心价值观历史底蕴的集中体现？",
+        "a": "是中华优秀传统文化。"
+      }
+    },
+    {
+      "id": 60,
+      "gid": 632,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第四章明确价值要求践行价值准则",
+      "content": "社会主义核心价值观鲜明的价值立场和根本特性是人民至上。",
+      "keywords": [
+        "价值",
+        "核心价值观鲜明的价值",
+        "根本特性是人民至上",
+        "社会主义核心价值观"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 61,
+      "gid": 633,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "劳动是道德起源的首要前提，是道德起源的第一个历史前提；社会关系是道德赖以产生的客观条件， 人的自我意识是道德产生的思想认识前提。",
+      "keywords": [
+        "前提",
+        "劳动",
+        "第一个历史前提",
+        "认识",
+        "道德",
+        "首要前提"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "劳动是道德起源的首要前提？",
+        "a": "是道德起源的第一个历史前提；社会关系是道德赖以产生的客观条件， 人的自我意识是道德产生的思想认识前提。"
+      }
+    },
+    {
+      "id": 62,
+      "gid": 634,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "道德是反映社会经济关系的特殊意识形态，是社会利益关系的特殊调节方式，也是一种实践精神，在 本质上是知行合一的。",
+      "keywords": [
+        "实践",
+        "本质上是知行合一的",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "道德是反映社会经济关系的特殊意识形态？",
+        "a": "是社会利益关系的特殊调节方式，也是一种实践精神，在 本质上是知行合一的。"
+      }
+    },
+    {
+      "id": 63,
+      "gid": 635,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "道德与法律规范、政治规范的不同之处在于，道德用善恶标准评价，依靠社会舆论、传统习俗和内心 信念维持，是一种非强制性的规范；法律靠国家强制力，是一种强制性的规范。",
+      "keywords": [
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "道德与法律规范、政治规范的不同之处？",
+        "a": "在于，道德用善恶标准评价，依靠社会舆论、传统习俗和内心 信念维持，是一种非强制性的规范；法律靠国家强制力，是一种强制性的规范。"
+      }
+    },
+    {
+      "id": 64,
+      "gid": 636,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "认识功能、规范功能和调节功能是道德最基本的功能，道德评价是道德调节的主要形式。",
+      "keywords": [
+        "最基本的功能",
+        "认识",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "认识功能、规范功能和调节功能？",
+        "a": "是道德最基本的功能，道德评价是道德调节的主要形式。"
+      }
+    },
+    {
+      "id": 65,
+      "gid": 637,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "革命道德是中国优良传统道德的延续和发展，是超越了中华传统美德的时代局限而形成的一种崭新的 道德。",
+      "keywords": [
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "革命道德？",
+        "a": "是中国优良传统道德的延续和发展，是超越了中华传统美德的时代局限而形成的一种崭新的 道德。"
+      }
+    },
+    {
+      "id": 66,
+      "gid": 638,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "全心全意为人民服务是贯穿中国革命道德始终的一根红线。",
+      "keywords": [
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "全心全意为人民服务？",
+        "a": "是贯穿中国革命道德始终的一根红线。"
+      }
+    },
+    {
+      "id": 67,
+      "gid": 639,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "坚持社会主义和共产主义理想信念是革命道德的灵魂。",
+      "keywords": [
+        "理想信念",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "坚持社会主义和共产主义理想信念？",
+        "a": "是革命道德的灵魂。"
+      }
+    },
+    {
+      "id": 68,
+      "gid": 640,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "为人民服务是社会主义道德区别和优越于其他社会形态道德的显著标志。",
+      "keywords": [
+        "标志",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "为人民服务？",
+        "a": "是社会主义道德区别和优越于其他社会形态道德的显著标志。"
+      }
+    },
+    {
+      "id": 69,
+      "gid": 641,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "集体主义已经成为调节国家利益、社会整体利益和个人利益关系的基本原则。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 70,
+      "gid": 642,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "有序的公共生活是社会生产活动的重要基础，是提高社会成员生活质量的基本保障，更是社会文明的 重要标志。",
+      "keywords": [
+        "基础",
+        "标志"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "有序的公共生活？",
+        "a": "是社会生产活动的重要基础，是提高社会成员生活质量的基本保障，更是社会文明的 重要标志。"
+      }
+    },
+    {
+      "id": 71,
+      "gid": 643,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "社会公德是维护公共利益、公共秩序和社会和谐稳定的起码道德要求，涵盖人与人、人与社会、人与 自然的关系，基本内容是文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法。",
+      "keywords": [
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会公德？",
+        "a": "是维护公共利益、公共秩序和社会和谐稳定的起码道德要求，涵盖人与人、人与社会、人与 自然的关系，基本内容是文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法。"
+      }
+    },
+    {
+      "id": 72,
+      "gid": 644,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "职业道德的基本内容是爱岗敬业、诚实守信、办事公道、热情服务和奉献社会。",
+      "keywords": [
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "职业道德的基本内容？",
+        "a": "是爱岗敬业、诚实守信、办事公道、热情服务和奉献社会。"
+      }
+    },
+    {
+      "id": 73,
+      "gid": 645,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "家庭是社会的基本细胞，是人生的第一所学校、人生的第一个课堂和道德养成的起点。",
+      "keywords": [
+        "第一个课堂和道德养成",
+        "第一所学校",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "家庭是社会的基本细胞？",
+        "a": "是人生的第一所学校、人生的第一个课堂和道德养成的起点。"
+      }
+    },
+    {
+      "id": 74,
+      "gid": 646,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "良好家风对家庭成员的个人修养和社会道德风尚的形成产生重要影响。",
+      "keywords": [
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 75,
+      "gid": 647,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "个人品德在社会道德建设中具有基础性作用。",
+      "keywords": [
+        "基础性作用",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 76,
+      "gid": 648,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "为人民服务是社会主义道德的本质要求，是社会主义经济基础和人际关系的客观要求，也是社会主义 市场经济健康发展的要求，体现先进性与广泛性要求的统一。",
+      "keywords": [
+        "基础和人际关系的客观",
+        "市场经济",
+        "本质要求",
+        "经济基础",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "为人民服务？",
+        "a": "是社会主义道德的本质要求，是社会主义经济基础和人际关系的客观要求，也是社会主义 市场经济健康发展的要求，体现先进性与广泛性要求的统一。"
+      }
+    },
+    {
+      "id": 77,
+      "gid": 649,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "集体主义强调国家利益、社会整体利益和个人利益的辩证统一，国家利益和社会整体利益体现个人根 本、长远利益，是所有社会成员共同利益的统一。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 78,
+      "gid": 650,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "集体主义强调国家利益和社会整体利益高于个人利益，只有必要时才作出牺牲。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 79,
+      "gid": 651,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "集体主义重视和保障个人正当利益，不保护损人利己、损公肥私的行为，而且强烈反对和禁止。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 80,
+      "gid": 652,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "集体主义的最高层次要求是无私奉献、一心为公，这是优秀共产党员和先进分子努力达到的道德目标。",
+      "keywords": [
+        "最高层次要求是",
+        "道德"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "集体主义的最高层次要求？",
+        "a": "是无私奉献、一心为公，这是优秀共产党员和先进分子努力达到的道德目标。"
+      }
+    },
+    {
+      "id": 81,
+      "gid": 653,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "公民最基本的道德要求是顾全大局、遵纪守法、热爱祖国、诚实劳动。",
+      "keywords": [
+        "劳动",
+        "最基本的道德要",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "公民最基本的道德要求？",
+        "a": "是顾全大局、遵纪守法、热爱祖国、诚实劳动。"
+      }
+    },
+    {
+      "id": 82,
+      "gid": 654,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "“公义胜利欲”是中华传统美德的根本要求，义利之辨的核心和本质是公私之辨。",
+      "keywords": [
+        "本质是公私之辨",
+        "核心和本质是公私之辨",
+        "根本要求"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "“公义胜利欲”？",
+        "a": "是中华传统美德的根本要求，义利之辨的核心和本质是公私之辨。"
+      }
+    },
+    {
+      "id": 83,
+      "gid": 655,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "文明礼貌是协调和规范人际关系的行为准则。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "文明礼貌？",
+        "a": "是协调和规范人际关系的行为准则。"
+      }
+    },
+    {
+      "id": 84,
+      "gid": 656,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "爱护公物显示出个人的道德修养水平，也是社会文明水平的重要标志。",
+      "keywords": [
+        "标志",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "爱护公物显示出个人的道德修养水平，也？",
+        "a": "是社会文明水平的重要标志。"
+      }
+    },
+    {
+      "id": 85,
+      "gid": 657,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "遵纪守法是全体公民都必须遵循的基本行为准则，是维护公共生活秩序的重要条件。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "遵纪守法？",
+        "a": "是全体公民都必须遵循的基本行为准则，是维护公共生活秩序的重要条件。"
+      }
+    },
+    {
+      "id": 86,
+      "gid": 658,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "在道德认知向道德行为转化的过程中，道德意志和道德信念是关键环节。",
+      "keywords": [
+        "关键环节",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 87,
+      "gid": 659,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第五章遵守道德规范锤炼道德品格",
+      "content": "志愿服务的精神是奉献、友爱、互助、进步，其中，奉献是精髓。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "志愿服务的精神？",
+        "a": "是奉献、友爱、互助、进步，其中，奉献是精髓。"
+      }
+    },
+    {
+      "id": 88,
+      "gid": 660,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律是由国家创制和实施的行为规范，由国家强制力保证实施，这一点使其区别于其他社会规范。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 89,
+      "gid": 661,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律由一定的社会物质生活条件决定，物质资料生产方式是根本因素。",
+      "keywords": [
+        "根本因素"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 90,
+      "gid": 662,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律是统治阶级意志的体现，表现为整体意志，上升为国家意志。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 91,
+      "gid": 663,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "我国社会主义法律体现党的主张和人民意志的统一，具有科学性和先进性，是中国特色社会主义建设 的重要保障。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 92,
+      "gid": 664,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律运行包括法律制定、法律执行、法律适用和法律遵守。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "法律运行？",
+        "a": "包括法律制定、法律执行、法律适用和法律遵守。"
+      }
+    },
+    {
+      "id": 93,
+      "gid": 665,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律制定是法律运行的起始性和关键性环节。",
+      "keywords": [
+        "关键性环节"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "法律制定？",
+        "a": "是法律运行的起始性和关键性环节。"
+      }
+    },
+    {
+      "id": 94,
+      "gid": 666,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "行政执法是法律实施和实现的重要环节。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "行政执法？",
+        "a": "是法律实施和实现的重要环节。"
+      }
+    },
+    {
+      "id": 95,
+      "gid": 667,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "守法是法律实施和实现的基本途径。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 96,
+      "gid": 668,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "全面依法治国的宏伟目标是建设法治中国，总抓手是建设中国特色社会主义法治体系。",
+      "keywords": [
+        "全面依法治国",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "全面依法治国的宏伟目标？",
+        "a": "是建设法治中国，总抓手是建设中国特色社会主义法治体系。"
+      }
+    },
+    {
+      "id": 97,
+      "gid": 669,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "完备的法律规范体系是中国特色社会主义法治体系的前提，是法治国家、法治政府、法治社会的制度 基础。",
+      "keywords": [
+        "前提",
+        "基础",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "完备的法律规范体系？",
+        "a": "是中国特色社会主义法治体系的前提，是法治国家、法治政府、法治社会的制度 基础。"
+      }
+    },
+    {
+      "id": 98,
+      "gid": 670,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "高效的法治实施体系是建设中国特色社会主义法治体系的重点。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "高效的法治实施体系？",
+        "a": "是建设中国特色社会主义法治体系的重点。"
+      }
+    },
+    {
+      "id": 99,
+      "gid": 671,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "严密的法治监督体系是宪法法律有效实施的重要保障，也是加强权力运行制约监督的迫切要求。",
+      "keywords": [
+        "宪法",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "严密的法治监督体系？",
+        "a": "是宪法法律有效实施的重要保障，也是加强权力运行制约监督的迫切要求。"
+      }
+    },
+    {
+      "id": 100,
+      "gid": 672,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "有力的法治保障体系是全面依法治国的重要依托。",
+      "keywords": [
+        "全面依法治国",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "有力的法治保障体系？",
+        "a": "是全面依法治国的重要依托。"
+      }
+    },
+    {
+      "id": 101,
+      "gid": 673,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "完善的党内法规体系是中国特色社会主义法治体系的本质要求和重要内容。",
+      "keywords": [
+        "本质要求和重要内容",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "完善的党内法规体系？",
+        "a": "是中国特色社会主义法治体系的本质要求和重要内容。"
+      }
+    },
+    {
+      "id": 102,
+      "gid": 674,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "全面依法治国要推进科学立法、严格执法、公正司法、全民守法。",
+      "keywords": [
+        "全面依法治国",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 103,
+      "gid": 675,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "科学立法是全面依法治国的前提，法律是治国之重器，立法是法治的龙头环节。",
+      "keywords": [
+        "全面依法治国",
+        "前提",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "科学立法？",
+        "a": "是全面依法治国的前提，法律是治国之重器，立法是法治的龙头环节。"
+      }
+    },
+    {
+      "id": 104,
+      "gid": 676,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "严格执法是全面依法治国的关键。",
+      "keywords": [
+        "全面依法治国",
+        "关键",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "严格执法？",
+        "a": "是全面依法治国的关键。"
+      }
+    },
+    {
+      "id": 105,
+      "gid": 677,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "公正司法是全面依法治国的重点，公正是法治的生命线和司法活动最高价值追求，公正司法是维护社 会公平正义的最后一道防线。",
+      "keywords": [
+        "价值",
+        "全面依法治国",
+        "最后一道防线",
+        "最高价值追求",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "公正司法？",
+        "a": "是全面依法治国的重点，公正是法治的生命线和司法活动最高价值追求，公正司法是维护社 会公平正义的最后一道防线。"
+      }
+    },
+    {
+      "id": 106,
+      "gid": 678,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "全民守法是全面依法治国的基础，全民守法是法治社会的基础工程。",
+      "keywords": [
+        "全面依法治国",
+        "基础",
+        "基础工程",
+        "法治"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "全民守法？",
+        "a": "是全面依法治国的基础，全民守法是法治社会的基础工程。"
+      }
+    },
+    {
+      "id": 107,
+      "gid": 679,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "我国宪法至上地位表现为是国家的根本法、拥有统帅核心地位、最高的法律地位、法律权威和法律效 力。",
+      "keywords": [
+        "宪法",
+        "最高的法律地位",
+        "核心地位",
+        "根本法"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "我国宪法至上地位表现为？",
+        "a": "是国家的根本法、拥有统帅核心地位、最高的法律地位、法律权威和法律效 力。"
+      }
+    },
+    {
+      "id": 108,
+      "gid": 680,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "我国宪法的基本原则是党的领导、人民当家作主、尊重和保障人权、社会主义法治、民主集中制。",
+      "keywords": [
+        "宪法",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "我国宪法的基本原则？",
+        "a": "是党的领导、人民当家作主、尊重和保障人权、社会主义法治、民主集中制。"
+      }
+    },
+    {
+      "id": 109,
+      "gid": 681,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法治思维的基本内容包括法律至上、权力制约、公平正义、权利保障和程序正当。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "法治思维的基本内容？",
+        "a": "包括法律至上、权力制约、公平正义、权利保障和程序正当。"
+      }
+    },
+    {
+      "id": 110,
+      "gid": 682,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律至上要求普遍适用、优先适用、不可违反。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 111,
+      "gid": 683,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "权力制约要求权力由法定、有权必有责、用权受监督、违法受追究。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 112,
+      "gid": 684,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "公平正义包括权利公平、机会公平、规则公平和救济公平。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "公平正义？",
+        "a": "包括权利公平、机会公平、规则公平和救济公平。"
+      }
+    },
+    {
+      "id": 113,
+      "gid": 685,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "权利保障包括宪法保障这一前提和基础、立法保障、行政保障和司法保障这一最后防线。",
+      "keywords": [
+        "前提和基础",
+        "基础",
+        "宪法",
+        "最后防线"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "权利保障？",
+        "a": "包括宪法保障这一前提和基础、立法保障、行政保障和司法保障这一最后防线。"
+      }
+    },
+    {
+      "id": 114,
+      "gid": 686,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "程序正当要求程序具有合法性、中立性、参与性、公开性和时限性。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 115,
+      "gid": 687,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法治素养包括尊重法律权威、学习掌握法律知识、养成守法习惯和提高用法能力。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "法治素养？",
+        "a": "包括尊重法律权威、学习掌握法律知识、养成守法习惯和提高用法能力。"
+      }
+    },
+    {
+      "id": 116,
+      "gid": 688,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律制定是国家对权利和义务，即社会利益和负担进行的权威性分配。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "法律制定？",
+        "a": "是国家对权利和义务，即社会利益和负担进行的权威性分配。"
+      }
+    },
+    {
+      "id": 117,
+      "gid": 689,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律的执行、适用和遵守，是把法律规范转化为法律实践，把法定权利义务转化为现实权利义务。",
+      "keywords": [
+        "实践"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "法律的执行、适用和遵守？",
+        "a": "是把法律规范转化为法律实践，把法定权利义务转化为现实权利义务。"
+      }
+    },
+    {
+      "id": 118,
+      "gid": 690,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "中国特色社会主义法治道路的核心要义是坚持党的领导、坚持中国特色社会主义制度、贯彻中国特色 社会主义法治理论。",
+      "keywords": [
+        "核心要义是坚持党的领",
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国特色社会主义法治道路的核心要义？",
+        "a": "是坚持党的领导、坚持中国特色社会主义制度、贯彻中国特色 社会主义法治理论。"
+      }
+    },
+    {
+      "id": 119,
+      "gid": 691,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "党的领导是中国特色社会主义最本质的特征，是中国特色社会主义法治之魂，是我国法治同西方资本 主义国家法治的最大区别，是社会主义法治最根本的保证。",
+      "keywords": [
+        "最大区别",
+        "最本质的特征",
+        "最根本的保证",
+        "本质的特征",
+        "根本的保证",
+        "法治",
+        "资本"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "党的领导？",
+        "a": "是中国特色社会主义最本质的特征，是中国特色社会主义法治之魂，是我国法治同西方资本 主义国家法治的最大区别，是社会主义法治最根本的保证。"
+      }
+    },
+    {
+      "id": 120,
+      "gid": 692,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "平等是社会主义法律的基本属性，是社会主义法治的基本要求。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "平等是社会主义法律的基本属性？",
+        "a": "是社会主义法治的基本要求。"
+      }
+    },
+    {
+      "id": 121,
+      "gid": 693,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "中国特色社会主义法治道路的一个鲜明特点是坚持依法治国和以德治国相结合。",
+      "keywords": [
+        "法治"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "中国特色社会主义法治道路的一个鲜明特点？",
+        "a": "是坚持依法治国和以德治国相结合。"
+      }
+    },
+    {
+      "id": 122,
+      "gid": 694,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "宪法是实现国家认同、凝聚社会共识、促进个人发展的基本准则，是维系一个国家、一个民族凝聚力 的根本纽带。",
+      "keywords": [
+        "宪法",
+        "根本纽带"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "宪法是实现国家认同、凝聚社会共识、促进个人发展的基本准则？",
+        "a": "是维系一个国家、一个民族凝聚力 的根本纽带。"
+      }
+    },
+    {
+      "id": 123,
+      "gid": 695,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "强调社会物质生活条件对权利的制约和决定作用，是马克思主义权利观与其他权利观的根本区别。",
+      "keywords": [
+        "根本区别"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "强调社会物质生活条件对权利的制约和决定作用？",
+        "a": "是马克思主义权利观与其他权利观的根本区别。"
+      }
+    },
+    {
+      "id": 124,
+      "gid": 696,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律权利的内容、种类和实现程度受社会物质生活条件制约，其内容、分配和实现方式因社会制度和 国家法律不同而存在差异。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 125,
+      "gid": 697,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律权利由法律规定或认可并受法律维护或保障，具有不可侵犯性；由国家强制力保障实现，是法律 权利区别于其他权利的根本所在。",
+      "keywords": [
+        "根本所在"
+      ],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 126,
+      "gid": 698,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律权利必须依法行使，不能不择手段地行使。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 127,
+      "gid": 699,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律义务具有历史性、源于现实需要、必须依法设定和可能发生变化的特点。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    },
+    {
+      "id": 128,
+      "gid": 700,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "政治权利包括选举权、表达权、民主管理权、监督权；表达权对国家政治、经济、文化、科技和道德 发展具有基础性作用。",
+      "keywords": [
+        "基础性作用",
+        "道德"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "政治权利？",
+        "a": "包括选举权、表达权、民主管理权、监督权；表达权对国家政治、经济、文化、科技和道德 发展具有基础性作用。"
+      }
+    },
+    {
+      "id": 129,
+      "gid": 701,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "生命权是人最基本、最原始的权利，具有神圣性与不可转让性，不可非法剥夺；享有生命权是人享有 其他各项权利的前提。",
+      "keywords": [
+        "前提",
+        "最原始的权利",
+        "最基本"
+      ],
+      "easy_confuse": true,
+      "mnemonic": null
+    },
+    {
+      "id": 130,
+      "gid": 702,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "人格尊严集中表现为人的自尊心和自爱心，其基本内容包括姓名权、肖像权、名誉权、荣誉权和隐私 权。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "人格尊严集中表现为人的自尊心和自爱心，其基本内容？",
+        "a": "包括姓名权、肖像权、名誉权、荣誉权和隐私 权。"
+      }
+    },
+    {
+      "id": 131,
+      "gid": 703,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "社会经济权利包括劳动权、休息权、社会保障权、物质帮助权。",
+      "keywords": [
+        "劳动"
+      ],
+      "easy_confuse": false,
+      "mnemonic": {
+        "q": "社会经济权利？",
+        "a": "包括劳动权、休息权、社会保障权、物质帮助权。"
+      }
+    },
+    {
+      "id": 132,
+      "gid": 704,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "劳动权是公民赖以生存的基础，是行使其他权利的物质保障；休息权是劳动权存在和发展的基础。",
+      "keywords": [
+        "劳动",
+        "基础"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "劳动权是公民赖以生存的基础？",
+        "a": "是行使其他权利的物质保障；休息权是劳动权存在和发展的基础。"
+      }
+    },
+    {
+      "id": 133,
+      "gid": 705,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "维护国家统一是整个社会共同体存在和发展的基础，也是以宪法为核心的整个法律制度存在的基础； 国家统一也是公民实现法律权利与自由的前提。",
+      "keywords": [
+        "前提",
+        "基础",
+        "宪法",
+        "核心的整个法律制度存"
+      ],
+      "easy_confuse": true,
+      "mnemonic": {
+        "q": "维护国家统一？",
+        "a": "是整个社会共同体存在和发展的基础，也是以宪法为核心的整个法律制度存在的基础； 国家统一也是公民实现法律权利与自由的前提。"
+      }
+    },
+    {
+      "id": 134,
+      "gid": 706,
+      "subject": "思修法基",
+      "subject_full": "思想道德与法治",
+      "chapter": "第六章学习法治思想提升法治素养",
+      "content": "法律的权威源自人民的内心拥护和真诚信仰，人民权益要靠法律保障，法律权威要靠人民维护。",
+      "keywords": [],
+      "easy_confuse": false,
+      "mnemonic": null
+    }
+  ],
+  "meetings": [
+    {
+      "name": "中共一大",
+      "year": 1921,
+      "location": "上海/嘉兴南湖",
+      "significance": "确定党的名称为中国共产党，党的纲领是以无产阶级革命军队推翻资产阶级，消灭阶级差别，实现无产阶级专政。",
+      "key_points": [
+        "建党",
+        "陈独秀为中央局书记",
+        "中国革命的面目焕然一新"
+      ],
+      "easy_confuse": false
+    },
+    {
+      "name": "中共二大",
+      "year": 1922,
+      "location": "上海",
+      "significance": "第一次提出反帝反封建的民主革命纲领（最低纲领），最高纲领是实现社会主义、共产主义。",
+      "key_points": [
+        "第一次提出彻底的反帝反封建民主革命纲领",
+        "最高纲领/最低纲领"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共三大",
+      "year": 1923,
+      "location": "广州",
+      "significance": "正式决定全体共产党员以个人名义加入国民党，同孙中山领导的国民党建立统一战线。",
+      "key_points": [
+        "国共合作",
+        "党内合作"
+      ],
+      "easy_confuse": false
+    },
+    {
+      "name": "国民党一大",
+      "year": 1924,
+      "location": "广州",
+      "significance": "重新解释三民主义，确立联俄、联共、扶助农工三大政策，标志着第一次国共合作正式形成。",
+      "key_points": [
+        "第一次国共合作正式形成",
+        "新三民主义",
+        "三大政策"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "八七会议",
+      "year": 1927,
+      "location": "汉口",
+      "significance": "彻底清算了大革命后期陈独秀右倾机会主义错误，确定了土地革命和武装反抗国民党反动统治的总方针。毛泽东提出\"枪杆子里面出政权\"。",
+      "key_points": [
+        "土地革命和武装反抗国民党的总方针",
+        "枪杆子里面出政权",
+        "由大革命失败到土地革命战争兴起的历史性转变"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "古田会议",
+      "year": 1929,
+      "location": "福建古田",
+      "significance": "确立了思想建党、政治建军的原则，规定红军是一个执行革命的政治任务的武装集团。",
+      "key_points": [
+        "思想建党、政治建军",
+        "新型人民军队建设的纲领性文献"
+      ],
+      "easy_confuse": false
+    },
+    {
+      "name": "遵义会议",
+      "year": 1935,
+      "location": "贵州遵义",
+      "significance": "集中解决了当时具有决定意义的军事问题和组织问题。确立了毛泽东在党和红军中的领导地位。是党的历史上一个生死攸关的转折点，标志着中国共产党在政治上走向成熟。",
+      "key_points": [
+        "生死攸关的转折点",
+        "确立毛泽东领导地位",
+        "党从幼年走向成熟",
+        "解决军事和组织问题（非政治/思想路线问题）"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "瓦窑堡会议",
+      "year": 1935,
+      "location": "陕北瓦窑堡",
+      "significance": "提出了建立抗日民族统一战线的方针，批判了党内长期存在的\"左\"倾关门主义错误。",
+      "key_points": [
+        "抗日民族统一战线",
+        "批判左倾关门主义"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "洛川会议",
+      "year": 1937,
+      "location": "陕北洛川",
+      "significance": "制定了抗日救国十大纲领，强调要打倒日本帝国主义，关键在于使已经发动的抗战成为全面的全民族的抗战。",
+      "key_points": [
+        "全面抗战路线",
+        "抗日救国十大纲领"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共六届六中全会",
+      "year": 1938,
+      "location": "延安",
+      "significance": "毛泽东在会上作《论新阶段》报告，首次提出\"马克思主义中国化\"命题。",
+      "key_points": [
+        "首次提出马克思主义中国化",
+        "《论新阶段》"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共七大",
+      "year": 1945,
+      "location": "延安",
+      "significance": "将毛泽东思想确立为党的指导思想并写入党章。确立党的三大优良作风：理论联系实际、密切联系群众、批评与自我批评。",
+      "key_points": [
+        "毛泽东思想确立为党的指导思想",
+        "三大优良作风",
+        "《论联合政府》"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "七届二中全会",
+      "year": 1949,
+      "location": "西柏坡",
+      "significance": "提出党的工作重心必须由乡村转移到城市。提出\"两个务必\"：务必使同志们继续地保持谦虚、谨慎、不骄、不躁的作风，务必使同志们继续地保持艰苦奋斗的作风。",
+      "key_points": [
+        "工作重心由乡村转移到城市",
+        "两个务必",
+        "西柏坡"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共八大",
+      "year": 1956,
+      "location": "北京",
+      "significance": "正确分析了社会主义改造完成后中国社会的主要矛盾：人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的状况之间的矛盾。提出党和人民的主要任务是集中力量发展社会生产力。",
+      "key_points": [
+        "主要矛盾的正确判断",
+        "集中力量发展社会生产力",
+        "经济建设方针"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "十一届三中全会",
+      "year": 1978,
+      "location": "北京",
+      "significance": "彻底否定\"两个凡是\"，重新确立了解放思想、实事求是的思想路线，作出了把工作重点转移到社会主义现代化建设上来和实行改革开放的战略决策。是新中国成立以来党的历史上具有深远意义的伟大转折。",
+      "key_points": [
+        "改革开放开端",
+        "重新确立实事求是思想路线",
+        "伟大转折",
+        "形成以邓小平为核心的党的第二代中央领导集体"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "十一届六中全会",
+      "year": 1981,
+      "location": "北京",
+      "significance": "通过《关于建国以来党的若干历史问题的决议》，科学评价了毛泽东和毛泽东思想的历史地位。",
+      "key_points": [
+        "历史决议",
+        "科学评价毛泽东"
+      ],
+      "easy_confuse": false
+    },
+    {
+      "name": "中共十二大",
+      "year": 1982,
+      "location": "北京",
+      "significance": "邓小平在开幕词中提出\"把马克思主义的普遍真理同我国的具体实际结合起来，走自己的道路，建设有中国特色的社会主义\"。",
+      "key_points": [
+        "建设有中国特色的社会主义命题首次提出"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共十三大",
+      "year": 1987,
+      "location": "北京",
+      "significance": "系统阐述了社会主义初级阶段理论，完整概括了党的基本路线（一个中心、两个基本点）。制定了\"三步走\"发展战略。",
+      "key_points": [
+        "社会主义初级阶段理论",
+        "基本路线：一个中心两个基本点",
+        "三步走战略"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "邓小平南方谈话",
+      "year": 1992,
+      "location": "武昌/深圳/珠海/上海",
+      "significance": "明确计划多一点还是市场多一点，不是社会主义与资本主义的本质区别。社会主义的本质是解放生产力，发展生产力，消灭剥削，消除两极分化，最终达到共同富裕。提出\"三个有利于\"标准。",
+      "key_points": [
+        "社会主义本质论",
+        "三个有利于",
+        "发展才是硬道理",
+        "计划和市场都是经济手段"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共十四大",
+      "year": 1992,
+      "location": "北京",
+      "significance": "明确建立社会主义市场经济体制的改革目标。",
+      "key_points": [
+        "社会主义市场经济体制目标"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共十五大",
+      "year": 1997,
+      "location": "北京",
+      "significance": "正式使用\"邓小平理论\"概念并确立为党的指导思想。提出党在社会主义初级阶段的基本纲领。",
+      "key_points": [
+        "邓小平理论确立为指导思想",
+        "基本纲领"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共十六大",
+      "year": 2002,
+      "location": "北京",
+      "significance": "把\"三个代表\"重要思想确立为党必须长期坚持的指导思想并写入党章。",
+      "key_points": [
+        "三个代表重要思想确立为指导思想"
+      ],
+      "easy_confuse": false
+    },
+    {
+      "name": "中共十七大",
+      "year": 2007,
+      "location": "北京",
+      "significance": "提出科学发展观。概括中国特色社会主义道路理论体系。",
+      "key_points": [
+        "科学发展观提出"
+      ],
+      "easy_confuse": false
+    },
+    {
+      "name": "中共十八大",
+      "year": 2012,
+      "location": "北京",
+      "significance": "把科学发展观确立为党的指导思想。提出全面建成小康社会。",
+      "key_points": [
+        "科学发展观确立为指导思想",
+        "全面建成小康社会"
+      ],
+      "easy_confuse": false
+    },
+    {
+      "name": "中共十九大",
+      "year": 2017,
+      "location": "北京",
+      "significance": "把习近平新时代中国特色社会主义思想确立为党必须长期坚持的指导思想并写入党章。指出中国特色社会主义进入了新时代，我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。",
+      "key_points": [
+        "习近平新时代中国特色社会主义思想确立为指导思想",
+        "社会主要矛盾新表述",
+        "新时代"
+      ],
+      "easy_confuse": true
+    },
+    {
+      "name": "中共二十大",
+      "year": 2022,
+      "location": "北京",
+      "significance": "提出以中国式现代化全面推进中华民族伟大复兴的使命任务。阐述中国式现代化的中国特色、本质要求和重大原则。",
+      "key_points": [
+        "中国式现代化",
+        "全面推进中华民族伟大复兴",
+        "两个确立"
+      ],
+      "easy_confuse": true
+    }
+  ],
+  "documents": [
+    {
+      "name": "《天朝田亩制度》",
+      "era": "太平天国",
+      "year": 1853,
+      "significance": "最能体现太平天国社会理想和这次农民起义特色的纲领性文件。确立了平均分配土地的方案，从根本上否定了封建社会的基础即封建地主的土地所有制。",
+      "easy_confuse": true
+    },
+    {
+      "name": "《资政新篇》",
+      "era": "太平天国",
+      "year": 1859,
+      "significance": "洪仁玕提出，是一个具有资本主义色彩的方案，是近代中国历史上第一个比较系统的发展资本主义的方案。但限于当时的历史条件，未能付诸实施。",
+      "easy_confuse": true
+    },
+    {
+      "name": "《中华民国临时约法》",
+      "era": "辛亥革命",
+      "year": 1912,
+      "significance": "中国历史上第一部具有资产阶级共和国宪法性质的法典。",
+      "easy_confuse": true
+    },
+    {
+      "name": "《我的马克思主义观》",
+      "era": "新文化运动",
+      "year": 1919,
+      "significance": "李大钊发表，系统介绍马克思主义理论，表明李大钊已经成为中国的第一个马克思主义者。",
+      "easy_confuse": false
+    },
+    {
+      "name": "《新民主主义论》",
+      "era": "延安时期",
+      "year": 1940,
+      "significance": "阐述新民主主义的政治、经济、文化，标志着毛泽东思想的成熟。",
+      "easy_confuse": true
+    },
+    {
+      "name": "《论联合政府》",
+      "era": "中共七大",
+      "year": 1945,
+      "significance": "毛泽东在中共七大上的报告，提出党的三大优良作风。",
+      "easy_confuse": false
+    },
+    {
+      "name": "《论人民民主专政》",
+      "era": "建国前夕",
+      "year": 1949,
+      "significance": "阐明了新中国的性质和各阶级在国家中的地位，为人民民主专政理论奠定了基础。",
+      "easy_confuse": false
+    },
+    {
+      "name": "《论十大关系》",
+      "era": "社会主义建设探索",
+      "year": 1956,
+      "significance": "标志着党探索中国自己的社会主义建设道路的良好开端。",
+      "easy_confuse": true
+    },
+    {
+      "name": "《关于正确处理人民内部矛盾的问题》",
+      "era": "社会主义建设探索",
+      "year": 1957,
+      "significance": "提出社会主义社会存在着敌我矛盾和人民内部矛盾两类不同性质的社会矛盾，正确处理人民内部矛盾是国家政治生活的主题。",
+      "easy_confuse": true
+    },
+    {
+      "name": "《解放思想，实事求是，团结一致向前看》",
+      "era": "改革开放",
+      "year": 1978,
+      "significance": "邓小平在中央工作会议上的讲话，是开辟新时期新道路、开创建设有中国特色社会主义新理论的宣言书。",
+      "easy_confuse": false
+    }
+  ],
+  "subjects": [
+    {
+      "code": "马原",
+      "name": "马克思主义基本原理",
+      "icon": "哲学",
+      "color": "#6366f1",
+      "desc": "马克思主义哲学、政治经济学、科学社会主义"
+    },
+    {
+      "code": "毛中特",
+      "name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "icon": "毛",
+      "color": "#ef4444",
+      "desc": "毛泽东思想、邓小平理论、三个代表、科学发展观"
+    },
+    {
+      "code": "新思想",
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "icon": "新",
+      "color": "#dc2626",
+      "desc": "新时代理论体系与治国方略"
+    },
+    {
+      "code": "史纲",
+      "name": "中国近现代史纲要",
+      "icon": "史",
+      "color": "#f59e0b",
+      "desc": "1840年以来中国革命、建设、改革历程"
+    },
+    {
+      "code": "思修法基",
+      "name": "思想道德与法治",
+      "icon": "德",
+      "color": "#10b981",
+      "desc": "理想信念、中国精神、社会主义核心价值观、道德与法治"
+    }
+  ]
+};
