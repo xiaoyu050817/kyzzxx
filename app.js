@@ -91,11 +91,12 @@
       `<span class="badge-kw" onclick="location.hash='#/keyword/${encodeURIComponent(k)}'">${esc(k)}</span>`
     ).join('');
     return `
-      <div class="point-item">
+      <div class="point-item${p.highlight ? ' point-highlight' : ''}">
         <div class="point-head">
           <span class="badge badge-subject" style="background:${subjectColor(p.subject)}22;color:${subjectColor(p.subject)}">${p.subject}</span>
           <span class="badge badge-chapter">${esc(p.chapter)}</span>
           ${p.easy_confuse ? '<span class="badge badge-confuse">⚠️ 易混</span>' : ''}
+          ${p.highlight ? '<span class="badge badge-highlight">🔥 重点</span>' : ''}
         </div>
         <div class="point-content">${content}</div>
         ${kws ? `<div style="margin-top:8px">${kws}</div>` : ''}
