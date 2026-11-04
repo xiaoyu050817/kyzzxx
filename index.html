@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考研政治学习系统 · 知识点题库与速记</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <button class="hamburger" id="menuBtn" aria-label="菜单">☰</button>
+    <h1 class="logo">📚 考研政治学习系统</h1>
+    <div class="search-box">
+      <input type="search" id="globalSearch" placeholder="搜索知识点、关键词、会议..." autocomplete="off">
+    </div>
+  </div>
+</header>
+
+<nav class="sidebar" id="sidebar">
+  <div class="nav-section">
+    <div class="nav-title">导航</div>
+    <a href="#/home" class="nav-item active" data-view="home">🏠 首页概览</a>
+    <a href="#/subjects" class="nav-item" data-view="subjects">📖 按科目学习</a>
+    <a href="#/keywords" class="nav-item" data-view="keywords">🏷️ 按关键词</a>
+    <a href="#/confuse" class="nav-item" data-view="confuse">⚠️ 易错易混点</a>
+    <a href="#/meetings" class="nav-item" data-view="meetings">🏛️ 会议与文件</a>
+    <a href="#/flashcard" class="nav-item" data-view="flashcard">⚡ 速记卡片</a>
+    <a href="#/quiz" class="nav-item" data-view="quiz">✍️ 刷题模式</a>
+  </div>
+  <div class="nav-section">
+    <div class="nav-title">科目快捷</div>
+    <div id="subjectShortcuts"></div>
+  </div>
+  <div class="sidebar-footer">
+    <div class="stat-mini" id="statMini"></div>
+  </div>
+</nav>
+<div class="overlay" id="overlay"></div>
+
+<main class="main" id="main">
+  <!-- Views injected here -->
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
